@@ -1,0 +1,23 @@
+{
+  "slug": "stonfi",
+  "name": "STON.fi",
+  "shortName": "STON",
+  "description": "The leading decentralized exchange on TON for swapping tokens, providing liquidity and earning yield.",
+  "longDescription": "STON.fi is a decentralized exchange built on TON. It allows users to swap Jettons, provide liquidity, participate in farming campaigns and interact with the TON DeFi ecosystem directly from their wallet.",
+  "logo": "https://ston.fi/logo.svg", 
+  "category": "DeFi",
+  "subcategory": "DEX",
+  "links": {
+    "app": "https://app.ston.fi",
+    "website": "https://ston.fi",
+    "telegram": "https://t.me/stonfidex",
+    "twitter": "https://x.com/ston_fi"
+  },
+  "searchKeywords": [
+    "swap",
+    "dex",
+    "exchange",
+    "jetton",
+    "stonfi"
+  ]
+}
