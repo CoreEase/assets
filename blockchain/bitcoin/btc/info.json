@@ -1,25 +1,17 @@
 {
-    "name": "Bitcoin",
-    "description": "Bitcoin is a cryptocurrency and worldwide payment system. It is the first decentralized digital currency, as the system works without a central bank or single administrator.",
-    "symbol": "BTC",
-    "decimals": 8,
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/bitcoin"
-        },
-        {
-            "name": "x",
-            "url": "https://x.com/Bitcoin"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/Bitcoin"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://bitcoin.org/bitcoin.pdf"
-        }
-    ], 
-  "website": "https://bitcoin.org"
+  "name": "Bitcoin",
+  "symbol": "BTC",
+  "decimals": 8,
+  "description": "Bitcoin is the first decentralized cryptocurrency, enabling peer-to-peer digital payments without a central authority. It operates on a secure blockchain network maintained by a global network of nodes and miners.",
+  "website": "https://bitcoin.org",
+  "logo": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/blockchain/bitcoin/btc/logo.svg",
+  "links": {
+    "website": "https://bitcoin.org",
+    "whitepaper": "https://bitcoin.org/bitcoin.pdf",
+    "github": "https://github.com/bitcoin",
+    "x": "https://x.com/Bitcoin",
+    "reddit": "https://reddit.com/r/Bitcoin",
+    "coinMarketCap": "https://coinmarketcap.com/currencies/bitcoin/",
+    "coinGecko": "https://www.coingecko.com/en/coins/bitcoin"
+  }
 }
