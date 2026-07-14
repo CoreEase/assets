@@ -4,7 +4,7 @@
   "decimals": 9,
   "description": "The Open Network (TON) is a decentralized blockchain network designed for fast, scalable, and low-cost transactions. It enables Web3 applications through decentralized storage, DNS, instant payments, and decentralized services.",
   "website": "https://ton.org",
-  "logo": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/blockchain/ton/gram/logo.svg",
+  "image": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/blockchain/ton/gram/logo.svg",
   "links": {
     "website": "https://ton.org",
     "documentation": "https://ton.org/docs",
