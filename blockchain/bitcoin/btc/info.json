@@ -4,7 +4,7 @@
   "decimals": 8,
   "description": "Bitcoin is the first decentralized cryptocurrency, enabling peer-to-peer digital payments without a central authority. It operates on a secure blockchain network maintained by a global network of nodes and miners.",
   "website": "https://bitcoin.org",
-  "logo": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/blockchain/bitcoin/btc/logo.svg",
+  "image": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/blockchain/bitcoin/btc/logo.svg",
   "links": {
     "website": "https://bitcoin.org",
     "whitepaper": "https://bitcoin.org/bitcoin.pdf",
