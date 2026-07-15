@@ -65,9 +65,10 @@ for idx, source_data in enumerate(rates_sources):
     print(f"Processing {len(rates)} rates from {source_name}")
     
     for code, rate in rates.items():
-        if code not in combined_rates and code in currency_data:
-            combined_rates[code] = rate
-            source_used[code] = source_name
+        code_upper = code.upper()
+        if code_upper not in combined_rates and code_upper in currency_data:
+            combined_rates[code_upper] = rate
+            source_used[code_upper] = source_name
 
 print(f"Combined {len(combined_rates)} matching currencies")
 
@@ -99,3 +100,4 @@ print(f"Sample currencies: {list(final_data.keys())[:5]}")
 missing_currencies = set(currency_data.keys()) - set(combined_rates.keys())
 if missing_currencies:
     print(f"Warning: {len(missing_currencies)} currencies from currency_data not found in API rates")
+    print(f"Missing: {list(missing_currencies)[:10]}")
