@@ -8,7 +8,7 @@ SOURCES = [
     "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
     "https://cdn.moneyconvert.net/api/latest.json"
 ]
-OUTPUT_FILE = "final_rates.json"
+OUTPUT_FILE = "currency/final_rates.json"
 
 try:
     with open(CURRENCY_INFO_PATH, 'r', encoding='utf-8') as f:
