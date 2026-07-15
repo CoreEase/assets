@@ -2,7 +2,7 @@ name: Update Currency Rates
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -25,11 +25,23 @@ jobs:
         
     - name: Run script
       run: python currency/update_rates.py
+      continue-on-error: false
       
+    - name: Check if file was created
+      run: |
+        if [ -f "currency/final_rates.json" ]; then
+          echo "File created successfully"
+          ls -la currency/final_rates.json
+          cat currency/final_rates.json | head -20
+        else
+          echo "File not created!"
+          exit 1
+        fi
+        
     - name: Commit and push if changed
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add final_rates.json
+        git add currency/final_rates.json
         git diff --staged --quiet || git commit -m "Update currency rates [skip ci]"
         git push
