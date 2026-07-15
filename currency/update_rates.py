@@ -6,8 +6,7 @@ import sys
 CURRENCY_INFO_PATH = Path("currency/currency.json")
 SOURCES = [
     "https://currency-api.pages.dev/v1/currencies/usd.json",
-    "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
-    "https://cdn.moneyconvert.net/api/latest.json"
+    "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json"
 ]
 OUTPUT_FILE = "currency/final_rates.json"
 
