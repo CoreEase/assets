@@ -4,6 +4,8 @@
         "name": "United Arab Emirates Dirham",
         "symbol_native": "د.إ.‏",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/ae.svg",
+        "t_code": "AED",
         "rate": 3.67
     },
     "AFN": {
@@ -11,6 +13,8 @@
         "name": "Afghan Afghani",
         "symbol_native": "؋",
         "decimal_digits": 0,
+        "flag": "https://flagcdn.com/af.svg",
+        "t_code": "AFN",
         "rate": 66.0
     },
     "ALL": {
@@ -18,6 +22,8 @@
         "name": "Albanian Lek",
         "symbol_native": "Lek",
         "decimal_digits": 0,
+        "flag": "https://flagcdn.com/al.svg",
+        "t_code": "ALL",
         "rate": 82.0
     },
     "AMD": {
@@ -25,20 +31,26 @@
         "name": "Armenian Dram",
         "symbol_native": "դր.",
         "decimal_digits": 0,
-        "rate": 365.0
+        "flag": "https://flagcdn.com/am.svg",
+        "t_code": "AMD",
+        "rate": 366.0
     },
     "ARS": {
         "symbol": "AR$",
         "name": "Argentine Peso",
         "symbol_native": "$",
         "decimal_digits": 2,
-        "rate": 1470.39
+        "flag": "https://flagcdn.com/ar.svg",
+        "t_code": "ARS",
+        "rate": 1475.62
     },
     "AUD": {
         "symbol": "AU$",
         "name": "Australian Dollar",
         "symbol_native": "$",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/au.svg",
+        "t_code": "AUD",
         "rate": 1.43
     },
     "AZN": {
@@ -46,6 +58,8 @@
         "name": "Azerbaijani Manat",
         "symbol_native": "ман.",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/az.svg",
+        "t_code": "AZN",
         "rate": 1.7
     },
     "BAM": {
@@ -53,6 +67,8 @@
         "name": "Bosnia-Herzegovina Convertible Mark",
         "symbol_native": "KM",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/ba.svg",
+        "t_code": "BAM",
         "rate": 1.71
     },
     "BDT": {
@@ -60,13 +76,17 @@
         "name": "Bangladeshi Taka",
         "symbol_native": "৳",
         "decimal_digits": 2,
-        "rate": 122.9
+        "flag": "https://flagcdn.com/bd.svg",
+        "t_code": "BDT",
+        "rate": 122.89
     },
     "BGN": {
         "symbol": "BGN",
         "name": "Bulgarian Lev",
         "symbol_native": "лв.",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/bg.svg",
+        "t_code": "BGN",
         "rate": 1.71
     },
     "BHD": {
@@ -74,6 +94,8 @@
         "name": "Bahraini Dinar",
         "symbol_native": "د.ب.‏",
         "decimal_digits": 3,
+        "flag": "https://flagcdn.com/bh.svg",
+        "t_code": "BHD",
         "rate": 0.376
     },
     "BIF": {
@@ -81,13 +103,17 @@
         "name": "Burundian Franc",
         "symbol_native": "FBu",
         "decimal_digits": 0,
-        "rate": 2987.0
+        "flag": "https://flagcdn.com/bi.svg",
+        "t_code": "BIF",
+        "rate": 2974.0
     },
     "BND": {
         "symbol": "BN$",
         "name": "Brunei Dollar",
         "symbol_native": "$",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/bn.svg",
+        "t_code": "BND",
         "rate": 1.29
     },
     "BOB": {
@@ -95,13 +121,17 @@
         "name": "Bolivian Boliviano",
         "symbol_native": "Bs",
         "decimal_digits": 2,
-        "rate": 10.39
+        "flag": "https://flagcdn.com/bo.svg",
+        "t_code": "BOB",
+        "rate": 10.38
     },
     "BRL": {
         "symbol": "R$",
         "name": "Brazilian Real",
         "symbol_native": "R$",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/br.svg",
+        "t_code": "BRL",
         "rate": 5.09
     },
     "BWP": {
@@ -109,27 +139,35 @@
         "name": "Botswanan Pula",
         "symbol_native": "P",
         "decimal_digits": 2,
-        "rate": 13.57
+        "flag": "https://flagcdn.com/bw.svg",
+        "t_code": "BWP",
+        "rate": 13.51
     },
     "BYN": {
         "symbol": "Br",
         "name": "Belarusian Ruble",
         "symbol_native": "руб.",
         "decimal_digits": 2,
-        "rate": 2.86
+        "flag": "https://flagcdn.com/by.svg",
+        "t_code": "BYN",
+        "rate": 2.87
     },
     "BZD": {
         "symbol": "BZ$",
         "name": "Belize Dollar",
         "symbol_native": "$",
         "decimal_digits": 2,
-        "rate": 2.01
+        "flag": "https://flagcdn.com/bz.svg",
+        "t_code": "BZD",
+        "rate": 2.0
     },
     "CAD": {
         "symbol": "CA$",
         "name": "Canadian Dollar",
         "symbol_native": "$",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/ca.svg",
+        "t_code": "CAD",
         "rate": 1.4
     },
     "CDF": {
@@ -137,13 +175,17 @@
         "name": "Congolese Franc",
         "symbol_native": "FrCD",
         "decimal_digits": 2,
-        "rate": 2303.92
+        "flag": "https://flagcdn.com/cd.svg",
+        "t_code": "CDF",
+        "rate": 2307.79
     },
     "CHF": {
         "symbol": "CHF",
         "name": "Swiss Franc",
         "symbol_native": "CHF",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/ch.svg",
+        "t_code": "CHF",
         "rate": 0.81
     },
     "CLP": {
@@ -151,13 +193,17 @@
         "name": "Chilean Peso",
         "symbol_native": "$",
         "decimal_digits": 0,
-        "rate": 926.0
+        "flag": "https://flagcdn.com/cl.svg",
+        "t_code": "CLP",
+        "rate": 925.0
     },
     "CNY": {
         "symbol": "CN¥",
         "name": "Chinese Yuan",
         "symbol_native": "CN¥",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/cn.svg",
+        "t_code": "CNY",
         "rate": 6.77
     },
     "COP": {
@@ -165,34 +211,44 @@
         "name": "Colombian Peso",
         "symbol_native": "$",
         "decimal_digits": 0,
-        "rate": 3257.0
+        "flag": "https://flagcdn.com/co.svg",
+        "t_code": "COP",
+        "rate": 3230.0
     },
     "CRC": {
         "symbol": "₡",
         "name": "Costa Rican Colón",
         "symbol_native": "₡",
         "decimal_digits": 0,
-        "rate": 454.0
+        "flag": "https://flagcdn.com/cr.svg",
+        "t_code": "CRC",
+        "rate": 453.0
     },
     "CVE": {
         "symbol": "CV$",
         "name": "Cape Verdean Escudo",
         "symbol_native": "CV$",
         "decimal_digits": 2,
-        "rate": 96.38
+        "flag": "https://flagcdn.com/cv.svg",
+        "t_code": "CVE",
+        "rate": 96.17
     },
     "CZK": {
         "symbol": "Kč",
         "name": "Czech Republic Koruna",
         "symbol_native": "Kč",
         "decimal_digits": 2,
-        "rate": 21.18
+        "flag": "https://flagcdn.com/cz.svg",
+        "t_code": "CZK",
+        "rate": 21.11
     },
     "DJF": {
         "symbol": "Fdj",
         "name": "Djiboutian Franc",
         "symbol_native": "Fdj",
         "decimal_digits": 0,
+        "flag": "https://flagcdn.com/dj.svg",
+        "t_code": "DJF",
         "rate": 178.0
     },
     "DKK": {
@@ -200,41 +256,53 @@
         "name": "Danish Krone",
         "symbol_native": "kr",
         "decimal_digits": 2,
-        "rate": 6.53
+        "flag": "https://flagcdn.com/dk.svg",
+        "t_code": "DKK",
+        "rate": 6.52
     },
     "DOP": {
         "symbol": "RD$",
         "name": "Dominican Peso",
         "symbol_native": "RD$",
         "decimal_digits": 2,
-        "rate": 58.44
+        "flag": "https://flagcdn.com/do.svg",
+        "t_code": "DOP",
+        "rate": 58.12
     },
     "DZD": {
         "symbol": "DA",
         "name": "Algerian Dinar",
         "symbol_native": "د.ج.‏",
         "decimal_digits": 2,
-        "rate": 133.14
+        "flag": "https://flagcdn.com/dz.svg",
+        "t_code": "DZD",
+        "rate": 133.02
     },
     "EEK": {
         "symbol": "Ekr",
         "name": "Estonian Kroon",
         "symbol_native": "kr",
         "decimal_digits": 2,
-        "rate": 13.68
+        "flag": "https://flagcdn.com/ee.svg",
+        "t_code": "EEK",
+        "rate": 13.65
     },
     "EGP": {
         "symbol": "EGP",
         "name": "Egyptian Pound",
         "symbol_native": "ج.م.‏",
         "decimal_digits": 2,
-        "rate": 50.72
+        "flag": "https://flagcdn.com/eg.svg",
+        "t_code": "EGP",
+        "rate": 50.54
     },
     "ERN": {
         "symbol": "Nfk",
         "name": "Eritrean Nakfa",
         "symbol_native": "Nfk",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/er.svg",
+        "t_code": "ERN",
         "rate": 15
     },
     "ETB": {
@@ -242,13 +310,17 @@
         "name": "Ethiopian Birr",
         "symbol_native": "Br",
         "decimal_digits": 2,
-        "rate": 160.54
+        "flag": "https://flagcdn.com/et.svg",
+        "t_code": "ETB",
+        "rate": 160.56
     },
     "EUR": {
         "symbol": "€",
         "name": "Euro",
         "symbol_native": "€",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/eu.svg",
+        "t_code": "EUR",
         "rate": 0.87
     },
     "GBP": {
@@ -256,13 +328,17 @@
         "name": "British Pound Sterling",
         "symbol_native": "£",
         "decimal_digits": 2,
-        "rate": 0.75
+        "flag": "https://flagcdn.com/gb.svg",
+        "t_code": "GBP",
+        "rate": 0.74
     },
     "GEL": {
         "symbol": "GEL",
         "name": "Georgian Lari",
         "symbol_native": "GEL",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/ge.svg",
+        "t_code": "GEL",
         "rate": 2.63
     },
     "GHS": {
@@ -270,20 +346,26 @@
         "name": "Ghanaian Cedi",
         "symbol_native": "GH₵",
         "decimal_digits": 2,
-        "rate": 11.47
+        "flag": "https://flagcdn.com/gh.svg",
+        "t_code": "GHS",
+        "rate": 11.5
     },
     "GNF": {
         "symbol": "FG",
         "name": "Guinean Franc",
         "symbol_native": "FG",
         "decimal_digits": 0,
-        "rate": 8765.0
+        "flag": "https://flagcdn.com/gn.svg",
+        "t_code": "GNF",
+        "rate": 8756.0
     },
     "GTQ": {
         "symbol": "GTQ",
         "name": "Guatemalan Quetzal",
         "symbol_native": "Q",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/gt.svg",
+        "t_code": "GTQ",
         "rate": 7.62
     },
     "HKD": {
@@ -291,6 +373,8 @@
         "name": "Hong Kong Dollar",
         "symbol_native": "$",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/hk.svg",
+        "t_code": "HKD",
         "rate": 7.84
     },
     "HNL": {
@@ -298,48 +382,62 @@
         "name": "Honduran Lempira",
         "symbol_native": "L",
         "decimal_digits": 2,
-        "rate": 26.74
+        "flag": "https://flagcdn.com/hn.svg",
+        "t_code": "HNL",
+        "rate": 26.71
     },
     "HRK": {
         "symbol": "kn",
         "name": "Croatian Kuna",
         "symbol_native": "kn",
         "decimal_digits": 2,
-        "rate": 6.59
+        "flag": "https://flagcdn.com/hr.svg",
+        "t_code": "HRK",
+        "rate": 6.57
     },
     "HUF": {
         "symbol": "Ft",
         "name": "Hungarian Forint",
         "symbol_native": "Ft",
         "decimal_digits": 0,
-        "rate": 313.0
+        "flag": "https://flagcdn.com/hu.svg",
+        "t_code": "HUF",
+        "rate": 314.0
     },
     "IDR": {
         "symbol": "Rp",
         "name": "Indonesian Rupiah",
         "symbol_native": "Rp",
         "decimal_digits": 0,
-        "rate": 18052.0
+        "flag": "https://flagcdn.com/id.svg",
+        "t_code": "IDR",
+        "rate": 18064.0
     },
     "ILS": {
         "symbol": "₪",
         "name": "Israeli New Sheqel",
         "symbol_native": "₪",
         "decimal_digits": 2,
-        "rate": 3.0
+        "flag": "https://flagcdn.com/il.svg",
+        "t_code": "ILS",
+        "rate": 2.99
     },
     "INR": {
         "symbol": "Rs",
         "name": "Indian Rupee",
         "symbol_native": "টকা",
         "decimal_digits": 2,
-        "rate": 96.24
+        "flag": "https://flagcdn.com/in.svg",
+        "t_code": "INR",
+        "rate": 96.35
     },
     "IQD": {
         "symbol": "IQD",
         "name": "Iraqi Dinar",
         "symbol_native": "د.ع.‏",
         "decimal_digits": 0,
+        "flag": "https://flagcdn.com/iq.svg",
+        "t_code": "IQD",
         "rate": 1305.0
     },
     "IRR": {
@@ -347,13 +445,17 @@
         "name": "Iranian Rial",
         "symbol_native": "﷼",
         "decimal_digits": 0,
-        "rate": 1374496.0
+        "flag": "https://flagcdn.com/ir.svg",
+        "t_code": "IRR",
+        "rate": 1374633.0
     },
     "ISK": {
         "symbol": "Ikr",
         "name": "Icelandic Króna",
         "symbol_native": "kr",
         "decimal_digits": 0,
+        "flag": "https://flagcdn.com/is.svg",
+        "t_code": "ISK",
         "rate": 125.0
     },
     "JMD": {
@@ -361,13 +463,17 @@
         "name": "Jamaican Dollar",
         "symbol_native": "$",
         "decimal_digits": 2,
-        "rate": 158.03
+        "flag": "https://flagcdn.com/jm.svg",
+        "t_code": "JMD",
+        "rate": 157.71
     },
     "JOD": {
         "symbol": "JD",
         "name": "Jordanian Dinar",
         "symbol_native": "د.أ.‏",
         "decimal_digits": 3,
+        "flag": "https://flagcdn.com/jo.svg",
+        "t_code": "JOD",
         "rate": 0.709
     },
     "JPY": {
@@ -375,6 +481,8 @@
         "name": "Japanese Yen",
         "symbol_native": "￥",
         "decimal_digits": 0,
+        "flag": "https://flagcdn.com/jp.svg",
+        "t_code": "JPY",
         "rate": 162.0
     },
     "KES": {
@@ -382,69 +490,89 @@
         "name": "Kenyan Shilling",
         "symbol_native": "Ksh",
         "decimal_digits": 2,
-        "rate": 129.28
+        "flag": "https://flagcdn.com/ke.svg",
+        "t_code": "KES",
+        "rate": 129.29
     },
     "KHR": {
         "symbol": "KHR",
         "name": "Cambodian Riel",
         "symbol_native": "៛",
         "decimal_digits": 2,
-        "rate": 4042.92
+        "flag": "https://flagcdn.com/kh.svg",
+        "t_code": "KHR",
+        "rate": 4025.41
     },
     "KMF": {
         "symbol": "CF",
         "name": "Comorian Franc",
         "symbol_native": "FC",
         "decimal_digits": 0,
-        "rate": 430.0
+        "flag": "https://flagcdn.com/km.svg",
+        "t_code": "KMF",
+        "rate": 429.0
     },
     "KRW": {
         "symbol": "₩",
         "name": "South Korean Won",
         "symbol_native": "₩",
         "decimal_digits": 0,
-        "rate": 1490.0
+        "flag": "https://flagcdn.com/kr.svg",
+        "t_code": "KRW",
+        "rate": 1484.0
     },
     "KWD": {
         "symbol": "KD",
         "name": "Kuwaiti Dinar",
         "symbol_native": "د.ك.‏",
         "decimal_digits": 3,
-        "rate": 0.31
+        "flag": "https://flagcdn.com/kw.svg",
+        "t_code": "KWD",
+        "rate": 0.309
     },
     "KZT": {
         "symbol": "KZT",
         "name": "Kazakhstani Tenge",
         "symbol_native": "тңг.",
         "decimal_digits": 2,
-        "rate": 468.76
+        "flag": "https://flagcdn.com/kz.svg",
+        "t_code": "KZT",
+        "rate": 469.23
     },
     "LBP": {
         "symbol": "LB£",
         "name": "Lebanese Pound",
         "symbol_native": "ل.ل.‏",
         "decimal_digits": 0,
-        "rate": 89360.0
+        "flag": "https://flagcdn.com/lb.svg",
+        "t_code": "LBP",
+        "rate": 89449.0
     },
     "LKR": {
         "symbol": "SLRs",
         "name": "Sri Lankan Rupee",
         "symbol_native": "SL Re",
         "decimal_digits": 2,
-        "rate": 334.9
+        "flag": "https://flagcdn.com/lk.svg",
+        "t_code": "LKR",
+        "rate": 334.76
     },
     "LTL": {
         "symbol": "Lt",
         "name": "Lithuanian Litas",
         "symbol_native": "Lt",
         "decimal_digits": 2,
-        "rate": 3.02
+        "flag": "https://flagcdn.com/lt.svg",
+        "t_code": "LTL",
+        "rate": 3.01
     },
     "LVL": {
         "symbol": "Ls",
         "name": "Latvian Lats",
         "symbol_native": "Ls",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/lv.svg",
+        "t_code": "LVL",
         "rate": 0.61
     },
     "LYD": {
@@ -452,41 +580,53 @@
         "name": "Libyan Dinar",
         "symbol_native": "د.ل.‏",
         "decimal_digits": 3,
-        "rate": 6.398
+        "flag": "https://flagcdn.com/ly.svg",
+        "t_code": "LYD",
+        "rate": 6.374
     },
     "MAD": {
         "symbol": "MAD",
         "name": "Moroccan Dirham",
         "symbol_native": "د.م.‏",
         "decimal_digits": 2,
-        "rate": 9.32
+        "flag": "https://flagcdn.com/ma.svg",
+        "t_code": "MAD",
+        "rate": 9.34
     },
     "MDL": {
         "symbol": "MDL",
         "name": "Moldovan Leu",
         "symbol_native": "MDL",
         "decimal_digits": 2,
-        "rate": 17.57
+        "flag": "https://flagcdn.com/md.svg",
+        "t_code": "MDL",
+        "rate": 17.49
     },
     "MGA": {
         "symbol": "MGA",
         "name": "Malagasy Ariary",
         "symbol_native": "MGA",
         "decimal_digits": 0,
-        "rate": 4271.0
+        "flag": "https://flagcdn.com/mg.svg",
+        "t_code": "MGA",
+        "rate": 4231.0
     },
     "MKD": {
         "symbol": "MKD",
         "name": "Macedonian Denar",
         "symbol_native": "MKD",
         "decimal_digits": 2,
-        "rate": 53.9
+        "flag": "https://flagcdn.com/mk.svg",
+        "t_code": "MKD",
+        "rate": 53.77
     },
     "MMK": {
         "symbol": "MMK",
         "name": "Myanma Kyat",
         "symbol_native": "K",
         "decimal_digits": 0,
+        "flag": "https://flagcdn.com/mm.svg",
+        "t_code": "MMK",
         "rate": 2099.0
     },
     "MOP": {
@@ -494,6 +634,8 @@
         "name": "Macanese Pataca",
         "symbol_native": "MOP$",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/mo.svg",
+        "t_code": "MOP",
         "rate": 8.07
     },
     "MUR": {
@@ -501,6 +643,8 @@
         "name": "Mauritian Rupee",
         "symbol_native": "MURs",
         "decimal_digits": 0,
+        "flag": "https://flagcdn.com/mu.svg",
+        "t_code": "MUR",
         "rate": 47.0
     },
     "MXN": {
@@ -508,13 +652,17 @@
         "name": "Mexican Peso",
         "symbol_native": "$",
         "decimal_digits": 2,
-        "rate": 17.41
+        "flag": "https://flagcdn.com/mx.svg",
+        "t_code": "MXN",
+        "rate": 17.39
     },
     "MYR": {
         "symbol": "RM",
         "name": "Malaysian Ringgit",
         "symbol_native": "RM",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/my.svg",
+        "t_code": "MYR",
         "rate": 4.07
     },
     "MZN": {
@@ -522,6 +670,8 @@
         "name": "Mozambican Metical",
         "symbol_native": "MTn",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/mz.svg",
+        "t_code": "MZN",
         "rate": 63.82
     },
     "NAD": {
@@ -529,6 +679,8 @@
         "name": "Namibian Dollar",
         "symbol_native": "N$",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/na.svg",
+        "t_code": "NAD",
         "rate": 16.35
     },
     "NGN": {
@@ -536,41 +688,53 @@
         "name": "Nigerian Naira",
         "symbol_native": "₦",
         "decimal_digits": 2,
-        "rate": 1379.45
+        "flag": "https://flagcdn.com/ng.svg",
+        "t_code": "NGN",
+        "rate": 1377.3
     },
     "NIO": {
         "symbol": "C$",
         "name": "Nicaraguan Córdoba",
         "symbol_native": "C$",
         "decimal_digits": 2,
-        "rate": 36.74
+        "flag": "https://flagcdn.com/ni.svg",
+        "t_code": "NIO",
+        "rate": 36.71
     },
     "NOK": {
         "symbol": "Nkr",
         "name": "Norwegian Krone",
         "symbol_native": "kr",
         "decimal_digits": 2,
-        "rate": 9.66
+        "flag": "https://flagcdn.com/no.svg",
+        "t_code": "NOK",
+        "rate": 9.67
     },
     "NPR": {
         "symbol": "NPRs",
         "name": "Nepalese Rupee",
         "symbol_native": "नेरू",
         "decimal_digits": 2,
-        "rate": 154.06
+        "flag": "https://flagcdn.com/np.svg",
+        "t_code": "NPR",
+        "rate": 154.23
     },
     "NZD": {
         "symbol": "NZ$",
         "name": "New Zealand Dollar",
         "symbol_native": "$",
         "decimal_digits": 2,
-        "rate": 1.72
+        "flag": "https://flagcdn.com/nz.svg",
+        "t_code": "NZD",
+        "rate": 1.71
     },
     "OMR": {
         "symbol": "OMR",
         "name": "Omani Rial",
         "symbol_native": "ر.ع.‏",
         "decimal_digits": 3,
+        "flag": "https://flagcdn.com/om.svg",
+        "t_code": "OMR",
         "rate": 0.385
     },
     "PAB": {
@@ -578,6 +742,8 @@
         "name": "Panamanian Balboa",
         "symbol_native": "B/.",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/pa.svg",
+        "t_code": "PAB",
         "rate": 1
     },
     "PEN": {
@@ -585,20 +751,26 @@
         "name": "Peruvian Nuevo Sol",
         "symbol_native": "S/.",
         "decimal_digits": 2,
-        "rate": 3.4
+        "flag": "https://flagcdn.com/pe.svg",
+        "t_code": "PEN",
+        "rate": 3.39
     },
     "PHP": {
         "symbol": "₱",
         "name": "Philippine Peso",
         "symbol_native": "₱",
         "decimal_digits": 2,
-        "rate": 61.64
+        "flag": "https://flagcdn.com/ph.svg",
+        "t_code": "PHP",
+        "rate": 61.66
     },
     "PKR": {
         "symbol": "PKRs",
         "name": "Pakistani Rupee",
         "symbol_native": "₨",
         "decimal_digits": 0,
+        "flag": "https://flagcdn.com/pk.svg",
+        "t_code": "PKR",
         "rate": 277.0
     },
     "PLN": {
@@ -606,20 +778,26 @@
         "name": "Polish Zloty",
         "symbol_native": "zł",
         "decimal_digits": 2,
-        "rate": 3.78
+        "flag": "https://flagcdn.com/pl.svg",
+        "t_code": "PLN",
+        "rate": 3.77
     },
     "PYG": {
         "symbol": "₲",
         "name": "Paraguayan Guarani",
         "symbol_native": "₲",
         "decimal_digits": 0,
-        "rate": 6047.0
+        "flag": "https://flagcdn.com/py.svg",
+        "t_code": "PYG",
+        "rate": 6034.0
     },
     "QAR": {
         "symbol": "QR",
         "name": "Qatari Rial",
         "symbol_native": "ر.ق.‏",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/qa.svg",
+        "t_code": "QAR",
         "rate": 3.64
     },
     "RON": {
@@ -627,34 +805,44 @@
         "name": "Romanian Leu",
         "symbol_native": "RON",
         "decimal_digits": 2,
-        "rate": 4.58
+        "flag": "https://flagcdn.com/ro.svg",
+        "t_code": "RON",
+        "rate": 4.57
     },
     "RSD": {
         "symbol": "din.",
         "name": "Serbian Dinar",
         "symbol_native": "дин.",
         "decimal_digits": 0,
-        "rate": 103.0
+        "flag": "https://flagcdn.com/rs.svg",
+        "t_code": "RSD",
+        "rate": 102.0
     },
     "RUB": {
         "symbol": "RUB",
         "name": "Russian Ruble",
         "symbol_native": "₽.",
         "decimal_digits": 2,
-        "rate": 77.46
+        "flag": "https://flagcdn.com/ru.svg",
+        "t_code": "RUB",
+        "rate": 77.48
     },
     "RWF": {
         "symbol": "RWF",
         "name": "Rwandan Franc",
         "symbol_native": "FR",
         "decimal_digits": 0,
-        "rate": 1468.0
+        "flag": "https://flagcdn.com/rw.svg",
+        "t_code": "RWF",
+        "rate": 1466.0
     },
     "SAR": {
         "symbol": "SR",
         "name": "Saudi Riyal",
         "symbol_native": "ر.س.‏",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/sa.svg",
+        "t_code": "SAR",
         "rate": 3.75
     },
     "SDG": {
@@ -662,20 +850,26 @@
         "name": "Sudanese Pound",
         "symbol_native": "SDG",
         "decimal_digits": 2,
-        "rate": 600.22
+        "flag": "https://flagcdn.com/sd.svg",
+        "t_code": "SDG",
+        "rate": 600.17
     },
     "SEK": {
         "symbol": "Skr",
         "name": "Swedish Krona",
         "symbol_native": "kr",
         "decimal_digits": 2,
-        "rate": 9.64
+        "flag": "https://flagcdn.com/se.svg",
+        "t_code": "SEK",
+        "rate": 9.6
     },
     "SGD": {
         "symbol": "S$",
         "name": "Singapore Dollar",
         "symbol_native": "$",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/sg.svg",
+        "t_code": "SGD",
         "rate": 1.29
     },
     "SOS": {
@@ -683,34 +877,44 @@
         "name": "Somali Shilling",
         "symbol_native": "Ssh",
         "decimal_digits": 0,
-        "rate": 571.0
+        "flag": "https://flagcdn.com/so.svg",
+        "t_code": "SOS",
+        "rate": 567.0
     },
     "SYP": {
         "symbol": "SY£",
         "name": "Syrian Pound",
         "symbol_native": "ل.س.‏",
         "decimal_digits": 0,
-        "rate": 110.0
+        "flag": "https://flagcdn.com/sy.svg",
+        "t_code": "SYP",
+        "rate": 111.0
     },
     "THB": {
         "symbol": "฿",
         "name": "Thai Baht",
         "symbol_native": "฿",
         "decimal_digits": 2,
-        "rate": 33.49
+        "flag": "https://flagcdn.com/th.svg",
+        "t_code": "THB",
+        "rate": 33.6
     },
     "TND": {
         "symbol": "DT",
         "name": "Tunisian Dinar",
         "symbol_native": "د.ت.‏",
         "decimal_digits": 3,
-        "rate": 2.946
+        "flag": "https://flagcdn.com/tn.svg",
+        "t_code": "TND",
+        "rate": 2.943
     },
     "TOP": {
         "symbol": "T$",
         "name": "Tongan Paʻanga",
         "symbol_native": "T$",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/to.svg",
+        "t_code": "TOP",
         "rate": 2.39
     },
     "TRY": {
@@ -718,13 +922,17 @@
         "name": "Turkish Lira",
         "symbol_native": "TL",
         "decimal_digits": 2,
-        "rate": 47.03
+        "flag": "https://flagcdn.com/tr.svg",
+        "t_code": "TRY",
+        "rate": 47.04
     },
     "TTD": {
         "symbol": "TT$",
         "name": "Trinidad and Tobago Dollar",
         "symbol_native": "$",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/tt.svg",
+        "t_code": "TTD",
         "rate": 6.78
     },
     "TWD": {
@@ -732,34 +940,44 @@
         "name": "New Taiwan Dollar",
         "symbol_native": "NT$",
         "decimal_digits": 2,
-        "rate": 32.19
+        "flag": "https://flagcdn.com/tw.svg",
+        "t_code": "TWD",
+        "rate": 32.17
     },
     "TZS": {
         "symbol": "TSh",
         "name": "Tanzanian Shilling",
         "symbol_native": "TSh",
         "decimal_digits": 0,
-        "rate": 2638.0
+        "flag": "https://flagcdn.com/tz.svg",
+        "t_code": "TZS",
+        "rate": 2632.0
     },
     "UAH": {
         "symbol": "₴",
         "name": "Ukrainian Hryvnia",
         "symbol_native": "₴",
         "decimal_digits": 2,
-        "rate": 44.83
+        "flag": "https://flagcdn.com/ua.svg",
+        "t_code": "UAH",
+        "rate": 44.69
     },
     "UGX": {
         "symbol": "USh",
         "name": "Ugandan Shilling",
         "symbol_native": "USh",
         "decimal_digits": 0,
-        "rate": 3701.0
+        "flag": "https://flagcdn.com/ug.svg",
+        "t_code": "UGX",
+        "rate": 3694.0
     },
     "USD": {
         "symbol": "$",
         "name": "US Dollar",
         "symbol_native": "$",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/us.svg",
+        "t_code": "USD",
         "rate": 1
     },
     "UYU": {
@@ -767,48 +985,62 @@
         "name": "Uruguayan Peso",
         "symbol_native": "$",
         "decimal_digits": 2,
-        "rate": 40.08
+        "flag": "https://flagcdn.com/uy.svg",
+        "t_code": "UYU",
+        "rate": 40.06
     },
     "UZS": {
         "symbol": "UZS",
         "name": "Uzbekistan Som",
         "symbol_native": "UZS",
         "decimal_digits": 0,
-        "rate": 12068.0
+        "flag": "https://flagcdn.com/uz.svg",
+        "t_code": "UZS",
+        "rate": 12036.0
     },
     "VEF": {
         "symbol": "Bs.F.",
         "name": "Venezuelan Bolívar",
         "symbol_native": "Bs.F.",
         "decimal_digits": 2,
-        "rate": 72330665.42
+        "flag": "https://flagcdn.com/ve.svg",
+        "t_code": "VEF",
+        "rate": 72453714.74
     },
     "VND": {
         "symbol": "₫",
         "name": "Vietnamese Dong",
         "symbol_native": "₫",
         "decimal_digits": 0,
-        "rate": 26246.0
+        "flag": "https://flagcdn.com/vn.svg",
+        "t_code": "VND",
+        "rate": 26260.0
     },
     "XAF": {
         "symbol": "FCFA",
         "name": "CFA Franc BEAC",
         "symbol_native": "FCFA",
         "decimal_digits": 0,
-        "rate": 573.0
+        "flag": "https://flagcdn.com/cf.svg",
+        "t_code": "XAF",
+        "rate": 572.0
     },
     "XOF": {
         "symbol": "CFA",
         "name": "CFA Franc BCEAO",
         "symbol_native": "CFA",
         "decimal_digits": 0,
-        "rate": 573.0
+        "flag": "https://flagcdn.com/sn.svg",
+        "t_code": "XOF",
+        "rate": 572.0
     },
     "YER": {
         "symbol": "YR",
         "name": "Yemeni Rial",
         "symbol_native": "ر.ي.‏",
         "decimal_digits": 0,
+        "flag": "https://flagcdn.com/ye.svg",
+        "t_code": "YER",
         "rate": 237.0
     },
     "ZAR": {
@@ -816,6 +1048,8 @@
         "name": "South African Rand",
         "symbol_native": "R",
         "decimal_digits": 2,
+        "flag": "https://flagcdn.com/za.svg",
+        "t_code": "ZAR",
         "rate": 16.35
     },
     "ZMK": {
@@ -823,13 +1057,17 @@
         "name": "Zambian Kwacha",
         "symbol_native": "ZK",
         "decimal_digits": 0,
-        "rate": 18166.0
+        "flag": "https://flagcdn.com/zm.svg",
+        "t_code": "ZMK",
+        "rate": 18319.0
     },
     "ZWL": {
         "symbol": "ZWL$",
         "name": "Zimbabwean Dollar",
         "symbol_native": "ZWL$",
         "decimal_digits": 0,
-        "rate": 66951.0
+        "flag": "https://flagcdn.com/zw.svg",
+        "t_code": "ZWL",
+        "rate": 66563.0
     }
 }
