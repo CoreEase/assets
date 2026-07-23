@@ -1060,14 +1060,5 @@
         "flag": "https://flagcdn.com/zw.svg",
         "t_code": "ZWL",
         "rate": 66715.0
-    },
-    "SYP": {
-        "symbol": "SY£",
-        "name": "Syrian Pound",
-        "symbol_native": "ل.س.‏",
-        "decimal_digits": 0,
-        "flag": "https://flagcdn.com/sy.svg",
-        "t_code": "SYP",
-        "rate": 111.0
     }
 }
