@@ -1,23 +1,137 @@
 {
-  "slug": "stonfi",
-  "name": "STON.fi",
-  "shortName": "STON",
-  "description": "The leading decentralized exchange on TON for swapping tokens, providing liquidity and earning yield.",
-  "longDescription": "STON.fi is a decentralized exchange built on TON. It allows users to swap Jettons, provide liquidity, participate in farming campaigns and interact with the TON DeFi ecosystem directly from their wallet.",
-  "logo": "https://ston.fi/images/tild3432-3236-4431-b139-376231383134__favicon.svg", 
-  "category": "DeFi",
-  "subcategory": "DEX",
-  "links": {
-    "app": "https://app.ston.fi",
-    "website": "https://ston.fi",
-    "telegram": "https://t.me/stonfidex",
-    "twitter": "https://x.com/ston_fi"
-  },
-  "searchKeywords": [
-    "swap",
-    "dex",
-    "exchange",
-    "jetton",
-    "stonfi"
+  "banners": [
+    {
+      "id": "upscale-banner",
+      "appId": "upscale",
+      "title": "Get funded for trading — keep up to 90% profits",
+      "image": "https://placehold.co/600x300/6C2BD9/FFFFFF?text=Upscale",
+      "backgroundColor": "#6C2BD9"
+    }
+  ],
+  "categories": [
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "apps": ["swap-coffee", "ston-fi", "upscale"]
+    },
+    {
+      "id": "utilities",
+      "name": "Utilities",
+      "apps": ["desim"]
+    },
+    {
+      "id": "games",
+      "name": "Games",
+      "apps": ["whale", "the-originals", "fanton", "m5-racing", "kingy-gm-battle", "ton-poker"]
+    }
+  ],
+  "apps": [
+    {
+      "id": "swap-coffee",
+      "name": "swap.coffee",
+      "shortDescription": "Progressive DEX Aggregator",
+      "description": "swap.coffee aggregates liquidity across TON DEXs to find the best swap routes and rates.",
+      "icon": "https://placehold.co/128x128/1A1A1A/FFFFFF?text=SC",
+      "type": "miniapp",
+      "url": "https://t.me/swap_coffee_bot?startapp=source-replace_with_real_link",
+      "tags": ["dex", "aggregator", "swap"],
+      "verified": true
+    },
+    {
+      "id": "ston-fi",
+      "name": "STON.fi",
+      "shortDescription": "Low-fee DeFi exchanger",
+      "description": "STON.fi is a leading decentralized exchange on TON with deep liquidity and low swap fees.",
+      "icon": "https://placehold.co/128x128/0098EA/FFFFFF?text=STON",
+      "type": "website",
+      "url": "https://ston.fi",
+      "tags": ["dex", "swap", "liquidity"],
+      "verified": true
+    },
+    {
+      "id": "upscale",
+      "name": "Upscale",
+      "shortDescription": "Get funded for trading — keep up to 90% profits",
+      "description": "Upscale offers funded trading accounts, letting you trade with provided capital and keep a majority of the profits.",
+      "icon": "https://placehold.co/128x128/A855F7/FFFFFF?text=U",
+      "type": "miniapp",
+      "url": "https://t.me/upscale_bot?startapp=source-replace_with_real_link",
+      "tags": ["trading", "funding"],
+      "verified": false
+    },
+    {
+      "id": "desim",
+      "name": "DeSIM",
+      "shortDescription": "eSIM Service",
+      "description": "DeSIM lets you buy and manage eSIM data plans for travel, paid for with crypto.",
+      "icon": "https://placehold.co/128x128/EDEDED/000000?text=eSIM",
+      "type": "miniapp",
+      "url": "https://t.me/desim_bot?startapp=source-replace_with_real_link",
+      "tags": ["esim", "travel", "utility"],
+      "verified": false
+    },
+    {
+      "id": "whale",
+      "name": "Whale",
+      "shortDescription": "Xmas Special! New Prizes and Rewards Daily — 22% Daily",
+      "description": "Whale is a Telegram-native game with daily rewards and seasonal prize events.",
+      "icon": "https://placehold.co/128x128/E8543C/FFFFFF?text=W",
+      "type": "miniapp",
+      "url": "https://t.me/whale_bot?startapp=source-replace_with_real_link",
+      "tags": ["game", "rewards"],
+      "verified": false
+    },
+    {
+      "id": "the-originals",
+      "name": "TheOriginals.io",
+      "shortDescription": "Best Originals Casino + 15% Instant Rakeback, No KYC",
+      "description": "TheOriginals.io is a crypto casino platform accessible directly from Telegram.",
+      "icon": "https://placehold.co/128x128/000000/FFFFFF?text=TO",
+      "type": "website",
+      "url": "https://theoriginals.io",
+      "tags": ["casino", "gambling"],
+      "verified": false
+    },
+    {
+      "id": "fanton",
+      "name": "Fanton Fantasy Football",
+      "shortDescription": "Make 1st deposit and get up free entry tournament",
+      "description": "Fanton is a fantasy football game built on TON where you draft players and compete for prizes.",
+      "icon": "https://placehold.co/128x128/F97316/FFFFFF?text=FT",
+      "type": "miniapp",
+      "url": "https://t.me/fanton_bot?startapp=source-replace_with_real_link",
+      "tags": ["game", "sports", "fantasy"],
+      "verified": true
+    },
+    {
+      "id": "m5-racing",
+      "name": "M5 Racing",
+      "shortDescription": "On-chain racing game",
+      "icon": "https://placehold.co/128x128/E11D2A/FFFFFF?text=M5",
+      "type": "miniapp",
+      "url": "https://t.me/m5racing_bot?startapp=source-replace_with_real_link",
+      "tags": ["game", "racing"],
+      "verified": false
+    },
+    {
+      "id": "kingy-gm-battle",
+      "name": "KINGY GM BATTLE",
+      "shortDescription": "Daily battle mini-game",
+      "icon": "https://placehold.co/128x128/16A34A/FFFFFF?text=GM",
+      "type": "miniapp",
+      "url": "https://t.me/kingygm_bot?startapp=source-replace_with_real_link",
+      "tags": ["game"],
+      "verified": false
+    },
+    {
+      "id": "ton-poker",
+      "name": "Ton Poker",
+      "shortDescription": "Play poker on TON",
+      "icon": "https://placehold.co/128x128/CA8A04/FFFFFF?text=TP",
+      "type": "miniapp",
+      "url": "https://t.me/tonpoker_bot?startapp=source-replace_with_real_link",
+      "tags": ["game", "poker"],
+      "verified": false
+    }
   ]
 }
