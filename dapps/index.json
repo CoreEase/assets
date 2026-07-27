@@ -1,137 +1,1313 @@
 {
   "banners": [
     {
-      "id": "upscale-banner",
-      "appId": "upscale",
-      "title": "Get funded for trading — keep up to 90% profits",
-      "image": "https://placehold.co/600x300/6C2BD9/FFFFFF?text=Upscale",
+      "id": "blum-banner",
+      "appId": "blum",
+      "title": "Blum — trade crypto and farm points inside Telegram",
+      "image": "https://placehold.co/600x300/1E1E2E/FFFFFF?text=Blum",
+      "backgroundColor": "#1E1E2E"
+    },
+    {
+      "id": "getgems-banner",
+      "appId": "getgems",
+      "title": "Getgems — the largest NFT marketplace on TON",
+      "image": "https://placehold.co/600x300/6C2BD9/FFFFFF?text=Getgems",
       "backgroundColor": "#6C2BD9"
     }
   ],
   "categories": [
     {
-      "id": "defi",
-      "name": "DeFi",
-      "apps": ["swap-coffee", "ston-fi", "upscale"]
+      "id": "crypto",
+      "name": "Crypto",
+      "apps": [
+        "starledger",
+        "starninja",
+        "sora",
+        "starninja-earn",
+        "adeasly-ton",
+        "adeasly-ltc"
+      ]
     },
     {
-      "id": "utilities",
-      "name": "Utilities",
-      "apps": ["desim"]
+      "id": "gaming",
+      "name": "Gaming",
+      "apps": [
+        "group-game",
+        "gamebot",
+        "notcoin",
+        "blum",
+        "major",
+        "catizen",
+        "gamee",
+        "bums",
+        "playdeck"
+      ]
     },
     {
-      "id": "games",
-      "name": "Games",
-      "apps": ["whale", "the-originals", "fanton", "m5-racing", "kingy-gm-battle", "ton-poker"]
+      "id": "marketplace",
+      "name": "NFT & Marketplace",
+      "apps": [
+        "portals-market",
+        "mrkt",
+        "getgems",
+        "fragment"
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "Finance",
+      "apps": [
+        "donate",
+        "tribute",
+        "wanttopay"
+      ]
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity",
+      "apps": [
+        "telegraph",
+        "skeddy",
+        "github-bot",
+        "trello-bot",
+        "ifttt",
+        "gmail-bot"
+      ]
+    },
+    {
+      "id": "social",
+      "name": "Social",
+      "apps": [
+        "votebot",
+        "discussbot",
+        "likebot",
+        "ton-dating"
+      ]
+    },
+    {
+      "id": "moderation",
+      "name": "Moderation",
+      "apps": [
+        "rose",
+        "combot",
+        "grouphelp",
+        "channel-help",
+        "no-chinese-bot"
+      ]
+    },
+    {
+      "id": "education",
+      "name": "Education",
+      "apps": [
+        "quizbot",
+        "wikipedia-search"
+      ]
+    },
+    {
+      "id": "entertainment",
+      "name": "Entertainment",
+      "apps": [
+        "gif-bot",
+        "imdb",
+        "video-search"
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "Tools",
+      "apps": [
+        "botfather",
+        "stickers",
+        "premium-bot",
+        "spam-info-bot",
+        "eu-regulation-bot",
+        "press-bot",
+        "username-bot",
+        "drweb",
+        "designers-bot",
+        "telegram-jobs-bot",
+        "verify-bot",
+        "contest-bot",
+        "image-search",
+        "mtproxy-admin-bot",
+        "tonmobile",
+        "anysticker",
+        "image-to-text"
+      ]
     }
   ],
   "apps": [
     {
-      "id": "swap-coffee",
-      "name": "swap.coffee",
-      "shortDescription": "Progressive DEX Aggregator",
-      "description": "swap.coffee aggregates liquidity across TON DEXs to find the best swap routes and rates.",
-      "icon": "https://placehold.co/128x128/1A1A1A/FFFFFF?text=SC",
+      "id": "starledger",
+      "name": "StarLedger",
+      "shortDescription": "Sell Telegram Stars, convert NFTs to TON",
+      "description": "Sell Telegram Stars and convert NFTs into TON cryptocurrency with zero fees and instant payouts. No signup or account required, with payouts processed automatically to any TON-compatible wallet.",
+      "icon": "https://telegram.me/i/userpic/320/starledgerbot.svg",
       "type": "miniapp",
-      "url": "https://t.me/swap_coffee_bot?startapp=source-replace_with_real_link",
-      "tags": ["dex", "aggregator", "swap"],
-      "verified": true
+      "url": "https://t.me/starledgerbot",
+      "tags": [
+        "crypto",
+        "stars",
+        "nft"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=starledger-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=starledger-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=starledger-3"
+      ]
     },
     {
-      "id": "ston-fi",
-      "name": "STON.fi",
-      "shortDescription": "Low-fee DeFi exchanger",
-      "description": "STON.fi is a leading decentralized exchange on TON with deep liquidity and low swap fees.",
-      "icon": "https://placehold.co/128x128/0098EA/FFFFFF?text=STON",
+      "id": "starninja",
+      "name": "StarNinja",
+      "shortDescription": "Buy Telegram Stars & Premium with crypto",
+      "description": "Buy Telegram Stars and Telegram Premium with crypto. Pays in TON, BTC, ETH, USDT, or 100+ other coins, delivered through Fragment in under a minute. Up to 45% cheaper than App Store pricing.",
+      "icon": "https://telegram.me/i/userpic/320/starninjabot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/starninjabot",
+      "tags": [
+        "crypto",
+        "stars",
+        "premium"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=starninja-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=starninja-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=starninja-3"
+      ]
+    },
+    {
+      "id": "sora",
+      "name": "Sora",
+      "shortDescription": "Crypto price & portfolio tracker",
+      "description": "Crypto price and portfolio bot for Telegram. Type a ticker in any chat for instant prices, convert between coins, track a watchlist, pin a live ticker to a group, or run a private portfolio. Inline mode works in any chat.",
+      "icon": "https://telegram.me/i/userpic/320/soracryptobot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/soracryptobot",
+      "tags": [
+        "crypto",
+        "prices",
+        "portfolio"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=sora-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=sora-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=sora-3"
+      ]
+    },
+    {
+      "id": "starninja-earn",
+      "name": "StarNinja Earn",
+      "shortDescription": "Earn free Telegram Stars by completing tasks",
+      "description": "Earn free Telegram Stars by completing tasks like joining channels and starting bots. No investment, just tasks. Refer friends for more rewards, and withdraw Stars directly to your Telegram account.",
+      "icon": "https://telegram.me/i/userpic/320/starninjaearnbot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/starninjaearnbot",
+      "tags": [
+        "earn",
+        "stars",
+        "tasks"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=starninja-earn-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=starninja-earn-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=starninja-earn-3"
+      ]
+    },
+    {
+      "id": "adeasly-ton",
+      "name": "AdEasly TON",
+      "shortDescription": "Earn TON by completing simple tasks",
+      "description": "Earn TON cryptocurrency by completing simple tasks: browse websites, join Telegram channels, start bots. Free to join with instant payouts to your TON wallet.",
+      "icon": "https://telegram.me/i/userpic/320/adeaslytonbot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/adeaslytonbot",
+      "tags": [
+        "earn",
+        "ton",
+        "tasks"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=adeasly-ton-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=adeasly-ton-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=adeasly-ton-3"
+      ]
+    },
+    {
+      "id": "adeasly-ltc",
+      "name": "AdEasly LTC",
+      "shortDescription": "Earn Litecoin by completing simple tasks",
+      "description": "Earn Litecoin by completing simple tasks: browse websites, join Telegram channels, start bots. Free to join with instant payouts to your LTC wallet. Same platform as AdEasly TON, paid in Litecoin.",
+      "icon": "https://telegram.me/i/userpic/320/adeaslyltcbot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/adeaslyltcbot",
+      "tags": [
+        "earn",
+        "litecoin",
+        "tasks"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=adeasly-ltc-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=adeasly-ltc-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=adeasly-ltc-3"
+      ]
+    },
+    {
+      "id": "group-game",
+      "name": "Group Game",
+      "shortDescription": "Word Chain & Quiz Bomb for groups",
+      "description": "Add it to a group and play Word Chain and Quiz Bomb challenges with friends. Compete in real-time rounds with shrinking timers, track scores, and earn points across a points system that rewards top finishers.",
+      "icon": "https://telegram.me/i/userpic/320/groupgamebot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/groupgamebot",
+      "tags": [
+        "game",
+        "group",
+        "quiz"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=group-game-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=group-game-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=group-game-3"
+      ]
+    },
+    {
+      "id": "gamebot",
+      "name": "GameBot",
+      "shortDescription": "Official Telegram Gaming Platform demo",
+      "description": "The official demo bot for the Telegram Gaming Platform. Maintained by Telegram, it showcases the HTML5 games developers can publish through the Bot API, with sample leaderboards and scoring.",
+      "icon": "https://telegram.me/i/userpic/320/gamebot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/gamebot",
+      "tags": [
+        "game",
+        "official",
+        "html5"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gamebot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gamebot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gamebot-3"
+      ]
+    },
+    {
+      "id": "notcoin",
+      "name": "Notcoin",
+      "shortDescription": "The original tap-to-earn game on Telegram",
+      "description": "The original tap-to-earn game on Telegram. Players tapped a gold coin to mine Notcoin during a months-long mining phase, then claimed the NOT token on TON after it listed on major exchanges. Credited with kicking off the wave of clicker mini apps in 2024.",
+      "icon": "https://telegram.me/i/userpic/320/notcoin_bot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/notcoin_bot",
+      "tags": [
+        "game",
+        "tap-to-earn",
+        "ton"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=notcoin-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=notcoin-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=notcoin-3"
+      ]
+    },
+    {
+      "id": "blum",
+      "name": "Blum",
+      "shortDescription": "Crypto exchange + play-to-earn app",
+      "description": "A hybrid crypto exchange and play-to-earn app inside Telegram. Players farm Blum Points through daily check-ins, a falling-flowers mini game, and friend referrals, while also using Blum as a swap interface for tokens on Solana, TON, and other chains. Founded by former Binance executives.",
+      "icon": "https://telegram.me/i/userpic/320/blum.svg",
+      "type": "miniapp",
+      "url": "https://t.me/blum",
+      "tags": [
+        "game",
+        "exchange",
+        "defi"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=blum-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=blum-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=blum-3"
+      ]
+    },
+    {
+      "id": "major",
+      "name": "Major",
+      "shortDescription": "Star-tapping game with a full mini app",
+      "description": "A simple star tapping game on Telegram that grew into a full mini app with daily tasks, NFT trading, staking, and a built-in marketplace. Players collect Stars by completing missions, inviting friends, and holding the MAJOR token.",
+      "icon": "https://telegram.me/i/userpic/320/major.svg",
+      "type": "miniapp",
+      "url": "https://t.me/major",
+      "tags": [
+        "game",
+        "tap-to-earn",
+        "nft"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=major-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=major-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=major-3"
+      ]
+    },
+    {
+      "id": "catizen",
+      "name": "Catizen",
+      "shortDescription": "Merge-style cat raising game on TON",
+      "description": "A merge style cat raising game built as a Telegram mini app. Players combine cats to evolve them into rarer breeds, earn vKitty points, and participate in seasonal events. Runs on TON.",
+      "icon": "https://telegram.me/i/userpic/320/catizenbot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/catizenbot",
+      "tags": [
+        "game",
+        "ton",
+        "merge"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=catizen-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=catizen-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=catizen-3"
+      ]
+    },
+    {
+      "id": "gamee",
+      "name": "Gamee",
+      "shortDescription": "Arcade game hub with tournaments",
+      "description": "One of the oldest gaming hubs on Telegram, predating the mini app boom. Gamee hosts dozens of arcade style games inside Telegram, runs tournaments with prize pools, and distributes airdrops to active players.",
+      "icon": "https://telegram.me/i/userpic/320/gamee.svg",
+      "type": "miniapp",
+      "url": "https://t.me/gamee",
+      "tags": [
+        "game",
+        "arcade",
+        "tournaments"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gamee-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gamee-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gamee-3"
+      ]
+    },
+    {
+      "id": "bums",
+      "name": "Bums",
+      "shortDescription": "Tap-to-earn mini app on TON",
+      "description": "A tap-to-earn mini app on TON with a cheeky brand and a strong focus on community memes. Players tap a character to earn Bums coins, complete daily missions, and invite friends for boosted multipliers.",
+      "icon": "https://telegram.me/i/userpic/320/bums.svg",
+      "type": "miniapp",
+      "url": "https://t.me/bums",
+      "tags": [
+        "game",
+        "tap-to-earn",
+        "ton"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=bums-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=bums-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=bums-3"
+      ]
+    },
+    {
+      "id": "playdeck",
+      "name": "PlayDeck",
+      "shortDescription": "HTML5 multiplayer game launcher",
+      "description": "An HTML5 game launcher inside Telegram that lets you play multiplayer arcade and casual games with friends in any chat. Drop a game card into a group, tap to launch, and compete on shared leaderboards.",
+      "icon": "https://telegram.me/i/userpic/320/playdeckbot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/playdeckbot",
+      "tags": [
+        "game",
+        "multiplayer",
+        "html5"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=playdeck-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=playdeck-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=playdeck-3"
+      ]
+    },
+    {
+      "id": "portals-market",
+      "name": "Portals Market",
+      "shortDescription": "TON NFT & collectible gifts marketplace",
+      "description": "Decentralized marketplace inside Telegram for trading TON-based NFTs and collectible gifts. Open mystery portal boxes, list items for sale, and connect a TON wallet to buy and sell in seconds.",
+      "icon": "https://telegram.me/i/userpic/320/portals_market_bot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/portals_market_bot",
+      "tags": [
+        "nft",
+        "marketplace",
+        "ton"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=portals-market-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=portals-market-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=portals-market-3"
+      ]
+    },
+    {
+      "id": "mrkt",
+      "name": "MRKT",
+      "shortDescription": "NFT marketplace for gifts & stickers",
+      "description": "TON-based NFT marketplace mini app for trading Telegram gifts, stickers, and collectibles. Supports auctions, multi-item listings, rarity filters, and direct TON wallet integration.",
+      "icon": "https://telegram.me/i/userpic/320/mrkt.svg",
+      "type": "miniapp",
+      "url": "https://t.me/mrkt",
+      "tags": [
+        "nft",
+        "marketplace",
+        "gifts"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=mrkt-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=mrkt-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=mrkt-3"
+      ]
+    },
+    {
+      "id": "getgems",
+      "name": "Getgems",
+      "shortDescription": "The largest NFT marketplace on TON",
+      "description": "The largest NFT marketplace on The Open Network. Getgems hosts collections of Telegram usernames, anonymous numbers, gifts, domains, and original art, with auctions, trait-based filtering, and a built-in launchpad.",
+      "icon": "https://telegram.me/i/userpic/320/getgems.svg",
+      "type": "miniapp",
+      "url": "https://t.me/getgems",
+      "tags": [
+        "nft",
+        "marketplace",
+        "ton"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=getgems-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=getgems-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=getgems-3"
+      ]
+    },
+    {
+      "id": "donate",
+      "name": "Donate",
+      "shortDescription": "Receive donations from your Telegram audience",
+      "description": "The official Telegram bot that helps content creators receive financial support from their followers directly inside the app. Channel owners can collect donations, supporters can contribute without leaving Telegram.",
+      "icon": "https://telegram.me/i/userpic/320/donate.svg",
+      "type": "miniapp",
+      "url": "https://t.me/donate",
+      "tags": [
+        "finance",
+        "donations",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=donate-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=donate-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=donate-3"
+      ]
+    },
+    {
+      "id": "tribute",
+      "name": "Tribute",
+      "shortDescription": "Paid subscriptions for Telegram creators",
+      "description": "Monetization platform for Telegram creators. Tribute lets channel owners and group admins accept paid subscriptions, one-time donations, and digital product sales directly from members, with payouts handled inside the app.",
+      "icon": "https://telegram.me/i/userpic/320/tribute.svg",
+      "type": "miniapp",
+      "url": "https://t.me/tribute",
+      "tags": [
+        "finance",
+        "subscriptions",
+        "creators"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=tribute-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=tribute-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=tribute-3"
+      ]
+    },
+    {
+      "id": "wanttopay",
+      "name": "WantToPay",
+      "shortDescription": "Virtual Visa/Mastercard cards in Telegram",
+      "description": "Virtual Visa and Mastercard cards issued inside Telegram for paying international services like ChatGPT, Steam, Figma, and Netflix. Top up with crypto (USDT, TON, BTC) or fiat, add cards to Apple Pay and Google Pay.",
+      "icon": "https://telegram.me/i/userpic/320/wanttopaybot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/wanttopaybot",
+      "tags": [
+        "finance",
+        "virtual-card",
+        "crypto"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=wanttopay-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=wanttopay-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=wanttopay-3"
+      ]
+    },
+    {
+      "id": "telegraph",
+      "name": "Telegraph",
+      "shortDescription": "Companion bot for Telegra.ph publishing",
+      "description": "The official companion bot for Telegra.ph, Telegram's anonymous publishing platform. Claim ownership of your articles, manage drafts across devices, edit posts after publishing, and check page view statistics.",
+      "icon": "https://telegram.me/i/userpic/320/telegraph.svg",
+      "type": "miniapp",
+      "url": "https://t.me/telegraph",
+      "tags": [
+        "productivity",
+        "publishing",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=telegraph-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=telegraph-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=telegraph-3"
+      ]
+    },
+    {
+      "id": "skeddy",
+      "name": "Skeddy",
+      "shortDescription": "Natural language reminder bot",
+      "description": "A natural language reminder bot for Telegram. Type a sentence like 'remind me to call mom tomorrow at 7pm' and Skeddy schedules the alert in plain English, with recurring reminders and time zones.",
+      "icon": "https://telegram.me/i/userpic/320/skeddybot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/skeddybot",
+      "tags": [
+        "productivity",
+        "reminders"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=skeddy-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=skeddy-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=skeddy-3"
+      ]
+    },
+    {
+      "id": "github-bot",
+      "name": "GitHub",
+      "shortDescription": "GitHub notifications inside Telegram",
+      "description": "Get notifications about activity in your public GitHub repositories and post comments directly from Telegram. Pushes commit, issue, pull request, and release events into any connected chat.",
+      "icon": "https://telegram.me/i/userpic/320/githubbot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/githubbot",
+      "tags": [
+        "productivity",
+        "developer",
+        "github"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=github-bot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=github-bot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=github-bot-3"
+      ]
+    },
+    {
+      "id": "trello-bot",
+      "name": "Trello",
+      "shortDescription": "Manage Trello boards from Telegram",
+      "description": "Connect your Trello boards to Telegram and manage cards without switching apps. Receive notifications when cards are updated, create new cards by replying to messages, and get due-date reminders.",
+      "icon": "https://telegram.me/i/userpic/320/trello_bot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/trello_bot",
+      "tags": [
+        "productivity",
+        "trello"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=trello-bot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=trello-bot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=trello-bot-3"
+      ]
+    },
+    {
+      "id": "ifttt",
+      "name": "IFTTT",
+      "shortDescription": "Automate Telegram with 360+ services",
+      "description": "Link your Telegram groups and channels to more than 360 other services through IFTTT applets. Trigger messages from RSS feeds, weather alerts, smart home events, calendar updates, and more.",
+      "icon": "https://telegram.me/i/userpic/320/ifttt.svg",
+      "type": "miniapp",
+      "url": "https://t.me/ifttt",
+      "tags": [
+        "productivity",
+        "automation",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=ifttt-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=ifttt-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=ifttt-3"
+      ]
+    },
+    {
+      "id": "gmail-bot",
+      "name": "Gmail Bot",
+      "shortDescription": "Read & send Gmail from Telegram",
+      "description": "Connect a Gmail account to Telegram. Receive new emails as instant messages, compose new emails and replies directly from the chat, and delete or mark as spam without leaving Telegram.",
+      "icon": "https://telegram.me/i/userpic/320/gmailbot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/gmailbot",
+      "tags": [
+        "productivity",
+        "email",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gmail-bot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gmail-bot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gmail-bot-3"
+      ]
+    },
+    {
+      "id": "votebot",
+      "name": "VoteBot",
+      "shortDescription": "Official Telegram polling bot",
+      "description": "The official Telegram polling bot. Create polls with custom questions and answer options, share them in any chat, and watch live results update as friends vote.",
+      "icon": "https://telegram.me/i/userpic/320/vote.svg",
+      "type": "miniapp",
+      "url": "https://t.me/vote",
+      "tags": [
+        "social",
+        "polls",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=votebot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=votebot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=votebot-3"
+      ]
+    },
+    {
+      "id": "discussbot",
+      "name": "Discussion Bot",
+      "shortDescription": "Link a discussion group to your channel",
+      "description": "The official bot for linking a discussion group to a Telegram channel so subscribers can leave comments on posts. Attach the bot, choose a group, and a Comment button appears under every channel post.",
+      "icon": "https://telegram.me/i/userpic/320/discussbot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/discussbot",
+      "tags": [
+        "social",
+        "channel",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=discussbot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=discussbot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=discussbot-3"
+      ]
+    },
+    {
+      "id": "likebot",
+      "name": "LikeBot",
+      "shortDescription": "Emoji-based like buttons for posts",
+      "description": "The official Telegram bot for creating posts with custom emoji-based like buttons. Compose a message, attach a row of reaction buttons, and share it to any chat where others can tap to react.",
+      "icon": "https://telegram.me/i/userpic/320/like.svg",
+      "type": "miniapp",
+      "url": "https://t.me/like",
+      "tags": [
+        "social",
+        "reactions",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=likebot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=likebot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=likebot-3"
+      ]
+    },
+    {
+      "id": "ton-dating",
+      "name": "TON Dating",
+      "shortDescription": "Selective dating mini app on TON",
+      "description": "Selective dating mini app on TON. Profiles are verified, active users earn TON rewards. Free for women; men pay a one-month subscription in Stars to access the app.",
+      "icon": "https://telegram.me/i/userpic/320/tondating_bot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/tondating_bot",
+      "tags": [
+        "social",
+        "dating",
+        "ton"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=ton-dating-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=ton-dating-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=ton-dating-3"
+      ]
+    },
+    {
+      "id": "rose",
+      "name": "Rose",
+      "shortDescription": "Powerful group management bot",
+      "description": "A powerful group management bot used by over two million Telegram communities. Provides anti-spam filters, custom welcome messages, warning systems, federated bans, note storage, and a flexible rules engine.",
+      "icon": "https://telegram.me/i/userpic/320/missrose_bot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/missrose_bot",
+      "tags": [
+        "moderation",
+        "group-admin"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=rose-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=rose-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=rose-3"
+      ]
+    },
+    {
+      "id": "combot",
+      "name": "Combot",
+      "shortDescription": "Moderation & analytics suite for groups",
+      "description": "Moderation, analytics, and anti-spam suite for Telegram groups and channels, running since 2016. Offers chat statistics, automated CAPTCHA, language filters, scheduled posts, and reputation tracking.",
+      "icon": "https://telegram.me/i/userpic/320/combot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/combot",
+      "tags": [
+        "moderation",
+        "analytics"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=combot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=combot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=combot-3"
+      ]
+    },
+    {
+      "id": "grouphelp",
+      "name": "GroupHelp",
+      "shortDescription": "Full-featured group management bot",
+      "description": "A full featured Telegram group management bot with anti-spam protection, welcome messages, scheduled posts, anti-flood controls, and word filters. Serves more than one million communities.",
+      "icon": "https://telegram.me/i/userpic/320/grouphelpbot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/grouphelpbot",
+      "tags": [
+        "moderation",
+        "group-admin"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=grouphelp-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=grouphelp-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=grouphelp-3"
+      ]
+    },
+    {
+      "id": "channel-help",
+      "name": "Channel Help",
+      "shortDescription": "Comprehensive channel management bot",
+      "description": "Comprehensive channel management bot. Schedule posts, add inline buttons and premium emoji, set welcome messages, run recurring posts, filter joins, and more. Popular with 2M+ monthly users.",
+      "icon": "https://telegram.me/i/userpic/320/chelpbot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/chelpbot",
+      "tags": [
+        "moderation",
+        "channel-admin"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=channel-help-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=channel-help-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=channel-help-3"
+      ]
+    },
+    {
+      "id": "no-chinese-bot",
+      "name": "No Chinese Bot",
+      "shortDescription": "Auto-removes Chinese-character spam",
+      "description": "Group moderation bot that automatically removes messages containing Chinese characters and bans the sender. Add the bot to a group as admin and it works immediately, no setup required.",
+      "icon": "https://telegram.me/i/userpic/320/nochinese_bot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/nochinese_bot",
+      "tags": [
+        "moderation",
+        "anti-spam"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=no-chinese-bot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=no-chinese-bot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=no-chinese-bot-3"
+      ]
+    },
+    {
+      "id": "quizbot",
+      "name": "Quiz Bot",
+      "shortDescription": "Build multi-question quizzes",
+      "description": "The official Telegram bot for building multi-question quizzes with multiple-choice answers. Create quizzes, share them in groups or channels, and challenge friends with timed scoring and live leaderboards.",
+      "icon": "https://telegram.me/i/userpic/320/quizbot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/quizbot",
+      "tags": [
+        "education",
+        "quiz",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=quizbot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=quizbot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=quizbot-3"
+      ]
+    },
+    {
+      "id": "wikipedia-search",
+      "name": "Wikipedia Search",
+      "shortDescription": "Inline Wikipedia search (@wiki)",
+      "description": "Telegram's official inline Wikipedia search bot. Type @wiki in any chat followed by a query to find and share Wikipedia articles instantly without opening a browser.",
+      "icon": "https://telegram.me/i/userpic/320/wiki.svg",
+      "type": "miniapp",
+      "url": "https://t.me/wiki",
+      "tags": [
+        "education",
+        "search",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=wikipedia-search-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=wikipedia-search-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=wikipedia-search-3"
+      ]
+    },
+    {
+      "id": "gif-bot",
+      "name": "GIF",
+      "shortDescription": "Official inline GIF search",
+      "description": "The official inline GIF search bot built into Telegram, powered by the Tenor library. Type @gif followed by a keyword in any chat to browse and send animated GIFs without leaving the conversation.",
+      "icon": "https://telegram.me/i/userpic/320/gif.svg",
+      "type": "miniapp",
+      "url": "https://t.me/gif",
+      "tags": [
+        "entertainment",
+        "gif",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gif-bot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gif-bot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gif-bot-3"
+      ]
+    },
+    {
+      "id": "imdb",
+      "name": "IMDb",
+      "shortDescription": "Inline movie & show search",
+      "description": "Telegram's official inline IMDb bot. Works in any chat, no need to add it anywhere. Type @imdb followed by a movie or show name to share rich previews with ratings and details.",
+      "icon": "https://telegram.me/i/userpic/320/imdb.svg",
+      "type": "miniapp",
+      "url": "https://t.me/imdb",
+      "tags": [
+        "entertainment",
+        "movies",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=imdb-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=imdb-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=imdb-3"
+      ]
+    },
+    {
+      "id": "video-search",
+      "name": "Video Search",
+      "shortDescription": "Official inline video search (@vid)",
+      "description": "Telegram's official inline video search bot. Same service as @youtube under a shorter username. Type @vid in any chat followed by a query to find and share videos.",
+      "icon": "https://telegram.me/i/userpic/320/vid.svg",
+      "type": "miniapp",
+      "url": "https://t.me/vid",
+      "tags": [
+        "entertainment",
+        "video",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=video-search-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=video-search-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=video-search-3"
+      ]
+    },
+    {
+      "id": "botfather",
+      "name": "BotFather",
+      "shortDescription": "Create and manage Telegram bots",
+      "description": "The one bot to rule them all. BotFather is the official Telegram bot used by developers to create new bots, generate API tokens, set commands, configure inline mode, and manage every bot they own.",
+      "icon": "https://telegram.me/i/userpic/320/botfather.svg",
+      "type": "miniapp",
+      "url": "https://t.me/botfather",
+      "tags": [
+        "tools",
+        "developer",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=botfather-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=botfather-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=botfather-3"
+      ]
+    },
+    {
+      "id": "stickers",
+      "name": "Stickers",
+      "shortDescription": "Create and manage sticker packs",
+      "description": "The official Telegram bot for creating and managing custom sticker packs. Upload images, assign emoji, build animated and video stickers, and publish packs for anyone on Telegram to add.",
+      "icon": "https://telegram.me/i/userpic/320/stickers.svg",
+      "type": "miniapp",
+      "url": "https://t.me/stickers",
+      "tags": [
+        "tools",
+        "stickers",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=stickers-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=stickers-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=stickers-3"
+      ]
+    },
+    {
+      "id": "premium-bot",
+      "name": "Premium Bot",
+      "shortDescription": "Subscribe or gift Telegram Premium",
+      "description": "The official bot for subscribing to Telegram Premium or gifting subscriptions to friends, with discounts up to 40 percent on multi-month plans.",
+      "icon": "https://telegram.me/i/userpic/320/premiumbot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/premiumbot",
+      "tags": [
+        "tools",
+        "premium",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=premium-bot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=premium-bot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=premium-bot-3"
+      ]
+    },
+    {
+      "id": "spam-info-bot",
+      "name": "Spam Info Bot",
+      "shortDescription": "Appeal account messaging restrictions",
+      "description": "The official Telegram Spam Info Bot. If your account has been limited from messaging strangers or joining new groups, this bot explains why and lets you appeal the restriction.",
+      "icon": "https://telegram.me/i/userpic/320/spambot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/spambot",
+      "tags": [
+        "tools",
+        "account",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=spam-info-bot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=spam-info-bot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=spam-info-bot-3"
+      ]
+    },
+    {
+      "id": "eu-regulation-bot",
+      "name": "EU Regulation Bot",
+      "shortDescription": "GDPR / DSA requests for EU users",
+      "description": "Telegram's official EU Regulation Bot. The canonical route for users in the European Union to submit privacy and data protection requests under the Digital Services Act and GDPR.",
+      "icon": "https://telegram.me/i/userpic/320/euregulation.svg",
+      "type": "miniapp",
+      "url": "https://t.me/euregulation",
+      "tags": [
+        "tools",
+        "privacy",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=eu-regulation-bot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=eu-regulation-bot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=eu-regulation-bot-3"
+      ]
+    },
+    {
+      "id": "press-bot",
+      "name": "Press Bot",
+      "shortDescription": "Contact the Telegram Press Team",
+      "description": "The official bot of the Telegram Press Team. Journalists and media organizations use this bot to submit press requests, schedule interviews, and contact the Telegram team for comment.",
+      "icon": "https://telegram.me/i/userpic/320/pressbot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/pressbot",
+      "tags": [
+        "tools",
+        "press",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=press-bot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=press-bot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=press-bot-3"
+      ]
+    },
+    {
+      "id": "username-bot",
+      "name": "Username Bot",
+      "shortDescription": "Claim an occupied inactive username",
+      "description": "The official Telegram bot for claiming an occupied username. If you own the same username on another platform and the matching Telegram handle is held by an inactive account, submit a claim here.",
+      "icon": "https://telegram.me/i/userpic/320/username_bot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/username_bot",
+      "tags": [
+        "tools",
+        "username",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=username-bot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=username-bot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=username-bot-3"
+      ]
+    },
+    {
+      "id": "drweb",
+      "name": "Dr.Web",
+      "shortDescription": "Free antivirus scanning bot",
+      "description": "Free antivirus bot from Dr.Web. Send a file or a link and the bot scans it for viruses and reports back. Works in private chats and in groups, with a quiet mode that only warns on threats.",
+      "icon": "https://telegram.me/i/userpic/320/drwebbot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/drwebbot",
+      "tags": [
+        "tools",
+        "security",
+        "antivirus"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=drweb-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=drweb-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=drweb-3"
+      ]
+    },
+    {
+      "id": "designers-bot",
+      "name": "Designers Bot",
+      "shortDescription": "Submit UI ideas to improve Telegram",
+      "description": "Accepts UI layouts and animations intended to improve Telegram. Best contributions get published in @designers, Telegram's official channel for community design submissions.",
+      "icon": "https://telegram.me/i/userpic/320/design_bot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/design_bot",
+      "tags": [
+        "tools",
+        "design",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=designers-bot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=designers-bot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=designers-bot-3"
+      ]
+    },
+    {
+      "id": "telegram-jobs-bot",
+      "name": "Telegram Jobs Bot",
+      "shortDescription": "Careers at Telegram",
+      "description": "Lists career opportunities at Telegram and accepts candidate applications. The official entry point for Telegram hiring, mirroring the openings at telegram.org/jobs.",
+      "icon": "https://telegram.me/i/userpic/320/jobs_bot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/jobs_bot",
+      "tags": [
+        "tools",
+        "jobs",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=telegram-jobs-bot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=telegram-jobs-bot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=telegram-jobs-bot-3"
+      ]
+    },
+    {
+      "id": "verify-bot",
+      "name": "Verify Bot",
+      "shortDescription": "Start official channel/group verification",
+      "description": "Telegram's official verification bot. Use it to start the verification process for a Telegram channel, public group, or bot that meets Telegram's verification criteria.",
+      "icon": "https://telegram.me/i/userpic/320/verifybot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/verifybot",
+      "tags": [
+        "tools",
+        "verification",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=verify-bot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=verify-bot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=verify-bot-3"
+      ]
+    },
+    {
+      "id": "contest-bot",
+      "name": "Contest Bot",
+      "shortDescription": "Telegram developer & creator contests",
+      "description": "The official entry point for Telegram's developer and content creator contests. See @contest for details on current and upcoming Telegram contests, prizes, and rules.",
+      "icon": "https://telegram.me/i/userpic/320/contestbot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/contestbot",
+      "tags": [
+        "tools",
+        "contest",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=contest-bot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=contest-bot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=contest-bot-3"
+      ]
+    },
+    {
+      "id": "image-search",
+      "name": "Image Search",
+      "shortDescription": "Inline image search (@pic)",
+      "description": "Telegram's official inline image search bot powered by Yandex. Type @pic in any chat followed by a search query to find and share images directly in the conversation.",
+      "icon": "https://telegram.me/i/userpic/320/pic.svg",
+      "type": "miniapp",
+      "url": "https://t.me/pic",
+      "tags": [
+        "tools",
+        "search",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=image-search-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=image-search-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=image-search-3"
+      ]
+    },
+    {
+      "id": "mtproxy-admin-bot",
+      "name": "MTProxy Admin Bot",
+      "shortDescription": "Set up & manage MTProxy servers",
+      "description": "Telegram's official tool for setting up and managing MTProxy servers. Generate proxy configurations, sponsor channels through your proxy, and view connection statistics.",
+      "icon": "https://telegram.me/i/userpic/320/mtproxybot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/mtproxybot",
+      "tags": [
+        "tools",
+        "proxy",
+        "official"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=mtproxy-admin-bot-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=mtproxy-admin-bot-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=mtproxy-admin-bot-3"
+      ]
+    },
+    {
+      "id": "tonmobile",
+      "name": "TonMobile",
+      "shortDescription": "Buy eSIMs with TON crypto",
+      "description": "Buy eSIMs and mobile data plans with TON cryptocurrency, anywhere in the world. Pay in TON, USDT, or other crypto, activate via QR, and get connectivity without a bank or postal address.",
+      "icon": "https://telegram.me/i/userpic/320/tonmobile.svg",
+      "type": "miniapp",
+      "url": "https://t.me/tonmobile",
+      "tags": [
+        "tools",
+        "esim",
+        "ton"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=tonmobile-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=tonmobile-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=tonmobile-3"
+      ]
+    },
+    {
+      "id": "anysticker",
+      "name": "AnySticker",
+      "shortDescription": "Download & convert any sticker pack",
+      "description": "Download and convert any Telegram sticker, custom emoji, or sticker pack into open formats: TGS, JSON, Lottie, PNG, GIF, WebP, and WebM, bundled into a single ZIP. Free, instant, no account needed.",
+      "icon": "https://telegram.me/i/userpic/320/anystickerdownloadbot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/anystickerdownloadbot",
+      "tags": [
+        "tools",
+        "stickers",
+        "converter"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=anysticker-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=anysticker-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=anysticker-3"
+      ]
+    },
+    {
+      "id": "image-to-text",
+      "name": "Image To Text",
+      "shortDescription": "Free OCR inside Telegram",
+      "description": "Extract text from any image or PDF in seconds inside Telegram. Send a photo, screenshot, or document and get clean, copyable text back, with support for English, Hindi, Bengali, Arabic, Chinese, Spanish, and more.",
+      "icon": "https://telegram.me/i/userpic/320/image2textrobot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/image2textrobot",
+      "tags": [
+        "tools",
+        "ocr"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=image-to-text-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=image-to-text-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=image-to-text-3"
+      ]
+    },
+    {
+      "id": "fragment",
+      "name": "Fragment",
+      "shortDescription": "Auction TON usernames, numbers & gifts",
+      "description": "The official marketplace for collectible Telegram usernames, anonymous numbers, and gifts, settled entirely in TON. Every purchase is minted as an NFT on TON, tradable on Getgems and other secondary marketplaces.",
+      "icon": "https://placehold.co/128x128/000000/FFFFFF?text=Fragment",
       "type": "website",
-      "url": "https://ston.fi",
-      "tags": ["dex", "swap", "liquidity"],
-      "verified": true
-    },
-    {
-      "id": "upscale",
-      "name": "Upscale",
-      "shortDescription": "Get funded for trading — keep up to 90% profits",
-      "description": "Upscale offers funded trading accounts, letting you trade with provided capital and keep a majority of the profits.",
-      "icon": "https://placehold.co/128x128/A855F7/FFFFFF?text=U",
-      "type": "miniapp",
-      "url": "https://t.me/upscale_bot?startapp=source-replace_with_real_link",
-      "tags": ["trading", "funding"],
-      "verified": false
-    },
-    {
-      "id": "desim",
-      "name": "DeSIM",
-      "shortDescription": "eSIM Service",
-      "description": "DeSIM lets you buy and manage eSIM data plans for travel, paid for with crypto.",
-      "icon": "https://placehold.co/128x128/EDEDED/000000?text=eSIM",
-      "type": "miniapp",
-      "url": "https://t.me/desim_bot?startapp=source-replace_with_real_link",
-      "tags": ["esim", "travel", "utility"],
-      "verified": false
-    },
-    {
-      "id": "whale",
-      "name": "Whale",
-      "shortDescription": "Xmas Special! New Prizes and Rewards Daily — 22% Daily",
-      "description": "Whale is a Telegram-native game with daily rewards and seasonal prize events.",
-      "icon": "https://placehold.co/128x128/E8543C/FFFFFF?text=W",
-      "type": "miniapp",
-      "url": "https://t.me/whale_bot?startapp=source-replace_with_real_link",
-      "tags": ["game", "rewards"],
-      "verified": false
-    },
-    {
-      "id": "the-originals",
-      "name": "TheOriginals.io",
-      "shortDescription": "Best Originals Casino + 15% Instant Rakeback, No KYC",
-      "description": "TheOriginals.io is a crypto casino platform accessible directly from Telegram.",
-      "icon": "https://placehold.co/128x128/000000/FFFFFF?text=TO",
-      "type": "website",
-      "url": "https://theoriginals.io",
-      "tags": ["casino", "gambling"],
-      "verified": false
-    },
-    {
-      "id": "fanton",
-      "name": "Fanton Fantasy Football",
-      "shortDescription": "Make 1st deposit and get up free entry tournament",
-      "description": "Fanton is a fantasy football game built on TON where you draft players and compete for prizes.",
-      "icon": "https://placehold.co/128x128/F97316/FFFFFF?text=FT",
-      "type": "miniapp",
-      "url": "https://t.me/fanton_bot?startapp=source-replace_with_real_link",
-      "tags": ["game", "sports", "fantasy"],
-      "verified": true
-    },
-    {
-      "id": "m5-racing",
-      "name": "M5 Racing",
-      "shortDescription": "On-chain racing game",
-      "icon": "https://placehold.co/128x128/E11D2A/FFFFFF?text=M5",
-      "type": "miniapp",
-      "url": "https://t.me/m5racing_bot?startapp=source-replace_with_real_link",
-      "tags": ["game", "racing"],
-      "verified": false
-    },
-    {
-      "id": "kingy-gm-battle",
-      "name": "KINGY GM BATTLE",
-      "shortDescription": "Daily battle mini-game",
-      "icon": "https://placehold.co/128x128/16A34A/FFFFFF?text=GM",
-      "type": "miniapp",
-      "url": "https://t.me/kingygm_bot?startapp=source-replace_with_real_link",
-      "tags": ["game"],
-      "verified": false
-    },
-    {
-      "id": "ton-poker",
-      "name": "Ton Poker",
-      "shortDescription": "Play poker on TON",
-      "icon": "https://placehold.co/128x128/CA8A04/FFFFFF?text=TP",
-      "type": "miniapp",
-      "url": "https://t.me/tonpoker_bot?startapp=source-replace_with_real_link",
-      "tags": ["game", "poker"],
-      "verified": false
+      "url": "https://fragment.com",
+      "tags": [
+        "nft",
+        "usernames",
+        "ton"
+      ],
+      "verified": true,
+      "screenshots": [
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=fragment-1",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=fragment-2",
+        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=fragment-3"
+      ]
     }
   ]
 }
