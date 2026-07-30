@@ -2,7 +2,7 @@ name: Download Gifts
 
 on:
   workflow_dispatch:
-  
+
 jobs:
   download:
     runs-on: ubuntu-latest
@@ -18,9 +18,20 @@ jobs:
       - name: Run downloader
         run: python gifts/gift-downloader.py
 
-      - name: Upload gifts as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: gifts
-          path: gifts/
-          retention-days: 7
+      - name: Check if files were created
+        run: |
+          if [ -d "gifts" ] && [ "$(ls -A gifts)" ]; then
+            echo "✅ Gifts downloaded successfully"
+            ls -la gifts/
+          else
+            echo "❌ No gifts found!"
+            exit 1
+          fi
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add gifts/
+          git diff --staged --quiet || git commit -m "Update gifts [skip ci]"
+          git push
