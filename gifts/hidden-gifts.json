@@ -2,7 +2,7 @@
   "gifts": [
     {
       "id": "5922558454332916696",
-      "name": "",
+      "name": "New Year Tree",
       "price": 55,
       "sticker_id": "5345935030143196497",
       "paths": {
@@ -13,7 +13,7 @@
     },
     {
       "id": "5956217000635139069",
-      "name": "",
+      "name": "New Year TeddyBear",
       "price": 55,
       "sticker_id": "5379850840691476775",
       "paths": {
@@ -24,7 +24,7 @@
     },
     {
       "id": "5801108895304779062",
-      "name": "",
+      "name": "Valentine's Day Heart",
       "price": 55,
       "sticker_id": "5224628072619216265",
       "paths": {
@@ -35,7 +35,7 @@
     },
     {
       "id": "5800655655995968830",
-      "name": "",
+      "name": "TeddyBear with a heart",
       "price": 55,
       "sticker_id": "5226661632259691727",
       "paths": {
