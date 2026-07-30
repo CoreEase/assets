@@ -1,5 +1,5 @@
 {
-  "gifts": [
+  [
     {
       "id": "5922558454332916696",
       "name": "New Year Tree",
@@ -46,7 +46,7 @@
     },
     {
       "id": "5866352046986232958",
-      "name": "",
+      "name": "TeddyBear with a bouquet",
       "price": 55,
       "sticker_id": "5294268489127731562",
       "paths": {
@@ -57,7 +57,7 @@
     },
     {
       "id": "5893356958802511476",
-      "name": "",
+      "name": "Irish TeddyBear",
       "price": 55,
       "sticker_id": "5317000922096769303",
       "paths": {
