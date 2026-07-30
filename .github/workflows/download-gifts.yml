@@ -16,7 +16,7 @@ jobs:
           python-version: '3.12'
 
       - name: Run downloader
-        run: python gifts/download_gifts.py
+        run: python gifts/gift-downloader.py
 
       - name: Upload gifts as artifact
         uses: actions/upload-artifact@v4
