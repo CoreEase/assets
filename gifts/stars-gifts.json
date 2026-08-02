@@ -1,0 +1,147 @@
+{
+  "gifts": [
+    {
+      "id": "5956217000635139069",
+      "name": "New Year TeddyBear",
+      "price": 50,
+      "sticker_id": "5379850840691476775",
+      "paths": {
+        "png": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5956217000635139069/5956217000635139069.png",
+        "json": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5956217000635139069/5956217000635139069.json",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5956217000635139069/5956217000635139069.tgs"
+      }
+    },
+    {
+      "id": "5922558454332916696",
+      "name": "New Year Tree",
+      "price": 50,
+      "sticker_id": "5346117566253276549",
+      "paths": {
+        "png": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5922558454332916696/5922558454332916696.png",
+        "json": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5922558454332916696/5922558454332916696.json",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5922558454332916696/5922558454332916696.tgs"
+      }
+    },
+    {
+      "id": "5170145012310081615",
+      "name": "",
+      "price": 15,
+      "sticker_id": "5465263910414195580",
+      "paths": {
+        "png": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170145012310081615/5170145012310081615.png",
+        "json": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170145012310081615/5170145012310081615.json",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170145012310081615/5170145012310081615.tgs"
+      }
+    },
+    {
+      "id": "5170233102089322756",
+      "name": "",
+      "price": 15,
+      "sticker_id": "5397915559037785261",
+      "paths": {
+        "png": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170233102089322756/5170233102089322756.png",
+        "json": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170233102089322756/5170233102089322756.json",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170233102089322756/5170233102089322756.tgs"
+      }
+    },
+    {
+      "id": "5170250947678437525",
+      "name": "",
+      "price": 25,
+      "sticker_id": "5203996991054432397",
+      "paths": {
+        "png": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170250947678437525/5170250947678437525.png",
+        "json": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170250947678437525/5170250947678437525.json",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170250947678437525/5170250947678437525.tgs"
+      }
+    },
+    {
+      "id": "5168103777563050263",
+      "name": "",
+      "price": 25,
+      "sticker_id": "5440911110838425969",
+      "paths": {
+        "png": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5168103777563050263/5168103777563050263.png",
+        "json": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5168103777563050263/5168103777563050263.json",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5168103777563050263/5168103777563050263.tgs"
+      }
+    },
+    {
+      "id": "5170144170496491616",
+      "name": "",
+      "price": 50,
+      "sticker_id": "5370999492914976897",
+      "paths": {
+        "png": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170144170496491616/5170144170496491616.png",
+        "json": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170144170496491616/5170144170496491616.json",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170144170496491616/5170144170496491616.tgs"
+      }
+    },
+    {
+      "id": "5170314324215857265",
+      "name": "",
+      "price": 50,
+      "sticker_id": "5395347834314696158",
+      "paths": {
+        "png": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170314324215857265/5170314324215857265.png",
+        "json": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170314324215857265/5170314324215857265.json",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170314324215857265/5170314324215857265.tgs"
+      }
+    },
+    {
+      "id": "5170564780938756245",
+      "name": "",
+      "price": 50,
+      "sticker_id": "5445284980978621387",
+      "paths": {
+        "png": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170564780938756245/5170564780938756245.png",
+        "json": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170564780938756245/5170564780938756245.json",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170564780938756245/5170564780938756245.tgs"
+      }
+    },
+    {
+      "id": "5168043875654172773",
+      "name": "",
+      "price": 100,
+      "sticker_id": "5409008750893734809",
+      "paths": {
+        "png": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5168043875654172773/5168043875654172773.png",
+        "json": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5168043875654172773/5168043875654172773.json",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5168043875654172773/5168043875654172773.tgs"
+      }
+    },
+    {
+      "id": "5170690322832818290",
+      "name": "",
+      "price": 100,
+      "sticker_id": "5402100905883488232",
+      "paths": {
+        "png": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170690322832818290/5170690322832818290.png",
+        "json": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170690322832818290/5170690322832818290.json",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170690322832818290/5170690322832818290.tgs"
+      }
+    },
+    {
+      "id": "5170521118301225164",
+      "name": "",
+      "price": 100,
+      "sticker_id": "5471952986970267163",
+      "paths": {
+        "png": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170521118301225164/5170521118301225164.png",
+        "json": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170521118301225164/5170521118301225164.json",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/5170521118301225164/5170521118301225164.tgs"
+      }
+    },
+    {
+      "id": "6028601630662853006",
+      "name": "", 
+      "price": 50,
+      "sticker_id": "5370900768796711127",
+      "paths": {
+        "png": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/6028601630662853006/6028601630662853006.png",
+        "json": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/6028601630662853006/6028601630662853006.json",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/6028601630662853006/6028601630662853006.tgs"
+      }
+    }
+  ]
+}
