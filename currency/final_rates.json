@@ -47,7 +47,7 @@
         "flag": "https://flagcdn.com/ar.svg",
         "t_code": "ARS",
         "symbol_position": "start",
-        "rate": 1496.22
+        "rate": 1499.69
     },
     "AUD": {
         "symbol": "AU$",
@@ -77,7 +77,7 @@
         "flag": "https://flagcdn.com/ba.svg",
         "t_code": "BAM",
         "symbol_position": "end",
-        "rate": 1.69
+        "rate": 1.7
     },
     "BDT": {
         "symbol": "Tk",
@@ -87,7 +87,7 @@
         "flag": "https://flagcdn.com/bd.svg",
         "t_code": "BDT",
         "symbol_position": "start",
-        "rate": 123.64
+        "rate": 123.95
     },
     "BGN": {
         "symbol": "BGN",
@@ -97,7 +97,7 @@
         "flag": "https://flagcdn.com/bg.svg",
         "t_code": "BGN",
         "symbol_position": "end",
-        "rate": 1.69
+        "rate": 1.7
     },
     "BHD": {
         "symbol": "BD",
@@ -117,7 +117,7 @@
         "flag": "https://flagcdn.com/bi.svg",
         "t_code": "BIF",
         "symbol_position": "end",
-        "rate": 2981.0
+        "rate": 2993.0
     },
     "BND": {
         "symbol": "BN$",
@@ -147,7 +147,7 @@
         "flag": "https://flagcdn.com/br.svg",
         "t_code": "BRL",
         "symbol_position": "start",
-        "rate": 5.13
+        "rate": 5.12
     },
     "BWP": {
         "symbol": "BWP",
@@ -157,7 +157,7 @@
         "flag": "https://flagcdn.com/bw.svg",
         "t_code": "BWP",
         "symbol_position": "start",
-        "rate": 13.54
+        "rate": 13.55
     },
     "BYN": {
         "symbol": "Br",
@@ -167,7 +167,7 @@
         "flag": "https://flagcdn.com/by.svg",
         "t_code": "BYN",
         "symbol_position": "end",
-        "rate": 2.95
+        "rate": 2.97
     },
     "BZD": {
         "symbol": "BZ$",
@@ -197,7 +197,7 @@
         "flag": "https://flagcdn.com/cd.svg",
         "t_code": "CDF",
         "symbol_position": "end",
-        "rate": 2287.77
+        "rate": 2289.98
     },
     "CHF": {
         "symbol": "CHF",
@@ -217,7 +217,7 @@
         "flag": "https://flagcdn.com/cl.svg",
         "t_code": "CLP",
         "symbol_position": "start",
-        "rate": 914.0
+        "rate": 916.0
     },
     "CNY": {
         "symbol": "CN¥",
@@ -237,7 +237,7 @@
         "flag": "https://flagcdn.com/co.svg",
         "t_code": "COP",
         "symbol_position": "start",
-        "rate": 3178.0
+        "rate": 3158.0
     },
     "CRC": {
         "symbol": "₡",
@@ -247,7 +247,7 @@
         "flag": "https://flagcdn.com/cr.svg",
         "t_code": "CRC",
         "symbol_position": "start",
-        "rate": 454.0
+        "rate": 455.0
     },
     "CVE": {
         "symbol": "CV$",
@@ -257,7 +257,7 @@
         "flag": "https://flagcdn.com/cv.svg",
         "t_code": "CVE",
         "symbol_position": "start",
-        "rate": 95.45
+        "rate": 95.69
     },
     "CZK": {
         "symbol": "Kč",
@@ -267,7 +267,7 @@
         "flag": "https://flagcdn.com/cz.svg",
         "t_code": "CZK",
         "symbol_position": "end",
-        "rate": 20.94
+        "rate": 21.05
     },
     "DJF": {
         "symbol": "Fdj",
@@ -287,7 +287,7 @@
         "flag": "https://flagcdn.com/dk.svg",
         "t_code": "DKK",
         "symbol_position": "end",
-        "rate": 6.47
+        "rate": 6.49
     },
     "DOP": {
         "symbol": "RD$",
@@ -297,7 +297,7 @@
         "flag": "https://flagcdn.com/do.svg",
         "t_code": "DOP",
         "symbol_position": "start",
-        "rate": 58.23
+        "rate": 58.38
     },
     "DZD": {
         "symbol": "DA",
@@ -307,7 +307,7 @@
         "flag": "https://flagcdn.com/dz.svg",
         "t_code": "DZD",
         "symbol_position": "end",
-        "rate": 132.89
+        "rate": 132.96
     },
     "EEK": {
         "symbol": "Ekr",
@@ -317,7 +317,7 @@
         "flag": "https://flagcdn.com/ee.svg",
         "t_code": "EEK",
         "symbol_position": "end",
-        "rate": 13.54
+        "rate": 13.58
     },
     "EGP": {
         "symbol": "EGP",
@@ -327,7 +327,7 @@
         "flag": "https://flagcdn.com/eg.svg",
         "t_code": "EGP",
         "symbol_position": "end",
-        "rate": 49.82
+        "rate": 49.69
     },
     "ERN": {
         "symbol": "Nfk",
@@ -347,7 +347,7 @@
         "flag": "https://flagcdn.com/et.svg",
         "t_code": "ETB",
         "symbol_position": "start",
-        "rate": 160.97
+        "rate": 161.41
     },
     "EUR": {
         "symbol": "€",
@@ -387,7 +387,7 @@
         "flag": "https://flagcdn.com/gh.svg",
         "t_code": "GHS",
         "symbol_position": "start",
-        "rate": 11.72
+        "rate": 11.75
     },
     "GNF": {
         "symbol": "FG",
@@ -397,7 +397,7 @@
         "flag": "https://flagcdn.com/gn.svg",
         "t_code": "GNF",
         "symbol_position": "end",
-        "rate": 8789.0
+        "rate": 8794.0
     },
     "GTQ": {
         "symbol": "GTQ",
@@ -407,7 +407,7 @@
         "flag": "https://flagcdn.com/gt.svg",
         "t_code": "GTQ",
         "symbol_position": "start",
-        "rate": 7.62
+        "rate": 7.64
     },
     "HKD": {
         "symbol": "HK$",
@@ -437,7 +437,7 @@
         "flag": "https://flagcdn.com/hr.svg",
         "t_code": "HRK",
         "symbol_position": "end",
-        "rate": 6.52
+        "rate": 6.54
     },
     "HUF": {
         "symbol": "Ft",
@@ -447,7 +447,7 @@
         "flag": "https://flagcdn.com/hu.svg",
         "t_code": "HUF",
         "symbol_position": "end",
-        "rate": 314.0
+        "rate": 317.0
     },
     "IDR": {
         "symbol": "Rp",
@@ -457,7 +457,7 @@
         "flag": "https://flagcdn.com/id.svg",
         "t_code": "IDR",
         "symbol_position": "start",
-        "rate": 17913.0
+        "rate": 17941.0
     },
     "ILS": {
         "symbol": "₪",
@@ -477,7 +477,7 @@
         "flag": "https://flagcdn.com/in.svg",
         "t_code": "INR",
         "symbol_position": "end",
-        "rate": 95.07
+        "rate": 95.38
     },
     "IQD": {
         "symbol": "IQD",
@@ -487,7 +487,7 @@
         "flag": "https://flagcdn.com/iq.svg",
         "t_code": "IQD",
         "symbol_position": "end",
-        "rate": 1309.0
+        "rate": 1312.0
     },
     "IRR": {
         "symbol": "IRR",
@@ -497,7 +497,7 @@
         "flag": "https://flagcdn.com/ir.svg",
         "t_code": "IRR",
         "symbol_position": "end",
-        "rate": 1374940.0
+        "rate": 1374851.0
     },
     "ISK": {
         "symbol": "Ikr",
@@ -507,7 +507,7 @@
         "flag": "https://flagcdn.com/is.svg",
         "t_code": "ISK",
         "symbol_position": "end",
-        "rate": 123.0
+        "rate": 124.0
     },
     "JMD": {
         "symbol": "J$",
@@ -517,7 +517,7 @@
         "flag": "https://flagcdn.com/jm.svg",
         "t_code": "JMD",
         "symbol_position": "start",
-        "rate": 158.58
+        "rate": 158.8
     },
     "JOD": {
         "symbol": "JD",
@@ -557,7 +557,7 @@
         "flag": "https://flagcdn.com/kh.svg",
         "t_code": "KHR",
         "symbol_position": "end",
-        "rate": 4048.26
+        "rate": 4061.18
     },
     "KMF": {
         "symbol": "CF",
@@ -567,7 +567,7 @@
         "flag": "https://flagcdn.com/km.svg",
         "t_code": "KMF",
         "symbol_position": "end",
-        "rate": 426.0
+        "rate": 427.0
     },
     "KRW": {
         "symbol": "₩",
@@ -597,7 +597,7 @@
         "flag": "https://flagcdn.com/kz.svg",
         "t_code": "KZT",
         "symbol_position": "end",
-        "rate": 469.74
+        "rate": 469.25
     },
     "LBP": {
         "symbol": "LB£",
@@ -607,7 +607,7 @@
         "flag": "https://flagcdn.com/lb.svg",
         "t_code": "LBP",
         "symbol_position": "end",
-        "rate": 89423.0
+        "rate": 89924.0
     },
     "LKR": {
         "symbol": "SLRs",
@@ -617,7 +617,7 @@
         "flag": "https://flagcdn.com/lk.svg",
         "t_code": "LKR",
         "symbol_position": "start",
-        "rate": 335.02
+        "rate": 336.53
     },
     "LTL": {
         "symbol": "Lt",
@@ -627,7 +627,7 @@
         "flag": "https://flagcdn.com/lt.svg",
         "t_code": "LTL",
         "symbol_position": "end",
-        "rate": 2.99
+        "rate": 3.0
     },
     "LVL": {
         "symbol": "Ls",
@@ -647,7 +647,7 @@
         "flag": "https://flagcdn.com/ly.svg",
         "t_code": "LYD",
         "symbol_position": "end",
-        "rate": 6.356
+        "rate": 6.386
     },
     "MAD": {
         "symbol": "MAD",
@@ -657,7 +657,7 @@
         "flag": "https://flagcdn.com/ma.svg",
         "t_code": "MAD",
         "symbol_position": "end",
-        "rate": 9.31
+        "rate": 9.33
     },
     "MDL": {
         "symbol": "MDL",
@@ -667,7 +667,7 @@
         "flag": "https://flagcdn.com/md.svg",
         "t_code": "MDL",
         "symbol_position": "end",
-        "rate": 17.34
+        "rate": 17.43
     },
     "MGA": {
         "symbol": "MGA",
@@ -677,7 +677,7 @@
         "flag": "https://flagcdn.com/mg.svg",
         "t_code": "MGA",
         "symbol_position": "start",
-        "rate": 4290.0
+        "rate": 4307.0
     },
     "MKD": {
         "symbol": "MKD",
@@ -687,7 +687,7 @@
         "flag": "https://flagcdn.com/mk.svg",
         "t_code": "MKD",
         "symbol_position": "end",
-        "rate": 53.23
+        "rate": 53.41
     },
     "MMK": {
         "symbol": "MMK",
@@ -727,7 +727,7 @@
         "flag": "https://flagcdn.com/mx.svg",
         "t_code": "MXN",
         "symbol_position": "start",
-        "rate": 17.24
+        "rate": 17.2
     },
     "MYR": {
         "symbol": "RM",
@@ -747,7 +747,7 @@
         "flag": "https://flagcdn.com/mz.svg",
         "t_code": "MZN",
         "symbol_position": "start",
-        "rate": 63.79
+        "rate": 63.83
     },
     "NAD": {
         "symbol": "N$",
@@ -757,7 +757,7 @@
         "flag": "https://flagcdn.com/na.svg",
         "t_code": "NAD",
         "symbol_position": "start",
-        "rate": 16.33
+        "rate": 16.36
     },
     "NGN": {
         "symbol": "₦",
@@ -767,7 +767,7 @@
         "flag": "https://flagcdn.com/ng.svg",
         "t_code": "NGN",
         "symbol_position": "start",
-        "rate": 1361.48
+        "rate": 1364.51
     },
     "NIO": {
         "symbol": "C$",
@@ -777,7 +777,7 @@
         "flag": "https://flagcdn.com/ni.svg",
         "t_code": "NIO",
         "symbol_position": "start",
-        "rate": 36.77
+        "rate": 36.83
     },
     "NOK": {
         "symbol": "Nkr",
@@ -787,7 +787,7 @@
         "flag": "https://flagcdn.com/no.svg",
         "t_code": "NOK",
         "symbol_position": "end",
-        "rate": 9.53
+        "rate": 9.54
     },
     "NPR": {
         "symbol": "NPRs",
@@ -797,7 +797,7 @@
         "flag": "https://flagcdn.com/np.svg",
         "t_code": "NPR",
         "symbol_position": "end",
-        "rate": 152.18
+        "rate": 152.69
     },
     "NZD": {
         "symbol": "NZ$",
@@ -837,7 +837,7 @@
         "flag": "https://flagcdn.com/pe.svg",
         "t_code": "PEN",
         "symbol_position": "start",
-        "rate": 3.38
+        "rate": 3.39
     },
     "PHP": {
         "symbol": "₱",
@@ -847,7 +847,7 @@
         "flag": "https://flagcdn.com/ph.svg",
         "t_code": "PHP",
         "symbol_position": "start",
-        "rate": 60.62
+        "rate": 61.0
     },
     "PKR": {
         "symbol": "PKRs",
@@ -857,7 +857,7 @@
         "flag": "https://flagcdn.com/pk.svg",
         "t_code": "PKR",
         "symbol_position": "start",
-        "rate": 277.0
+        "rate": 278.0
     },
     "PLN": {
         "symbol": "zł",
@@ -867,7 +867,7 @@
         "flag": "https://flagcdn.com/pl.svg",
         "t_code": "PLN",
         "symbol_position": "end",
-        "rate": 3.72
+        "rate": 3.74
     },
     "PYG": {
         "symbol": "₲",
@@ -877,7 +877,7 @@
         "flag": "https://flagcdn.com/py.svg",
         "t_code": "PYG",
         "symbol_position": "start",
-        "rate": 5953.0
+        "rate": 5958.0
     },
     "QAR": {
         "symbol": "QR",
@@ -897,7 +897,7 @@
         "flag": "https://flagcdn.com/ro.svg",
         "t_code": "RON",
         "symbol_position": "end",
-        "rate": 4.54
+        "rate": 4.56
     },
     "RSD": {
         "symbol": "din.",
@@ -917,7 +917,7 @@
         "flag": "https://flagcdn.com/ru.svg",
         "t_code": "RUB",
         "symbol_position": "end",
-        "rate": 80.98
+        "rate": 83.0
     },
     "RWF": {
         "symbol": "RWF",
@@ -927,7 +927,7 @@
         "flag": "https://flagcdn.com/rw.svg",
         "t_code": "RWF",
         "symbol_position": "end",
-        "rate": 1469.0
+        "rate": 1471.0
     },
     "SAR": {
         "symbol": "SR",
@@ -947,7 +947,7 @@
         "flag": "https://flagcdn.com/sd.svg",
         "t_code": "SDG",
         "symbol_position": "start",
-        "rate": 600.22
+        "rate": 600.27
     },
     "SEK": {
         "symbol": "Skr",
@@ -957,7 +957,7 @@
         "flag": "https://flagcdn.com/se.svg",
         "t_code": "SEK",
         "symbol_position": "end",
-        "rate": 9.49
+        "rate": 9.52
     },
     "SGD": {
         "symbol": "S$",
@@ -977,7 +977,7 @@
         "flag": "https://flagcdn.com/so.svg",
         "t_code": "SOS",
         "symbol_position": "start",
-        "rate": 570.0
+        "rate": 571.0
     },
     "THB": {
         "symbol": "฿",
@@ -987,7 +987,7 @@
         "flag": "https://flagcdn.com/th.svg",
         "t_code": "THB",
         "symbol_position": "start",
-        "rate": 33.08
+        "rate": 33.14
     },
     "TND": {
         "symbol": "DT",
@@ -997,7 +997,7 @@
         "flag": "https://flagcdn.com/tn.svg",
         "t_code": "TND",
         "symbol_position": "end",
-        "rate": 2.918
+        "rate": 2.925
     },
     "TOP": {
         "symbol": "T$",
@@ -1007,7 +1007,7 @@
         "flag": "https://flagcdn.com/to.svg",
         "t_code": "TOP",
         "symbol_position": "start",
-        "rate": 2.38
+        "rate": 2.39
     },
     "TRY": {
         "symbol": "TL",
@@ -1017,7 +1017,7 @@
         "flag": "https://flagcdn.com/tr.svg",
         "t_code": "TRY",
         "symbol_position": "end",
-        "rate": 47.59
+        "rate": 47.7
     },
     "TTD": {
         "symbol": "TT$",
@@ -1027,7 +1027,7 @@
         "flag": "https://flagcdn.com/tt.svg",
         "t_code": "TTD",
         "symbol_position": "start",
-        "rate": 6.77
+        "rate": 6.78
     },
     "TWD": {
         "symbol": "NT$",
@@ -1037,7 +1037,7 @@
         "flag": "https://flagcdn.com/tw.svg",
         "t_code": "TWD",
         "symbol_position": "start",
-        "rate": 32.24
+        "rate": 32.21
     },
     "TZS": {
         "symbol": "TSh",
@@ -1047,7 +1047,7 @@
         "flag": "https://flagcdn.com/tz.svg",
         "t_code": "TZS",
         "symbol_position": "start",
-        "rate": 2646.0
+        "rate": 2653.0
     },
     "UAH": {
         "symbol": "₴",
@@ -1057,7 +1057,7 @@
         "flag": "https://flagcdn.com/ua.svg",
         "t_code": "UAH",
         "symbol_position": "end",
-        "rate": 44.75
+        "rate": 44.8
     },
     "UGX": {
         "symbol": "USh",
@@ -1067,7 +1067,7 @@
         "flag": "https://flagcdn.com/ug.svg",
         "t_code": "UGX",
         "symbol_position": "start",
-        "rate": 3731.0
+        "rate": 3728.0
     },
     "USD": {
         "symbol": "$",
@@ -1087,7 +1087,7 @@
         "flag": "https://flagcdn.com/uy.svg",
         "t_code": "UYU",
         "symbol_position": "start",
-        "rate": 40.17
+        "rate": 40.35
     },
     "UZS": {
         "symbol": "UZS",
@@ -1097,7 +1097,7 @@
         "flag": "https://flagcdn.com/uz.svg",
         "t_code": "UZS",
         "symbol_position": "end",
-        "rate": 11874.0
+        "rate": 11929.0
     },
     "VEF": {
         "symbol": "Bs.F.",
@@ -1107,7 +1107,7 @@
         "flag": "https://flagcdn.com/ve.svg",
         "t_code": "VEF",
         "symbol_position": "start",
-        "rate": 75362602.3
+        "rate": 75459552.05
     },
     "VND": {
         "symbol": "₫",
@@ -1117,7 +1117,7 @@
         "flag": "https://flagcdn.com/vn.svg",
         "t_code": "VND",
         "symbol_position": "end",
-        "rate": 26257.0
+        "rate": 26233.0
     },
     "XAF": {
         "symbol": "FCFA",
@@ -1127,7 +1127,7 @@
         "flag": "https://flagcdn.com/cf.svg",
         "t_code": "XAF",
         "symbol_position": "end",
-        "rate": 568.0
+        "rate": 569.0
     },
     "XOF": {
         "symbol": "CFA",
@@ -1137,7 +1137,7 @@
         "flag": "https://flagcdn.com/sn.svg",
         "t_code": "XOF",
         "symbol_position": "end",
-        "rate": 568.0
+        "rate": 569.0
     },
     "YER": {
         "symbol": "YR",
@@ -1147,7 +1147,7 @@
         "flag": "https://flagcdn.com/ye.svg",
         "t_code": "YER",
         "symbol_position": "end",
-        "rate": 238.0
+        "rate": 237.0
     },
     "ZAR": {
         "symbol": "R",
@@ -1157,7 +1157,7 @@
         "flag": "https://flagcdn.com/za.svg",
         "t_code": "ZAR",
         "symbol_position": "start",
-        "rate": 16.33
+        "rate": 16.36
     },
     "ZMK": {
         "symbol": "ZK",
@@ -1167,7 +1167,7 @@
         "flag": "https://flagcdn.com/zm.svg",
         "t_code": "ZMK",
         "symbol_position": "start",
-        "rate": 19099.0
+        "rate": 19098.0
     },
     "ZWL": {
         "symbol": "ZWL$",
@@ -1177,6 +1177,6 @@
         "flag": "https://flagcdn.com/zw.svg",
         "t_code": "ZWL",
         "symbol_position": "start",
-        "rate": 66552.0
+        "rate": 66548.0
     }
 }
