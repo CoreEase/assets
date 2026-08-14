@@ -4,10 +4,12 @@ from pathlib import Path
 import sys
 
 CURRENCY_INFO_PATH = Path("currency/currency.json")
+
 SOURCES = [
     "https://currency-api.pages.dev/v1/currencies/usd.json",
     "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json"
 ]
+
 OUTPUT_FILE = "currency/final_rates.json"
 
 try:
@@ -80,21 +82,24 @@ if not combined_rates:
     sys.exit(1)
 
 final_data = {}
-for code, rate in combined_rates.items():
-    final_data[code] = currency_data[code].copy()
-    final_data[code]["rate"] = rate
-    if "decimal_digits" in final_data[code]:
-        try:
-            final_data[code]["rate"] = round(rate, final_data[code]["decimal_digits"])
-        except:
-            pass
+for code, info in currency_data.items():
+    if code in combined_rates:
+        final_data[code] = info.copy()
+        rate_value = combined_rates[code]
+        if "decimal_digits" in final_data[code]:
+            try:
+                final_data[code]["rate"] = round(rate_value, final_data[code]["decimal_digits"])
+            except:
+                final_data[code]["rate"] = rate_value
+        else:
+            final_data[code]["rate"] = rate_value
 
 with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
     json.dump(final_data, f, indent=4, ensure_ascii=False)
 
 print(f"Successfully created: {OUTPUT_FILE}")
 print(f"Total fiat currencies included: {len(final_data)}")
-print(f"Sample currencies: {list(final_data.keys())[:5]}")
+print(f"Sample currencies (first 5 from original order): {list(final_data.keys())[:5]}")
 
 missing_currencies = set(currency_data.keys()) - set(combined_rates.keys())
 if missing_currencies:
