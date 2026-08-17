@@ -1,6 +1,17 @@
 {
   "gifts": [
     {
+      "id": "6046178578163303744",
+      "name": "Military TeddyBear",
+      "price": 50,
+      "sticker_id": "5345935030143196497",
+      "paths": {
+        "png": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/6046178578163303744/6046178578163303744.png",
+        "json": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/6046178578163303744/6046178578163303744.json",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/gifts/6046178578163303744/6046178578163303744.tgs"
+      }
+    },
+    {
       "id": "5922558454332916696",
       "name": "New Year Tree",
       "price": 50,
