@@ -1,0 +1,779 @@
+[
+  {
+    "address": "0:02710a51d9f99d784356744d98190587571493c80f19ab8fe4eeb93f21ac4245",
+    "name": "Vintage Cigars",
+    "description": "Vintage Cigars is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/vintagecigar.webp",
+    "sourceUri": "https://nft.fragment.com/collection/vintagecigar.json"
+  },
+  {
+    "address": "0:03bc9c4cc421c0edf465623a1c7813917fb4702acd2bce355a29ea5000232767",
+    "name": "Top Hats",
+    "description": "Top Hats is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/tophat.webp",
+    "sourceUri": "https://nft.fragment.com/collection/tophat.json"
+  },
+  {
+    "address": "0:041ee2b4732126c13870e9ebd0ab10a96d6bbf33708867e62ea285f81a199391",
+    "name": "https://ipfs.io/ipfs/QmSm4uUPbM3HYmk4EbYv2QRWvNNGYQ1USujNwxBMGaTVf3/collection.json",
+    "description": "",
+    "imageUrl": "",
+    "sourceUri": "https://ipfs.io/ipfs/QmSm4uUPbM3HYmk4EbYv2QRWvNNGYQ1USujNwxBMGaTVf3/collection.json"
+  },
+  {
+    "address": "0:08c0430eeb007c21bcbc55ad044063e40d671573ab9498c39f5e6132a9998cf7",
+    "name": "Rare Birds",
+    "description": "Rare Birds is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/rarebird.webp",
+    "sourceUri": "https://nft.fragment.com/collection/rarebird.json"
+  },
+  {
+    "address": "0:0af46878b8f3dbaee6c9272896b7ee4e90e0a958ab939829563550102a428077",
+    "name": "",
+    "description": "",
+    "imageUrl": "",
+    "sourceUri": ""
+  },
+  {
+    "address": "0:0e41dc1dc3c9067ed24248580e12b3359818d83dee0304fabcf80845eafafdb2",
+    "name": "Anonymous Telegram Numbers",
+    "description": "These anonymous numbers can be used to create Telegram accounts that are not tied to SIM cards.",
+    "imageUrl": "https://nft.fragment.com/numbers.svg",
+    "sourceUri": "https://nft.fragment.com/numbers.json"
+  },
+  {
+    "address": "0:0e6182626fc2bafbdd538de39845b584b5bb512475caa1696d9d42f075aa9dee",
+    "name": "Electric Skulls",
+    "description": "Electric Skulls is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/electricskull.webp",
+    "sourceUri": "https://nft.fragment.com/collection/electricskull.json"
+  },
+  {
+    "address": "0:11200ba6196066292bf6068331b6e9c2105c9b227ea78a60aafe569eaa40fe01",
+    "name": "Bling Binkies",
+    "description": "Bling Binkies is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/blingbinky.webp",
+    "sourceUri": "https://nft.fragment.com/collection/blingbinky.json"
+  },
+  {
+    "address": "0:13b9419dbeb8cbbd3584e69a5514e542a94d9d9422d49ca4ecbb49f52589bd95",
+    "name": "Scared Cats",
+    "description": "Scared Cats is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/scaredcat.webp",
+    "sourceUri": "https://nft.fragment.com/collection/scaredcat.json"
+  },
+  {
+    "address": "0:171d6f4a5586200e62da50d720ccd3d9e162867a4f7bfa576c7747cf5078382b",
+    "name": "Clover Pins",
+    "description": "Clover Pins is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/cloverpin.webp",
+    "sourceUri": "https://nft.fragment.com/collection/cloverpin.json"
+  },
+  {
+    "address": "0:198ee50999b3fe578472a308dec61edb21c74daeba23af458a4a9760801d336e",
+    "name": "Nail Bracelets",
+    "description": "Nail Bracelets is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/nailbracelet.webp",
+    "sourceUri": "https://nft.fragment.com/collection/nailbracelet.json"
+  },
+  {
+    "address": "0:1e1b442f7d790ee1b81365dc7f277c5f1490b3809b5d43105e98cfaed9ca3be1",
+    "name": "PandaFiT Genesis",
+    "description": "PandaFiT Genesis Collection is a limited NFT collection uniting early participants and investors of the PandaFiT ecosystem.\n\nEach NFT in the collection represents a digital asset with characteristics of an investment instrument: it can increase in value along with the development of the project, generate passive income, and grant the holder access to exclusive privileges within the ecosystem.\n\nThe collection forms the core of the community and provides an opportunity to be part of PandaFiT’s future value from the very beginning.\n\nMore details - in the official PandaFiT sources.",
+    "imageUrl": "https://panda-fit-game.com/cms/nft/genesis/019fa252-5f02-7c5d-a7c6-aec5bb48191c/image.webp",
+    "sourceUri": "https://panda-fit-game.com/cms/nft/genesis/019fa252-5f02-7c5d-a7c6-aec5bb48191c/metadata.json"
+  },
+  {
+    "address": "0:22737ccf71ee3deae9050e16dca36f0556c28a9765945ff889c1a2fcec20714a",
+    "name": "Gram DNS Domains",
+    "description": "Exclusive .gram DNS domains – the privilege of being a part of the decentralized future based on Gram.",
+    "imageUrl": "https://gramcoin.org/img/icon.png",
+    "sourceUri": ""
+  },
+  {
+    "address": "0:24a9b53092e172e6c8248171064abf564b19dbb25542736e518bd05f0042335c",
+    "name": "Sky Stilettos",
+    "description": "Sky Stilettos is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/skystilettos.webp",
+    "sourceUri": "https://nft.fragment.com/collection/skystilettos.json"
+  },
+  {
+    "address": "0:2544ea639b5935996df4afad6a471de5607b1991329755289a1c42213a59d803",
+    "name": "Heroic Helmets",
+    "description": "Heroic Helmets is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/heroichelmet.webp",
+    "sourceUri": "https://nft.fragment.com/collection/heroichelmet.json"
+  },
+  {
+    "address": "0:264d5b60cdfd78062652bc3150800def63b22c7b2f2c1c1de702d6504bed95b3",
+    "name": "Groyper",
+    "description": "A smug profile pic that may or may not unlock future utility and alpha for owners\n\nGroyperism NFT holder chat: https://t.me/access_app_bot/open?startapp=ch_t4r-club",
+    "imageUrl": "https://s.getgems.io/nft/c/697a5043368bc77eca31d67b/avatar/1723650.png",
+    "sourceUri": "https://s.getgems.io/nft/c/697a5043368bc77eca31d67b/edit/meta-1785869599915.json"
+  },
+  {
+    "address": "0:28270ec1a4e7010f7cbdbe832e110faa852dcae20b4cfba11e3cbc64ce4f224a",
+    "name": "Snoop Doggs",
+    "description": "Snoop Doggs is an exclusive NFT collection by Snoop Dogg. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/snoopdogg.webp",
+    "sourceUri": "https://nft.fragment.com/collection/snoopdogg.json"
+  },
+  {
+    "address": "0:28fec9c0a430ea17a18a574c5efd3e687b6f2bf38da026d8269203cc857d3e75",
+    "name": "Whip Cupcakes",
+    "description": "Whip Cupcakes is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/whipcupcake.webp",
+    "sourceUri": "https://nft.fragment.com/collection/whipcupcake.json"
+  },
+  {
+    "address": "0:2ab45e6d64880d65a97cd0287374f32f64237c3846c909524f9ffd3134f82140",
+    "name": "Gem Signets",
+    "description": "Gem Signets is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/gemsignet.webp",
+    "sourceUri": "https://nft.fragment.com/collection/gemsignet.json"
+  },
+  {
+    "address": "0:2d81b8521cea93c63b912cb38069be93eba14f71059335dfc34f7560086d7eb4",
+    "name": "Crystal Balls",
+    "description": "Crystal Balls is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/crystalball.webp",
+    "sourceUri": "https://nft.fragment.com/collection/crystalball.json"
+  },
+  {
+    "address": "0:309cfedd19f13f58ed318828ae964017506d4ad5b587d6f13593ae13e06fbb82",
+    "name": "Easter Eggs",
+    "description": "Easter Eggs is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/easteregg.webp",
+    "sourceUri": "https://nft.fragment.com/collection/easteregg.json"
+  },
+  {
+    "address": "0:30cee6dea09c27aa6981b933e99d44aead1cd63c1f0447371fcf1e7967662313",
+    "name": "Jelly Bunnies",
+    "description": "Jelly Bunnies is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/jellybunny.webp",
+    "sourceUri": "https://nft.fragment.com/collection/jellybunny.json"
+  },
+  {
+    "address": "0:342418950a3760aa48878989888135016d923a98d6e74b29aa7f41c50bb161c6",
+    "name": "Cupid Charms",
+    "description": "Cupid Charms is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/cupidcharm.webp",
+    "sourceUri": "https://nft.fragment.com/collection/cupidcharm.json"
+  },
+  {
+    "address": "0:36448ed7bc8b3dc0940aaf19136fb62da5e52e683fa9d1e4f9b817b86e47064f",
+    "name": "Artisan Bricks",
+    "description": "Artisan Bricks is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/artisanbrick.webp",
+    "sourceUri": "https://nft.fragment.com/collection/artisanbrick.json"
+  },
+  {
+    "address": "0:3694772f6565bf6cdff634c2ab90452ff71cfa7f1f304c4e6ea5af2ed677996f",
+    "name": "Lush Bouquets",
+    "description": "Lush Bouquets is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/lushbouquet.webp",
+    "sourceUri": "https://nft.fragment.com/collection/lushbouquet.json"
+  },
+  {
+    "address": "0:37fa2d485058d6c8385a228086758501e27b76218693dd3fbde421cfad2bd5dc",
+    "name": "Bunny Muffins",
+    "description": "Bunny Muffins is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/bunnymuffin.webp",
+    "sourceUri": "https://nft.fragment.com/collection/bunnymuffin.json"
+  },
+  {
+    "address": "0:388b9f22b92f4351846d519f7bb19a399a791b898501a565d039eddd11409c3f",
+    "name": "Precious Peaches",
+    "description": "Precious Peaches is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/preciouspeach.webp",
+    "sourceUri": "https://nft.fragment.com/collection/preciouspeach.json"
+  },
+  {
+    "address": "0:3bd947afaff307bf36304821c950afae0ba91dfb0f246f1ce1278f562221bea3",
+    "name": "Snoop Cigars",
+    "description": "Snoop Cigars is an exclusive NFT collection by Snoop Dogg. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/snoopcigar.webp",
+    "sourceUri": "https://nft.fragment.com/collection/snoopcigar.json"
+  },
+  {
+    "address": "0:412d116d0bfdcf2f1369597e677dc8706a993b796706dddccaa316d5e9c5b3a9",
+    "name": "Pet Snakes",
+    "description": "Pet Snakes is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/petsnake.webp",
+    "sourceUri": "https://nft.fragment.com/collection/petsnake.json"
+  },
+  {
+    "address": "0:427bbe46d00863a82eb807b1ff0473f4c207ce357ff1f7caecce6b04c2774354",
+    "name": "Ginger Cookies",
+    "description": "Ginger Cookies is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/gingercookie.webp",
+    "sourceUri": "https://nft.fragment.com/collection/gingercookie.json"
+  },
+  {
+    "address": "0:43317aa0d9870698c9e7e7f6d71badf2fa187f60d574771fb2971faf2f7bff59",
+    "name": "Market Makers",
+    "description": "Discover the Market Makers - an epic NFT collection by Storm Trade, where trading meets victory. Featuring 5555 unique NFTs representing the iconic Bull, Bear, and Bird, each meticulously hand-drawn by the artist. Every exclusive NFT is given as a reward for the most active Storm.tg users and community members. Holding of NFTs provides you with special bonuses from Storm, such as whitelists for $STORM token. So, who rules the market today?",
+    "imageUrl": "https://static.storm.tg/nft/root.png",
+    "sourceUri": "https://static.storm.tg/nft/root.json"
+  },
+  {
+    "address": "0:43f1a04a0b836c9d832ab6409f3d09361159e27b29c9429d54819572c7556647",
+    "name": "Witch Hats",
+    "description": "Witch Hats is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/witchhat.webp",
+    "sourceUri": "https://nft.fragment.com/collection/witchhat.json"
+  },
+  {
+    "address": "0:449e05a57737aff68ab372dbb9f46a3d69f5fc1c5f0792c67da49ef1d5b4495e",
+    "name": "Liberty Figures",
+    "description": "Liberty Figures is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/libertyfigure.webp",
+    "sourceUri": "https://nft.fragment.com/collection/libertyfigure.json"
+  },
+  {
+    "address": "0:463685d77d0474ec774386d92622ed688d34f07230741211d838c487dcfeec64",
+    "name": "https://metadata.zargates.com/stickers/collection",
+    "description": "",
+    "imageUrl": "",
+    "sourceUri": "https://metadata.zargates.com/stickers/collection"
+  },
+  {
+    "address": "0:46da8d25a7ee8ecbce8d184266ef5ec17930c0c3f17910b920697da5f54b1f6a",
+    "name": "Flying Brooms",
+    "description": "Flying Brooms is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/flyingbroom.webp",
+    "sourceUri": "https://nft.fragment.com/collection/flyingbroom.json"
+  },
+  {
+    "address": "0:46fa0e9a864014196a5e7d66f1f83ffdb10f2859bbf2ea9baeabbf14d9ce0d50",
+    "name": "Plush Pepes",
+    "description": "Plush Pepes is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/plushpepe.webp",
+    "sourceUri": "https://nft.fragment.com/collection/plushpepe.json"
+  },
+  {
+    "address": "0:47d518e9fc2206f197942b2cc2ce983988470146b7f213c1ef8e3f97ac50af54",
+    "name": "DUCK × MY × DUCK",
+    "description": "A limited ducks NFT collection from the DUCK × MY × DUCK game. Feed, breed, repeat! Join our game and channels for more information.",
+    "imageUrl": "https://s.getgems.io/nft/b/c/68051270fc418124efb9ab80/edit/images/1377477.png",
+    "sourceUri": "https://s.getgems.io/nft/b/c/68051270fc418124efb9ab80/edit/meta-1745472355598.json"
+  },
+  {
+    "address": "0:488f4b85faa2004aabfaa88bdc4e27f6c0a49db7859073899ca01cb0369e469e",
+    "name": "Instant Ramens",
+    "description": "Instant Ramens is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/instantramen.webp",
+    "sourceUri": "https://nft.fragment.com/collection/instantramen.json"
+  },
+  {
+    "address": "0:48a7d6f589bb6d48e9608997e95fb6cd63b2ba77d8985d15a0ef510627650d45",
+    "name": "Teddie Alpha",
+    "description": "Teddie Alpha collection by Goodies",
+    "imageUrl": "https://storage.googleapis.com/goodies-api-prod.firebasestorage.app/images/collection/0e49f171-932c-4ea0-ad9e-9c86070f30db",
+    "sourceUri": "https://api.getgems.io/mint-platform/v1/meta/goodies_teddie_alpha?v=new"
+  },
+  {
+    "address": "0:48d3b3d77b0f78610cfb1b037bda73cd185ea1b524ce264b94e0ac7f6e34d9bf",
+    "name": "Swiss Watches",
+    "description": "Swiss Watches is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/swisswatch.webp",
+    "sourceUri": "https://nft.fragment.com/collection/swisswatch.json"
+  },
+  {
+    "address": "0:4c71f300665314af55b75fc91d130ddf24c5006961f8f9772613947945f14863",
+    "name": "Desk Calendars",
+    "description": "Desk Calendars is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/deskcalendar.webp",
+    "sourceUri": "https://nft.fragment.com/collection/deskcalendar.json"
+  },
+  {
+    "address": "0:4cdd4d6dc168c8fef61468f74593366cd6af5cd28ac78508f1d26d976bd96381",
+    "name": "Money Pots",
+    "description": "Money Pots is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/moneypot.webp",
+    "sourceUri": "https://nft.fragment.com/collection/moneypot.json"
+  },
+  {
+    "address": "0:5220877bb0c9a5a8df2804668c36d51eb9a2de4903d4475072330a677d62f786",
+    "name": "Input Keys",
+    "description": "Input Keys is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/inputkey.webp",
+    "sourceUri": "https://nft.fragment.com/collection/inputkey.json"
+  },
+  {
+    "address": "0:54bec904be659da7f57a1d7fb64f27e9e26152ccccdd83d4da533eb3295cfa3a",
+    "name": "Ice Creams",
+    "description": "Ice Creams is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/icecream.webp",
+    "sourceUri": "https://nft.fragment.com/collection/icecream.json"
+  },
+  {
+    "address": "0:55e57a33280d1ed3a679cba78bee95ab514a44a256cf84d75c352d0ae190e4d6",
+    "name": "Mood Packs",
+    "description": "Mood Packs is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/moodpack.webp",
+    "sourceUri": "https://nft.fragment.com/collection/moodpack.json"
+  },
+  {
+    "address": "0:561b81016cf0efe178fbc653f0cf177b852c87333c302c1e4eeab63ed0105e6a",
+    "name": "https://api.tonnames.org/nft/dns-vip-collection.json",
+    "description": "",
+    "imageUrl": "",
+    "sourceUri": "https://api.tonnames.org/nft/dns-vip-collection.json"
+  },
+  {
+    "address": "0:5ac82636c19c2b54113135f2cbf2ff4ad261cd9ab4139ed665760a58891c01fd",
+    "name": "Neko Helmets",
+    "description": "Neko Helmets is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/nekohelmet.webp",
+    "sourceUri": "https://nft.fragment.com/collection/nekohelmet.json"
+  },
+  {
+    "address": "0:65049e27d35a6661ecf954f77c5a8e7df2cf1a81b402c953a3b9c5cac4b0c08b",
+    "name": "Chill Flames",
+    "description": "Chill Flames is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/chillflame.webp",
+    "sourceUri": "https://nft.fragment.com/collection/chillflame.json"
+  },
+  {
+    "address": "0:70dad3b951a27873f617b7723ccb9283d24dfbb2d699c5e755d8ee479abca22b",
+    "name": "Sharp Tongues",
+    "description": "Sharp Tongues is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/sharptongue.webp",
+    "sourceUri": "https://nft.fragment.com/collection/sharptongue.json"
+  },
+  {
+    "address": "0:7a49ec176ca66e8ec3addd6f0efafaad6ef197c6cdcdd8ce64a900bbd298d8cd",
+    "name": "Ducky Gods - DUCK × MY × DUCK",
+    "description": "Collectible NFTs of Ducky Gods from the DUCK × MY × DUCK game",
+    "imageUrl": "https://s.getgems.io/nft/b/c/6a1717cebc619a46159ae868/edit/images/1890079.png",
+    "sourceUri": "https://s.getgems.io/nft/b/c/6a1717cebc619a46159ae868/edit/meta-1780238672087.json"
+  },
+  {
+    "address": "0:7cccbcc438540adea4f231880f0fc06ece63706e59e8baa681f343d6facd84ee",
+    "name": "Hanging Stars",
+    "description": "Hanging Stars is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/hangingstar.webp",
+    "sourceUri": "https://nft.fragment.com/collection/hangingstar.json"
+  },
+  {
+    "address": "0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2",
+    "name": "Telegram Usernames",
+    "description": "Unique addresses in Telegram’s ecosystem of more than 700 million active users.",
+    "imageUrl": "https://nft.fragment.com/usernames.svg",
+    "sourceUri": "https://nft.fragment.com/usernames.json"
+  },
+  {
+    "address": "0:812bf241012000e57573d43d7b3e7fbe91068c5a6d1bf7045e56db047513b84e",
+    "name": "Jester Hats",
+    "description": "Jester Hats is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/jesterhat.webp",
+    "sourceUri": "https://nft.fragment.com/collection/jesterhat.json"
+  },
+  {
+    "address": "0:8305b4186efde7f754f0cb00510fd62b24db8d5666c3dd2a6ba6aea15880c756",
+    "name": "Sakura Flowers",
+    "description": "Sakura Flowers is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/sakuraflower.webp",
+    "sourceUri": "https://nft.fragment.com/collection/sakuraflower.json"
+  },
+  {
+    "address": "0:84f340259fc61f95d9d02f058cbce7e5a0b1a098f6347860c9cfdb9f1b7811ba",
+    "name": "Loot Bags",
+    "description": "Loot Bags is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/lootbag.webp",
+    "sourceUri": "https://nft.fragment.com/collection/lootbag.json"
+  },
+  {
+    "address": "0:8c06079134e8d9a3a03f1a91781bae954c0f15e2fa528ad219cc93f7433e193b",
+    "name": "Bonded Rings",
+    "description": "Bonded Rings is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/bondedring.webp",
+    "sourceUri": "https://nft.fragment.com/collection/bondedring.json"
+  },
+  {
+    "address": "0:8db26a47a91498fc3c67ca1e8fd0c30eef370005ff2c56f1b4c2bdb8e690733b",
+    "name": "Voodoo Dolls",
+    "description": "Voodoo Dolls is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/voodoodoll.webp",
+    "sourceUri": "https://nft.fragment.com/collection/voodoodoll.json"
+  },
+  {
+    "address": "0:901362fd85fc31d55f2c82617d91eada1f1d6b34af559a047572d56f20d046ca",
+    "name": "My Wallet Cards",
+    "description": "An exquisite card collection to personalize My Wallet interface.",
+    "imageUrl": "https://ton-names-cards.s3.eu-central-1.amazonaws.com/collection-cover-2.png",
+    "sourceUri": "https://s.getgems.io/nft/b/c/637fb5b20fa08ec7d4f833cb/edit/meta-1782477133252.json"
+  },
+  {
+    "address": "0:93202b15c6d385db9c760f55c74b853f0fe09863d856ad14ddbfa4e5a8e2c03e",
+    "name": "Ayanami Rei",
+    "description": "Original. Ayanami. Rei. Evangelion.",
+    "imageUrl": "https://cdn.stickerdom.store/454/t/1/315f734cad2b44a780e0a76ecf7262c4.png",
+    "sourceUri": "https://s.getgems.io/nft/b/c/69f0c31d98f83c98865636f9/edit/meta-1778150136867.json"
+  },
+  {
+    "address": "0:9687594f96dc93c025b10979b8ba62f9b4f6685d1f244c8713fa977426aa1a74",
+    "name": "Diamond Rings",
+    "description": "Diamond Rings is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/diamondring.webp",
+    "sourceUri": "https://nft.fragment.com/collection/diamondring.json"
+  },
+  {
+    "address": "0:99e3e87ae624e25833d13dc2e54bade06dc4b8d1805a74414b0385be88859466",
+    "name": "Spring Baskets",
+    "description": "Spring Baskets is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/springbasket.webp",
+    "sourceUri": "https://nft.fragment.com/collection/springbasket.json"
+  },
+  {
+    "address": "0:9ad48d3d7c4f54a1357a6b033a402f7e7e4bf9d61a228b6e30d6d26815f8a01b",
+    "name": "Party Sparklers",
+    "description": "Party Sparklers is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/partysparkler.webp",
+    "sourceUri": "https://nft.fragment.com/collection/partysparkler.json"
+  },
+  {
+    "address": "0:9e4d224e3d73ff492bce8c82d8fa4ba2e1b187526b1af94ed35cfe038d400d4e",
+    "name": "Jolly Chimps",
+    "description": "Jolly Chimps is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/jollychimp.webp",
+    "sourceUri": "https://nft.fragment.com/collection/jollychimp.json"
+  },
+  {
+    "address": "0:9e7eb8e1083dbfec7448af6966c2df596aa786fed76c781bc00c2ebaf37de405",
+    "name": "Homemade Cakes",
+    "description": "Homemade Cakes is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/homemadecake.webp",
+    "sourceUri": "https://nft.fragment.com/collection/homemadecake.json"
+  },
+  {
+    "address": "0:a0693c5bdb003fdc18bc11ce0514dbbc09aba81e8d153e99f0c5dae10203ab39",
+    "name": "Swag Bags",
+    "description": "Swag Bags is an exclusive NFT collection by Snoop Dogg. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/swagbag.webp",
+    "sourceUri": "https://nft.fragment.com/collection/swagbag.json"
+  },
+  {
+    "address": "0:a7a367d30a35145aaa6e07e462ef5ef250500faf685e98f97b830d1c357cf78e",
+    "name": "CRYPTEL Numbers",
+    "description": "Owning a CRYPTEL 999 is more than holding an NFT \nit’s owning a piece of the future of secure, borderless communication.\nCRYPTEL is not affiliated with Telegram, nor does it offer Telegram Anonymous Numbers. It is an independent, next-generation identity system built for privacy and decentralization.",
+    "imageUrl": "https://s.getgems.io/nft/c/6891126c9e9d99e05c14b245/edit/images/1553841.png",
+    "sourceUri": "https://s.getgems.io/nft/c/6891126c9e9d99e05c14b245/edit/meta-1783873949730.json"
+  },
+  {
+    "address": "0:ab180f6c942a24b200fe3724438ed1f248a3744ecf24ea176e78991491965d0f",
+    "name": "Signet Rings",
+    "description": "Signet Rings is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/signetring.webp",
+    "sourceUri": "https://nft.fragment.com/collection/signetring.json"
+  },
+  {
+    "address": "0:b01057d46db47edb67e7dd583152906297b6f0050a841e6ef081061b598f5cd3",
+    "name": "B-Day Candles",
+    "description": "B-Day Candles is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/bdaycandle.webp",
+    "sourceUri": "https://nft.fragment.com/collection/bdaycandle.json"
+  },
+  {
+    "address": "0:b200c91be9b37236528f1f4b496ee6e4d55563012ab2abdb19c2427c01bc4c93",
+    "name": "Trapped Hearts",
+    "description": "Trapped Hearts is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/trappedheart.webp",
+    "sourceUri": "https://nft.fragment.com/collection/trappedheart.json"
+  },
+  {
+    "address": "0:b4a4a8a800e024b5c4472ea8d676eb97099eb953115e1ed7c6cf59fea4bf984c",
+    "name": "YOUR TIME · Walk. Earn. Own your time.",
+    "description": "Soon, your time will be worth something. YOUR TIME brings a new era of active, walk-to-earn mining to Telegram, a Mini App built on the TON blockchain. A playable collection of watches, already being distributed free to active members of our channel. Full details on the project channel.",
+    "imageUrl": "https://ytimeapp.xyz/logo.gif",
+    "sourceUri": "https://ytimeapp.xyz/api/v1/nft/collection.json"
+  },
+  {
+    "address": "0:b582e77a40ef0d7498d5aeaafba8504c3b4a10b24b64bf3866211a0c2a8f2fc6",
+    "name": "Toy Bears",
+    "description": "Toy Bears is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/toybear.webp",
+    "sourceUri": "https://nft.fragment.com/collection/toybear.json"
+  },
+  {
+    "address": "0:b696c532d522b1244241c23e5909f5672cfbc0a83ab2e5cdba5e0f314bfa434d",
+    "name": "Lunar Snakes",
+    "description": "Lunar Snakes is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/lunarsnake.webp",
+    "sourceUri": "https://nft.fragment.com/collection/lunarsnake.json"
+  },
+  {
+    "address": "0:b6d76763aead208254178bc312157d5b730e0b1f0dc4b3ada52afb75959cf3b1",
+    "name": "Timeless Books",
+    "description": "Timeless Books is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/timelessbook.webp",
+    "sourceUri": "https://nft.fragment.com/collection/timelessbook.json"
+  },
+  {
+    "address": "0:b774d95eb20543f186c06b371ab88ad704f7e256130caf96189368a7d0cb6ccf",
+    "name": "TON DNS Domains",
+    "description": "*.ton domains",
+    "imageUrl": "https://dns.ton.org/icon.png",
+    "sourceUri": "https://dns.ton.org/collection.json"
+  },
+  {
+    "address": "0:b85c4ba5c5bd392dee6017a7ac32d0d64f95d9ead97394c05018db2a7dfc6974",
+    "name": "Heart Lockets",
+    "description": "Heart Lockets is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/heartlocket.webp",
+    "sourceUri": "https://nft.fragment.com/collection/heartlocket.json"
+  },
+  {
+    "address": "0:b9e24eb9e5d32aefba393f2828cb564d762363225dcfca46628cceff68dc3b5b",
+    "name": "Marga Stake DNS",
+    "description": "MARGA Stake DNS Subdomains.\n\nGet a TON DNS domain by locking your MARGA tokens at dns.marga.top.",
+    "imageUrl": "https://marga.top/img/_.marga.ton",
+    "sourceUri": "https://marga.top/collection.json"
+  },
+  {
+    "address": "0:bace389df2f24d116a9c5e4d745e3b1d0cb44a6dc3d9cdb1eeb2e116e85a2439",
+    "name": "Lol Pops",
+    "description": "Lol Pops is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/lolpop.webp",
+    "sourceUri": "https://nft.fragment.com/collection/lolpop.json"
+  },
+  {
+    "address": "0:bba0f6be8090d9e894705b4596e161ff5639fb8a82a67c374522d0fb9d814675",
+    "name": "Moon Pendants",
+    "description": "Moon Pendants is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/moonpendant.webp",
+    "sourceUri": "https://nft.fragment.com/collection/moonpendant.json"
+  },
+  {
+    "address": "0:bc5955bd0d23783cf7c59425b60072645f10541c116cbe7857898a924e90fbb5",
+    "name": "Winter Wreaths",
+    "description": "Winter Wreaths is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/winterwreath.webp",
+    "sourceUri": "https://nft.fragment.com/collection/winterwreath.json"
+  },
+  {
+    "address": "0:bd7e11e928abad09b7e0f6bf56dca5bf2ffa4c3236405bc1ded41aa9abea61c1",
+    "name": "Lobsters",
+    "description": "1254 AI creatures on TON with immutable souls on IPFS, living biographies on-chain, and persistent memory that works across Telegram, Claude, and any LLM. Chat with yours at lobster.family.",
+    "imageUrl": "https://s.getgems.io/nft/b/c/69e901d82f8465e4ee175f60/Collection_avatar.png",
+    "sourceUri": "https://s.getgems.io/nft/b/c/69e901d82f8465e4ee175f60/edit/meta-1779172405730.json"
+  },
+  {
+    "address": "0:be65db28b8553ec4c6b9d3dc8ff24cca71e667195ee5490b24c6299ad4caf788",
+    "name": "Victory Medals",
+    "description": "Victory Medals is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/victorymedal.webp",
+    "sourceUri": "https://nft.fragment.com/collection/victorymedal.json"
+  },
+  {
+    "address": "0:c06e781824a6bb6f5706cf1c0bab38b0f221816424f1dfae04d47596add9fba0",
+    "name": "Tersoma/Manutra",
+    "description": "Коллекция из тринадцати Манутр - месяцев, принятых в параллельном мире Терсомы.",
+    "imageUrl": "https://s.getgems.io/nft/c/6618ad64d5328f72d357343c/avatar/648564.png",
+    "sourceUri": "https://s.getgems.io/nft/c/6618ad64d5328f72d357343c/edit/meta-1712895659393.json"
+  },
+  {
+    "address": "0:c23eaed0494bc29aaee4061983ba5c5575e147285735c13f4c4319deb1a9e5d4",
+    "name": "Low Riders",
+    "description": "Low Riders is an exclusive NFT collection by Snoop Dogg. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/lowrider.webp",
+    "sourceUri": "https://nft.fragment.com/collection/lowrider.json"
+  },
+  {
+    "address": "0:c845e95e3a44f1083e20fd7126f318f42d8360ebecccb13180030080faf11b90",
+    "name": "Astral Shards",
+    "description": "Astral Shards is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/astralshard.webp",
+    "sourceUri": "https://nft.fragment.com/collection/astralshard.json"
+  },
+  {
+    "address": "0:c8aee493cb1beaeb48141fc8f69248f7ab3a01ac1689cbd5a429b78d3516ac59",
+    "name": "Stellar Rockets",
+    "description": "Stellar Rockets is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/stellarrocket.webp",
+    "sourceUri": "https://nft.fragment.com/collection/stellarrocket.json"
+  },
+  {
+    "address": "0:c9b0df4e24184a199a16656b64129ce409f22ed7a67d5334d66d88de2e9b8775",
+    "name": "Perfume Bottles",
+    "description": "Perfume Bottles is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/perfumebottle.webp",
+    "sourceUri": "https://nft.fragment.com/collection/perfumebottle.json"
+  },
+  {
+    "address": "0:cb33ae6dd2c852ee064083494c96d187621b14f783f3b0c24785889b99157b91",
+    "name": "Candy Canes",
+    "description": "Candy Canes is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/candycane.webp",
+    "sourceUri": "https://nft.fragment.com/collection/candycane.json"
+  },
+  {
+    "address": "0:cb75aef5e46a1c3f5b180e409e70f84eede14db0dbc0443e29ba66c649a9fdeb",
+    "name": "Surge Boards",
+    "description": "Surge Boards is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/surgeboard.webp",
+    "sourceUri": "https://nft.fragment.com/collection/surgeboard.json"
+  },
+  {
+    "address": "0:cbec731b71ad05b9fae31c5711a222e4122397917a0efef1f681550df09369e2",
+    "name": "Ion Gems",
+    "description": "Ion Gems is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/iongem.webp",
+    "sourceUri": "https://nft.fragment.com/collection/iongem.json"
+  },
+  {
+    "address": "0:cf7027a5b4ebf322cc4a596c1fd3c814a063e1dfb673392c4aaa100f593422f9",
+    "name": "TON Email Names",
+    "description": "WEB3 Email Names. Simple, Secure and Functional!",
+    "imageUrl": "https://s.getgems.io/nft/b/c/673f16d5fe86c424a4c08447/edit/images/1231650.webp",
+    "sourceUri": "https://s.getgems.io/nft/b/c/673f16d5fe86c424a4c08447/edit/meta-1785495768057.json"
+  },
+  {
+    "address": "0:d0e838d169b4d8480c5fdb1ad9b27b17b6a7089b56e3f5d179c7f87c94d8d63e",
+    "name": "Evil Eyes",
+    "description": "Evil Eyes is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/evileye.webp",
+    "sourceUri": "https://nft.fragment.com/collection/evileye.json"
+  },
+  {
+    "address": "0:d1adfc39a60202e1ee8d69f500c79d99f589baab5936eb1c5a5d1feac742ca24",
+    "name": "Light Swords",
+    "description": "Light Swords is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/lightsword.webp",
+    "sourceUri": "https://nft.fragment.com/collection/lightsword.json"
+  },
+  {
+    "address": "0:d3ae8fa88096d2ee8f8e043e9bb76372b0fb7b4a71a6e737ee457181d6713fad",
+    "name": "Kissed Frogs",
+    "description": "Kissed Frogs is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/kissedfrog.webp",
+    "sourceUri": "https://nft.fragment.com/collection/kissedfrog.json"
+  },
+  {
+    "address": "0:da8f5f1c77ad552d91c21ec33bb0a6dfc41b9d0f781a49f70dd36a2556743704",
+    "name": "UFC Strikes",
+    "description": "UFC Strikes is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/ufcstrike.webp",
+    "sourceUri": "https://nft.fragment.com/collection/ufcstrike.json"
+  },
+  {
+    "address": "0:dcd3c631cd95ad94a028852c9b35cde45c09003cfb47721fa363f13a28c4376f",
+    "name": "Vice Creams",
+    "description": "Vice Creams is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/vicecream.webp",
+    "sourceUri": "https://nft.fragment.com/collection/vicecream.json"
+  },
+  {
+    "address": "0:de5f4175183ba0363b7190546286ef59c8516e981bf68d8179025d6d871d800c",
+    "name": "Mighty Arms",
+    "description": "Mighty Arms is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/mightyarm.webp",
+    "sourceUri": "https://nft.fragment.com/collection/mightyarm.json"
+  },
+  {
+    "address": "0:e1955aba7249f23e4fd2086654a176516d98b134e0df701302677c037c358b17",
+    "name": "Getgems Domains",
+    "description": "Getgems Domains is a collection of custom links on the NFT marketplace, like: getgems.io/link. Want a top-tier custom address? Easy! Create a name, launch the auction, highest bid gets the NFT-domain!",
+    "imageUrl": "https://s.getgems.io/nft/b/c/659fc8da579870cc5891aac0/image.png",
+    "sourceUri": "https://s.getgems.io/nft/b/c/659fc8da579870cc5891aac0/meta.json"
+  },
+  {
+    "address": "0:e305dbb7cd2f894fde0ec08ba9e0a54d6908f10f319c20f449db81dad18f232f",
+    "name": "Valentine Boxes",
+    "description": "Valentine Boxes is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/valentinebox.webp",
+    "sourceUri": "https://nft.fragment.com/collection/valentinebox.json"
+  },
+  {
+    "address": "0:e33ed33a42eb2032059f97d90c706f8400bb256d32139ca707f1564ad699c7dd",
+    "name": "",
+    "description": "",
+    "imageUrl": "",
+    "sourceUri": ""
+  },
+  {
+    "address": "0:e9c49e95030500fad5fac3c0029e80092eb3f784a5a689e065ef5bafd7fa8a44",
+    "name": "Bow Ties",
+    "description": "Bow Ties is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/bowtie.webp",
+    "sourceUri": "https://nft.fragment.com/collection/bowtie.json"
+  },
+  {
+    "address": "0:ec899ba58909ff15351ec8255a561a2396363b2e68a6754b492b54a7b464f37d",
+    "name": "Khabib’s Papakhas",
+    "description": "Khabib’s Papakhas is an exclusive NFT collection by Khabib Nurmagomedov. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/khabibspapakha.webp",
+    "sourceUri": "https://nft.fragment.com/collection/khabibspapakha.json"
+  },
+  {
+    "address": "0:ee9b2ddb9d96335786d258c492664997ab1e745ee1f977d4655ffc848b614d96",
+    "name": "Eternal Roses",
+    "description": "Eternal Roses is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/eternalrose.webp",
+    "sourceUri": "https://nft.fragment.com/collection/eternalrose.json"
+  },
+  {
+    "address": "0:ef67ff59ded27d93a7842cbb537ae400cf8c8e396c981597f3a8dbf67462621e",
+    "name": "Westside Signs",
+    "description": "Westside Signs is an exclusive NFT collection by Snoop Dogg. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/westsidesign.webp",
+    "sourceUri": "https://nft.fragment.com/collection/westsidesign.json"
+  },
+  {
+    "address": "0:f13e1d56c28fb6ad354f2919a40c082a73d9a6db85b6b4e126ae8cbbcaaa8b9f",
+    "name": "DOGS Origins",
+    "description": "DOGS Origins is the first and most exclusive NFT collection from the DOGS ecosystem, limited to just 1,000 unique pieces 🐕",
+    "imageUrl": "https://s.getgems.io/nft/b/c/699494f96950164b3b8cc2cd/edit/images/1773020.png",
+    "sourceUri": "https://s.getgems.io/nft/b/c/699494f96950164b3b8cc2cd/edit/meta-1773335381342.json"
+  },
+  {
+    "address": "0:f270e8242f071f3c3a2487cabed83214cd584f7ad745b999b0ac56053fa8b59d",
+    "name": "Restless Jars",
+    "description": "Restless Jars is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/restlessjar.webp",
+    "sourceUri": "https://nft.fragment.com/collection/restlessjar.json"
+  },
+  {
+    "address": "0:f3fd579c12b1014cb393891d6dab4552de566e1c7aa16268596ed85cadb164ef",
+    "name": "Xmas Stockings",
+    "description": "Xmas Stockings is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/xmasstocking.webp",
+    "sourceUri": "https://nft.fragment.com/collection/xmasstocking.json"
+  },
+  {
+    "address": "0:f5605a75d80184817e82dee89687be7511c4713d9a3a1ad0661f3898dbd8dc6d",
+    "name": "Pool Floats",
+    "description": "Pool Floats is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/poolfloat.webp",
+    "sourceUri": "https://nft.fragment.com/collection/poolfloat.json"
+  },
+  {
+    "address": "0:fb158a6b0a41b0c1e77b7dd869a546a6b38b7399385bdc3df678bf309f904f43",
+    "name": "GameBoard",
+    "description": "GameBoard — 438 playable NFT boards for miniPoly, a property board game on Telegram. 47 hand-crafted styles, each a real board you play on. Own it, play it, keep it on TON.",
+    "imageUrl": "https://s.getgems.io/nft/b/c/6a4b91a33ded2c9dd985ad68/avatar_1000.png",
+    "sourceUri": "https://s.getgems.io/nft/b/c/6a4b91a33ded2c9dd985ad68/edit/meta-1784569352684.json"
+  },
+  {
+    "address": "0:fbc83bb658281df54cf1d5d17f0d09162bb219249e0ca7d33d835ac651489013",
+    "name": "Love Potions",
+    "description": "Love Potions is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/lovepotion.webp",
+    "sourceUri": "https://nft.fragment.com/collection/lovepotion.json"
+  },
+  {
+    "address": "0:fd8a466aeb13e02a3ce67411b41b44bcd11bd42636f0807acf6570ca73fc2c13",
+    "name": "Durov’s Caps",
+    "description": "Durov’s Caps is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/durovscap.webp",
+    "sourceUri": "https://nft.fragment.com/collection/durovscap.json"
+  },
+  {
+    "address": "0:fdcfcee1459015ec2d8c575824dfdf9b4a0e587ecd8474cafd1df2bcd48b81d9",
+    "name": "Faith Amulets",
+    "description": "Faith Amulets is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+    "imageUrl": "https://nft.fragment.com/collection/faithamulet.webp",
+    "sourceUri": "https://nft.fragment.com/collection/faithamulet.json"
+  }
+]
