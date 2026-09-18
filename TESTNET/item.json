@@ -1,9 +1,20 @@
 {
-  "name": "Item #1",
-  "description": "Item #1",
-  "image": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/TESTNET/global.svg",
+  "name": "Swiss Watch #19958",
+  "description": "An exclusive Swiss Watch with the appearance Sputnik on a Lavender background with Knight icons.",
+  "image": "https://nft.fragment.com/gift/swisswatch-19958.webp",
   "attributes": [
-    { "trait_type": "Background", "value": "Blue" },
-    { "trait_type": "Eyes", "value": "Laser" }
-  ]
+    {
+      "trait_type": "Model",
+      "value": "Sputnik"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Knight"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/swisswatch-19958.lottie.json"
 }
