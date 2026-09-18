@@ -1,12 +1,7 @@
 {
-  "name": "My Test NFT Collection",
-  "description": "My Test NFT Collection",
-  "image": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/TESTNET/global.svg",
-  "banner_image": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/TESTNET/global.svg", 
-  "cover_image": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/TESTNET/global.svg",
-  "social_links": [
-    "https://t.me/mychannel"
-  ], 
-  "marketplace": "tonease.xyz",
-  "created_by": "Artist Name"
+  "name": "Swiss Watches",
+  "description": "Swiss Watches is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+  "image": "https://nft.fragment.com/collection/swisswatch.webp",
+  "cover_image": "https://nft.fragment.com/collection/swisswatch.webp",
+  "external_link": "https://fragment.com/gifts/swisswatch"
 }
