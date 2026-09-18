@@ -1,5 +1,10 @@
 {
-  "name": "TON DNS Domains",
-  "description": "*.ton domains",
-  "image": "https://dns.ton.org/icon.png"
+  "name": "My Test NFT Collection",
+  "description": "My Test NFT Collection",
+  "image": "https://example.com/collection/logo.png",
+  "cover_image": "https://example.com/collection/cover.png",
+  "external_url": "https://example.com",
+  "social_links": [
+    "https://t.me/mychannel"
+  ]
 }
