@@ -329,6 +329,16 @@
         "symbol_position": "end",
         "rate": 133.88
     },
+    "EEK": {
+        "symbol": "Ekr",
+        "name": "Estonian Kroon",
+        "symbol_native": "Ekr",
+        "decimal_digits": 2,
+        "flag": "https://flagcdn.com/ee.svg",
+        "t_code": "EEK",
+        "symbol_position": "end",
+        "rate": 13.65
+    },
     "EGP": {
         "symbol": "EGP",
         "name": "Egyptian Pound",
@@ -1098,6 +1108,16 @@
         "t_code": "UZS",
         "symbol_position": "end",
         "rate": 11825.0
+    },
+    "VEF": {
+        "symbol": "Bs.F.",
+        "name": "Venezuelan Bolívar",
+        "symbol_native": "VEF",
+        "decimal_digits": 2,
+        "flag": "https://flagcdn.com/ve.svg",
+        "t_code": "VEF",
+        "symbol_position": "start",
+        "rate": 84589034.25
     },
     "VND": {
         "symbol": "₫",
