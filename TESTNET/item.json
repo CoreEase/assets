@@ -1,0 +1,9 @@
+{
+  "name": "Item #1",
+  "description": "Item #1",
+  "image": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/TESTNET/global.svg",
+  "attributes": [
+    { "trait_type": "Background", "value": "Blue" },
+    { "trait_type": "Eyes", "value": "Laser" }
+  ]
+}
