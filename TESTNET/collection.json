@@ -1,10 +1,12 @@
 {
   "name": "My Test NFT Collection",
   "description": "My Test NFT Collection",
-  "image": "https://example.com/collection/logo.png",
-  "cover_image": "https://example.com/collection/cover.png",
-  "external_url": "https://example.com",
+  "image": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/TESTNET/global.svg",
+  "banner_image": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/TESTNET/global.svg", 
+  "cover_image": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/TESTNET/global.svg",
   "social_links": [
     "https://t.me/mychannel"
-  ]
+  ], 
+  "marketplace": "tonease.xyz",
+  "created_by": "Artist Name"
 }
