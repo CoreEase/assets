@@ -271,6 +271,7 @@
         "quiz"
       ],
       "verified": true,
+      "promoted": true, 
       "screenshots": [
         "https://placehold.co/375x812/1A1A1A/FFFFFF?text=group-game-1",
         "https://placehold.co/375x812/1A1A1A/FFFFFF?text=group-game-2",
@@ -291,6 +292,7 @@
         "html5"
       ],
       "verified": true,
+      "promoted": true, 
       "screenshots": [
         "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gamebot-1",
         "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gamebot-2",
@@ -411,6 +413,7 @@
         "ton"
       ],
       "verified": true,
+      "promoted": true, 
       "screenshots": [
         "https://placehold.co/375x812/1A1A1A/FFFFFF?text=bums-1",
         "https://placehold.co/375x812/1A1A1A/FFFFFF?text=bums-2",
