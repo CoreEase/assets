@@ -1,12 +1,6 @@
 {
   "banners": [
     {
-      "id": "blum-banner",
-      "appId": "blum",
-      "title": "Blum — trade crypto and farm points inside Telegram",
-      "image": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/banner/blum.png"
-    },
-    {
       "id": "tonmobile-banner",
       "appId": "tonmobile",
       "title": "Ton Mobile — Internet for travel",
@@ -70,7 +64,7 @@
       "description": "A hybrid crypto exchange and play-to-earn app inside Telegram. Players farm Blum Points through daily check-ins, a falling-flowers mini game, and friend referrals, while also using Blum as a swap interface for tokens on Solana, TON, and other chains. Founded by former Binance executives. Active referral rewards.",
       "icon": "https://telegram.me/i/userpic/320/blum.svg",
       "type": "miniapp",
-      "url": "https://t.me/blum",
+      "url": "https://t.me/blum/app?startapp=ref_0sujj2lXST",
       "channel": "https://t.me/blumcrypto",
       "tags": ["game", "exchange", "defi", "referral"],
       "verified": true,
