@@ -27,7 +27,7 @@
     },
     {
       "id": "marketplace",
-      "name": "NFT & Marketplace",
+      "name": "Marketplace",
       "apps": [
         "getgems",
         "portals-market",
@@ -99,7 +99,7 @@
       "description": "One of the oldest gaming hubs on Telegram, predating the mini app boom. Gamee hosts dozens of arcade style games inside Telegram, runs tournaments with prize pools, and distributes airdrops to active players. Referral and invite rewards available.",
       "icon": "https://telegram.me/i/userpic/320/gamee.svg",
       "type": "miniapp",
-      "url": "https://t.me/gamee",
+      "url": "https://t.me/gamee/start?startapp=eyJyZWYiOjY3OTM1NTYyODR9",
       "channel": "https://t.me/gameechannel",
       "tags": ["game", "arcade", "tournaments", "referral"],
       "verified": true,
@@ -117,8 +117,8 @@
       "description": "An HTML5 game launcher inside Telegram that lets you play multiplayer arcade and casual games with friends in any chat. Drop a game card into a group, tap to launch, and compete on shared leaderboards. Supports invites and referrals.",
       "icon": "https://telegram.me/i/userpic/320/playdeckbot.svg",
       "type": "miniapp",
-      "url": "https://t.me/playdeckbot",
-      "channel": "https://t.me/playdeckbot",
+      "url": "https://t.me/playdeckbot/market?startapp=eyJyZWYiOjY3OTM1NTYyODQsInNyYyI6InByb2ZpbGVfZnJpZW5kc190YWIifQ==",
+      "channel": "https://t.me/playdeck_en",
       "tags": ["game", "multiplayer", "html5", "referral"],
       "verified": true,
       "promoted": false,
