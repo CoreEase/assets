@@ -11,7 +11,7 @@
       "appId": "tonmobile",
       "title": "Ton Mobile — Internet for travel",
       "image": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/banner/tonmobile.png"
-    }, 
+    },
     {
       "id": "getgems-banner",
       "appId": "getgems",
@@ -20,17 +20,6 @@
     }
   ],
   "categories": [
-    {
-      "id": "crypto",
-      "name": "Crypto & DeFi",
-      "apps": [
-        "starledger",
-        "starninja",
-        "sora",
-        "blum",
-        "wanttopay"
-      ]
-    },
     {
       "id": "gaming",
       "name": "Gaming",
@@ -42,7 +31,6 @@
         "gamee",
         "playdeck",
         "group-game",
-        "gamebot",
         "bums"
       ]
     },
@@ -50,121 +38,26 @@
       "id": "marketplace",
       "name": "NFT & Marketplace",
       "apps": [
+        "getgems",
         "portals-market",
         "mrkt",
-        "getgems",
-        "major"
-      ]
-    },
-    {
-      "id": "productivity",
-      "name": "Productivity",
-      "apps": [
-        "telegraph",
-        "github-bot",
-        "gmail-bot",
-        "skeddy",
-        "ifttt",
-        "trello-bot"
-      ]
-    },
-    {
-      "id": "social",
-      "name": "Social",
-      "apps": [
-        "votebot",
-        "discussbot",
-        "likebot",
-        "ton-dating"
-      ]
-    },
-    {
-      "id": "moderation",
-      "name": "Moderation",
-      "apps": [
-        "rose",
-        "combot",
-        "grouphelp",
-        "channel-help"
-      ]
-    },
-    {
-      "id": "tools",
-      "name": "Tools & Official",
-      "apps": [
-        "botfather",
-        "stickers",
-        "premium-bot",
-        "drweb",
-        "donate",
-        "tribute",
-        "quizbot",
-        "wikipedia-search",
-        "gif-bot",
-        "imdb",
-        "video-search"
+        "tonmobile"
       ]
     }
   ],
   "apps": [
     {
-      "id": "starledger",
-      "name": "StarLedger",
-      "shortDescription": "Sell Telegram Stars, convert NFTs to TON",
-      "description": "Sell Telegram Stars and convert NFTs into TON cryptocurrency with zero fees and instant payouts. No signup or account required, with payouts processed automatically to any TON-compatible wallet.",
-      "icon": "https://telegram.me/i/userpic/320/starledgerbot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/starledgerbot",
-      "tags": ["crypto", "stars", "nft"],
-      "verified": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/starledger/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/starledger/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/starledger/3.png"
-      ]
-    },
-    {
-      "id": "starninja",
-      "name": "StarNinja",
-      "shortDescription": "Buy Telegram Stars & Premium with crypto",
-      "description": "Buy Telegram Stars and Telegram Premium with crypto. Pays in TON, BTC, ETH, USDT, or 100+ other coins, delivered through Fragment in under a minute. Up to 45% cheaper than App Store pricing.",
-      "icon": "https://telegram.me/i/userpic/320/starninjabot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/starninjabot",
-      "tags": ["crypto", "stars", "premium"],
-      "verified": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/starninja/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/starninja/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/starninja/3.png"
-      ]
-    },
-    {
-      "id": "sora",
-      "name": "Sora",
-      "shortDescription": "Crypto price & portfolio tracker",
-      "description": "Crypto price and portfolio bot for Telegram. Type a ticker in any chat for instant prices, convert between coins, track a watchlist, pin a live ticker to a group, or run a private portfolio. Inline mode works in any chat.",
-      "icon": "https://telegram.me/i/userpic/320/soracryptobot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/soracryptobot",
-      "tags": ["crypto", "prices", "portfolio"],
-      "verified": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/sora/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/sora/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/sora/3.png"
-      ]
-    },
-    {
       "id": "notcoin",
       "name": "Notcoin",
       "shortDescription": "The original tap-to-earn game on Telegram",
-      "description": "The original tap-to-earn game on Telegram. Players tapped a gold coin to mine Notcoin during a months-long mining phase, then claimed the NOT token on TON after it listed on major exchanges. Credited with kicking off the wave of clicker mini apps in 2024.",
+      "description": "The original tap-to-earn game on Telegram. Players tapped a gold coin to mine Notcoin during a months-long mining phase, then claimed the NOT token on TON after it listed on major exchanges. Credited with kicking off the wave of clicker mini apps in 2024. Strong referral system for earning.",
       "icon": "https://telegram.me/i/userpic/320/notcoin_bot.svg",
       "type": "miniapp",
       "url": "https://t.me/notcoin_bot",
-      "tags": ["game", "tap-to-earn", "ton"],
+      "channel": "https://t.me/notcoin",
+      "tags": ["game", "tap-to-earn", "ton", "referral"],
       "verified": false,
+      "promoted": false, 
       "screenshots": [
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/notcoin/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/notcoin/2.png",
@@ -175,12 +68,14 @@
       "id": "blum",
       "name": "Blum",
       "shortDescription": "Crypto exchange + play-to-earn app",
-      "description": "A hybrid crypto exchange and play-to-earn app inside Telegram. Players farm Blum Points through daily check-ins, a falling-flowers mini game, and friend referrals, while also using Blum as a swap interface for tokens on Solana, TON, and other chains. Founded by former Binance executives.",
+      "description": "A hybrid crypto exchange and play-to-earn app inside Telegram. Players farm Blum Points through daily check-ins, a falling-flowers mini game, and friend referrals, while also using Blum as a swap interface for tokens on Solana, TON, and other chains. Founded by former Binance executives. Active referral rewards.",
       "icon": "https://telegram.me/i/userpic/320/blum.svg",
       "type": "miniapp",
       "url": "https://t.me/blum",
-      "tags": ["game", "exchange", "defi"],
+      "channel": "https://t.me/blumcrypto",
+      "tags": ["game", "exchange", "defi", "referral"],
       "verified": false,
+      "promoted": false, 
       "screenshots": [
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/blum/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/blum/2.png",
@@ -191,12 +86,14 @@
       "id": "major",
       "name": "Major",
       "shortDescription": "Star-tapping game with a full mini app",
-      "description": "A simple star tapping game on Telegram that grew into a full mini app with daily tasks, NFT trading, staking, and a built-in marketplace. Players collect Stars by completing missions, inviting friends, and holding the MAJOR token.",
+      "description": "A simple star tapping game on Telegram that grew into a full mini app with daily tasks, NFT trading, staking, and a built-in marketplace. Players collect Stars by completing missions, inviting friends, and holding the MAJOR token. Strong referral/invitation rewards.",
       "icon": "https://telegram.me/i/userpic/320/major.svg",
       "type": "miniapp",
       "url": "https://t.me/major",
-      "tags": ["game", "tap-to-earn", "nft"],
+      "channel": "https://t.me/majors",
+      "tags": ["game", "tap-to-earn", "nft", "referral"],
       "verified": false,
+      "promoted": false, 
       "screenshots": [
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/major/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/major/2.png",
@@ -207,12 +104,14 @@
       "id": "catizen",
       "name": "Catizen",
       "shortDescription": "Merge-style cat raising game on TON",
-      "description": "A merge style cat raising game built as a Telegram mini app. Players combine cats to evolve them into rarer breeds, earn vKitty points, and participate in seasonal events. Runs on TON.",
+      "description": "A merge style cat raising game built as a Telegram mini app. Players combine cats to evolve them into rarer breeds, earn vKitty points, and participate in seasonal events. Runs on TON. Has active referral system for earnings.",
       "icon": "https://telegram.me/i/userpic/320/catizenbot.svg",
       "type": "miniapp",
       "url": "https://t.me/catizenbot",
-      "tags": ["game", "ton", "merge"],
+      "channel": "https://t.me/catizenann",
+      "tags": ["game", "ton", "merge", "referral"],
       "verified": false,
+      "promoted": false, 
       "screenshots": [
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/catizen/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/catizen/2.png",
@@ -223,12 +122,14 @@
       "id": "gamee",
       "name": "Gamee",
       "shortDescription": "Arcade game hub with tournaments",
-      "description": "One of the oldest gaming hubs on Telegram, predating the mini app boom. Gamee hosts dozens of arcade style games inside Telegram, runs tournaments with prize pools, and distributes airdrops to active players.",
+      "description": "One of the oldest gaming hubs on Telegram, predating the mini app boom. Gamee hosts dozens of arcade style games inside Telegram, runs tournaments with prize pools, and distributes airdrops to active players. Referral and invite rewards available.",
       "icon": "https://telegram.me/i/userpic/320/gamee.svg",
       "type": "miniapp",
       "url": "https://t.me/gamee",
-      "tags": ["game", "arcade", "tournaments"],
+      "channel": "https://t.me/gameechannel",
+      "tags": ["game", "arcade", "tournaments", "referral"],
       "verified": false,
+      "promoted": false, 
       "screenshots": [
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gamee/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gamee/2.png",
@@ -239,12 +140,14 @@
       "id": "playdeck",
       "name": "PlayDeck",
       "shortDescription": "HTML5 multiplayer game launcher",
-      "description": "An HTML5 game launcher inside Telegram that lets you play multiplayer arcade and casual games with friends in any chat. Drop a game card into a group, tap to launch, and compete on shared leaderboards.",
+      "description": "An HTML5 game launcher inside Telegram that lets you play multiplayer arcade and casual games with friends in any chat. Drop a game card into a group, tap to launch, and compete on shared leaderboards. Supports invites and referrals.",
       "icon": "https://telegram.me/i/userpic/320/playdeckbot.svg",
       "type": "miniapp",
       "url": "https://t.me/playdeckbot",
-      "tags": ["game", "multiplayer", "html5"],
+      "channel": "https://t.me/playdeckbot",
+      "tags": ["game", "multiplayer", "html5", "referral"],
       "verified": false,
+      "promoted": false, 
       "screenshots": [
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/playdeck/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/playdeck/2.png",
@@ -255,11 +158,12 @@
       "id": "group-game",
       "name": "Group Game",
       "shortDescription": "Word Chain & Quiz Bomb for groups",
-      "description": "Add it to a group and play Word Chain and Quiz Bomb challenges with friends. Compete in real-time rounds with shrinking timers, track scores, and earn points across a points system that rewards top finishers.",
+      "description": "Add it to a group and play Word Chain and Quiz Bomb challenges with friends. Compete in real-time rounds with shrinking timers, track scores, and earn points across a points system that rewards top finishers. Referral/invite based rewards.",
       "icon": "https://telegram.me/i/userpic/320/groupgamebot.svg",
       "type": "miniapp",
       "url": "https://t.me/groupgamebot",
-      "tags": ["game", "group", "quiz"],
+      "channel": "https://t.me/groupgamebot",
+      "tags": ["game", "group", "quiz", "referral"],
       "verified": false,
       "promoted": true,
       "screenshots": [
@@ -269,31 +173,15 @@
       ]
     },
     {
-      "id": "gamebot",
-      "name": "GameBot",
-      "shortDescription": "Official Telegram Gaming Platform demo",
-      "description": "The official demo bot for the Telegram Gaming Platform. Maintained by Telegram, it showcases the HTML5 games developers can publish through the Bot API, with sample leaderboards and scoring.",
-      "icon": "https://telegram.me/i/userpic/320/gamebot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/gamebot",
-      "tags": ["game", "official", "html5"],
-      "verified": true,
-      "promoted": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gamebot/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gamebot/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gamebot/3.png"
-      ]
-    },
-    {
       "id": "bums",
       "name": "Bums",
       "shortDescription": "Tap-to-earn mini app on TON",
-      "description": "A tap-to-earn mini app on TON with a cheeky brand and a strong focus on community memes. Players tap a character to earn Bums coins, complete daily missions, and invite friends for boosted multipliers.",
+      "description": "A tap-to-earn mini app on TON with a cheeky brand and a strong focus on community memes. Players tap a character to earn Bums coins, complete daily missions, and invite friends for boosted multipliers. Clear referral profit system.",
       "icon": "https://telegram.me/i/userpic/320/bums.svg",
       "type": "miniapp",
       "url": "https://t.me/bums",
-      "tags": ["game", "tap-to-earn", "ton"],
+      "channel": "https://t.me/bums_official",
+      "tags": ["game", "tap-to-earn", "ton", "referral"],
       "verified": false,
       "promoted": true,
       "screenshots": [
@@ -303,15 +191,35 @@
       ]
     },
     {
+      "id": "getgems",
+      "name": "Getgems",
+      "shortDescription": "The largest NFT marketplace on TON",
+      "description": "The largest NFT marketplace on The Open Network. Getgems hosts collections of Telegram usernames, anonymous numbers, gifts, domains, and original art, with auctions, trait-based filtering, and a built-in launchpad. Supports referral links.",
+      "icon": "https://telegram.me/i/userpic/320/getgems.svg",
+      "type": "miniapp",
+      "url": "https://t.me/getgems",
+      "channel": "https://t.me/getgems",
+      "tags": ["nft", "marketplace", "ton", "referral"],
+      "verified": false,
+      "promoted": false, 
+      "screenshots": [
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/getgems/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/getgems/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/getgems/3.png"
+      ]
+    },
+    {
       "id": "portals-market",
       "name": "Portals Market",
       "shortDescription": "TON NFT & collectible gifts marketplace",
-      "description": "Decentralized marketplace inside Telegram for trading TON-based NFTs and collectible gifts. Open mystery portal boxes, list items for sale, and connect a TON wallet to buy and sell in seconds.",
+      "description": "Decentralized marketplace inside Telegram for trading TON-based NFTs and collectible gifts. Open mystery portal boxes, list items for sale, and connect a TON wallet to buy and sell in seconds. Has referral system.",
       "icon": "https://telegram.me/i/userpic/320/portals_market_bot.svg",
       "type": "miniapp",
       "url": "https://t.me/portals_market_bot",
-      "tags": ["nft", "marketplace", "ton"],
+      "channel": "https://t.me/portals_market_bot",
+      "tags": ["nft", "marketplace", "ton", "referral"],
       "verified": false,
+      "promoted": false, 
       "screenshots": [
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/portals-market/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/portals-market/2.png",
@@ -322,12 +230,14 @@
       "id": "mrkt",
       "name": "MRKT",
       "shortDescription": "NFT marketplace for gifts & stickers",
-      "description": "TON-based NFT marketplace mini app for trading Telegram gifts, stickers, and collectibles. Supports auctions, multi-item listings, rarity filters, and direct TON wallet integration.",
+      "description": "TON-based NFT marketplace mini app for trading Telegram gifts, stickers, and collectibles. Supports auctions, multi-item listings, rarity filters, and direct TON wallet integration. Referral links available.",
       "icon": "https://telegram.me/i/userpic/320/mrkt.svg",
       "type": "miniapp",
       "url": "https://t.me/mrkt",
-      "tags": ["nft", "marketplace", "gifts"],
+      "channel": "https://t.me/mrkt",
+      "tags": ["nft", "marketplace", "gifts", "referral"],
       "verified": false,
+      "promoted": false, 
       "screenshots": [
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/mrkt/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/mrkt/2.png",
@@ -335,451 +245,21 @@
       ]
     },
     {
-      "id": "getgems",
-      "name": "Getgems",
-      "shortDescription": "The largest NFT marketplace on TON",
-      "description": "The largest NFT marketplace on The Open Network. Getgems hosts collections of Telegram usernames, anonymous numbers, gifts, domains, and original art, with auctions, trait-based filtering, and a built-in launchpad.",
-      "icon": "https://telegram.me/i/userpic/320/getgems.svg",
-      "type": "miniapp",
-      "url": "https://t.me/getgems",
-      "tags": ["nft", "marketplace", "ton"],
-      "verified": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/getgems/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/getgems/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/getgems/3.png"
-      ]
-    },
-    {
       "id": "tonmobile",
       "name": "Ton Mobile",
       "shortDescription": "Internet for travel",
-      "description": "Ton Mobile — Internet for travel",
+      "description": "Ton Mobile — Internet for travel. eSIM and data plans for travelers with referral system.",
       "icon": "https://telegram.me/i/userpic/320/Mobile.svg",
       "type": "miniapp",
       "url": "https://t.me/Mobile/app?startapp=code_OOTB58V",
-      "tags": ["marketplace", "ton"],
+      "channel": "https://t.me/Mobile",
+      "tags": ["marketplace", "ton", "referral"],
       "verified": true,
+      "promoted": false, 
       "screenshots": [
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/tonmobile/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/tonmobile/2.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/tonmobile/3.png"
-      ]
-    },
-    {
-      "id": "wanttopay",
-      "name": "WantToPay",
-      "shortDescription": "Virtual Visa/Mastercard cards in Telegram",
-      "description": "Virtual Visa and Mastercard cards issued inside Telegram for paying international services like ChatGPT, Steam, Figma, and Netflix. Top up with crypto (USDT, TON, BTC) or fiat, add cards to Apple Pay and Google Pay.",
-      "icon": "https://telegram.me/i/userpic/320/wanttopaybot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/wanttopaybot",
-      "tags": ["finance", "virtual-card", "crypto"],
-      "verified": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/wanttopay/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/wanttopay/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/wanttopay/3.png"
-      ]
-    },
-    {
-      "id": "donate",
-      "name": "Donate",
-      "shortDescription": "Receive donations from your Telegram audience",
-      "description": "The official Telegram bot that helps content creators receive financial support from their followers directly inside the app. Channel owners can collect donations, supporters can contribute without leaving Telegram.",
-      "icon": "https://telegram.me/i/userpic/320/donate.svg",
-      "type": "miniapp",
-      "url": "https://t.me/donate",
-      "tags": ["finance", "donations", "official"],
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/donate/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/donate/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/donate/3.png"
-      ]
-    },
-    {
-      "id": "tribute",
-      "name": "Tribute",
-      "shortDescription": "Paid subscriptions for Telegram creators",
-      "description": "Monetization platform for Telegram creators. Tribute lets channel owners and group admins accept paid subscriptions, one-time donations, and digital product sales directly from members, with payouts handled inside the app.",
-      "icon": "https://telegram.me/i/userpic/320/tribute.svg",
-      "type": "miniapp",
-      "url": "https://t.me/tribute",
-      "tags": ["finance", "subscriptions", "creators"],
-      "verified": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/tribute/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/tribute/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/tribute/3.png"
-      ]
-    },
-    {
-      "id": "telegraph",
-      "name": "Telegraph",
-      "shortDescription": "Companion bot for Telegra.ph publishing",
-      "description": "The official companion bot for Telegra.ph, Telegram's anonymous publishing platform. Claim ownership of your articles, manage drafts across devices, edit posts after publishing, and check page view statistics.",
-      "icon": "https://telegram.me/i/userpic/320/telegraph.svg",
-      "type": "miniapp",
-      "url": "https://t.me/telegraph",
-      "tags": ["productivity", "publishing", "official"],
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/telegraph/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/telegraph/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/telegraph/3.png"
-      ]
-    },
-    {
-      "id": "skeddy",
-      "name": "Skeddy",
-      "shortDescription": "Natural language reminder bot",
-      "description": "A natural language reminder bot for Telegram. Type a sentence like 'remind me to call mom tomorrow at 7pm' and Skeddy schedules the alert in plain English, with recurring reminders and time zones.",
-      "icon": "https://telegram.me/i/userpic/320/skeddybot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/skeddybot",
-      "tags": ["productivity", "reminders"],
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/skeddy/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/skeddy/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/skeddy/3.png"
-      ]
-    },
-    {
-      "id": "github-bot",
-      "name": "GitHub",
-      "shortDescription": "GitHub notifications inside Telegram",
-      "description": "Get notifications about activity in your public GitHub repositories and post comments directly from Telegram. Pushes commit, issue, pull request, and release events into any connected chat.",
-      "icon": "https://telegram.me/i/userpic/320/githubbot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/githubbot",
-      "tags": ["productivity", "developer", "github"],
-      "verified": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/github-bot/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/github-bot/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/github-bot/3.png"
-      ]
-    },
-    {
-      "id": "trello-bot",
-      "name": "Trello",
-      "shortDescription": "Manage Trello boards from Telegram",
-      "description": "Connect your Trello boards to Telegram and manage cards without switching apps. Receive notifications when cards are updated, create new cards by replying to messages, and get due-date reminders.",
-      "icon": "https://telegram.me/i/userpic/320/trello_bot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/trello_bot",
-      "tags": ["productivity", "trello"],
-      "verified": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/trello-bot/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/trello-bot/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/trello-bot/3.png"
-      ]
-    },
-    {
-      "id": "ifttt",
-      "name": "IFTTT",
-      "shortDescription": "Automate Telegram with 360+ services",
-      "description": "Link your Telegram groups and channels to more than 360 other services through IFTTT applets. Trigger messages from RSS feeds, weather alerts, smart home events, calendar updates, and more.",
-      "icon": "https://telegram.me/i/userpic/320/ifttt.svg",
-      "type": "miniapp",
-      "url": "https://t.me/ifttt",
-      "tags": ["productivity", "automation", "official"],
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/ifttt/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/ifttt/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/ifttt/3.png"
-      ]
-    },
-    {
-      "id": "gmail-bot",
-      "name": "Gmail Bot",
-      "shortDescription": "Read & send Gmail from Telegram",
-      "description": "Connect a Gmail account to Telegram. Receive new emails as instant messages, compose new emails and replies directly from the chat, and delete or mark as spam without leaving Telegram.",
-      "icon": "https://telegram.me/i/userpic/320/gmailbot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/gmailbot",
-      "tags": ["productivity", "email", "official"],
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gmail-bot/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gmail-bot/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gmail-bot/3.png"
-      ]
-    },
-    {
-      "id": "votebot",
-      "name": "VoteBot",
-      "shortDescription": "Official Telegram polling bot",
-      "description": "The official Telegram polling bot. Create polls with custom questions and answer options, share them in any chat, and watch live results update as friends vote.",
-      "icon": "https://telegram.me/i/userpic/320/vote.svg",
-      "type": "miniapp",
-      "url": "https://t.me/vote",
-      "tags": ["social", "polls", "official"],
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/votebot/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/votebot/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/votebot/3.png"
-      ]
-    },
-    {
-      "id": "discussbot",
-      "name": "Discussion Bot",
-      "shortDescription": "Link a discussion group to your channel",
-      "description": "The official bot for linking a discussion group to a Telegram channel so subscribers can leave comments on posts. Attach the bot, choose a group, and a Comment button appears under every channel post.",
-      "icon": "https://telegram.me/i/userpic/320/discussbot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/discussbot",
-      "tags": ["social", "channel", "official"],
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/discussbot/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/discussbot/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/discussbot/3.png"
-      ]
-    },
-    {
-      "id": "likebot",
-      "name": "LikeBot",
-      "shortDescription": "Emoji-based like buttons for posts",
-      "description": "The official Telegram bot for creating posts with custom emoji-based like buttons. Compose a message, attach a row of reaction buttons, and share it to any chat where others can tap to react.",
-      "icon": "https://telegram.me/i/userpic/320/like.svg",
-      "type": "miniapp",
-      "url": "https://t.me/like",
-      "tags": ["social", "reactions", "official"],
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/likebot/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/likebot/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/likebot/3.png"
-      ]
-    },
-    {
-      "id": "ton-dating",
-      "name": "TON Dating",
-      "shortDescription": "Selective dating mini app on TON",
-      "description": "Selective dating mini app on TON. Profiles are verified, active users earn TON rewards. Free for women; men pay a one-month subscription in Stars to access the app.",
-      "icon": "https://telegram.me/i/userpic/320/tondating_bot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/tondating_bot",
-      "tags": ["social", "dating", "ton"],
-      "verified": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/ton-dating/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/ton-dating/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/ton-dating/3.png"
-      ]
-    },
-    {
-      "id": "rose",
-      "name": "Rose",
-      "shortDescription": "Powerful group management bot",
-      "description": "A powerful group management bot used by over two million Telegram communities. Provides anti-spam filters, custom welcome messages, warning systems, federated bans, note storage, and a flexible rules engine.",
-      "icon": "https://telegram.me/i/userpic/320/missrose_bot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/missrose_bot",
-      "tags": ["moderation", "group-admin"],
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/rose/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/rose/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/rose/3.png"
-      ]
-    },
-    {
-      "id": "combot",
-      "name": "Combot",
-      "shortDescription": "Moderation & analytics suite for groups",
-      "description": "Moderation, analytics, and anti-spam suite for Telegram groups and channels, running since 2016. Offers chat statistics, automated CAPTCHA, language filters, scheduled posts, and reputation tracking.",
-      "icon": "https://telegram.me/i/userpic/320/combot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/combot",
-      "tags": ["moderation", "analytics"],
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/combot/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/combot/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/combot/3.png"
-      ]
-    },
-    {
-      "id": "grouphelp",
-      "name": "GroupHelp",
-      "shortDescription": "Full-featured group management bot",
-      "description": "A full featured Telegram group management bot with anti-spam protection, welcome messages, scheduled posts, anti-flood controls, and word filters. Serves more than one million communities.",
-      "icon": "https://telegram.me/i/userpic/320/grouphelpbot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/grouphelpbot",
-      "tags": ["moderation", "group-admin"],
-      "verified": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/grouphelp/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/grouphelp/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/grouphelp/3.png"
-      ]
-    },
-    {
-      "id": "channel-help",
-      "name": "Channel Help",
-      "shortDescription": "Comprehensive channel management bot",
-      "description": "Comprehensive channel management bot. Schedule posts, add inline buttons and premium emoji, set welcome messages, run recurring posts, filter joins, and more. Popular with 2M+ monthly users.",
-      "icon": "https://telegram.me/i/userpic/320/chelpbot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/chelpbot",
-      "tags": ["moderation", "channel-admin"],
-      "verified": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/channel-help/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/channel-help/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/channel-help/3.png"
-      ]
-    },
-    {
-      "id": "quizbot",
-      "name": "Quiz Bot",
-      "shortDescription": "Build multi-question quizzes",
-      "description": "The official Telegram bot for building multi-question quizzes with multiple-choice answers. Create quizzes, share them in groups or channels, and challenge friends with timed scoring and live leaderboards.",
-      "icon": "https://telegram.me/i/userpic/320/quizbot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/quizbot",
-      "tags": ["education", "quiz", "official"],
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/quizbot/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/quizbot/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/quizbot/3.png"
-      ]
-    },
-    {
-      "id": "wikipedia-search",
-      "name": "Wikipedia Search",
-      "shortDescription": "Inline Wikipedia search (@wiki)",
-      "description": "Telegram's official inline Wikipedia search bot. Type @wiki in any chat followed by a query to find and share Wikipedia articles instantly without opening a browser.",
-      "icon": "https://telegram.me/i/userpic/320/wiki.svg",
-      "type": "miniapp",
-      "url": "https://t.me/wiki",
-      "tags": ["education", "search", "official"],
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/wikipedia-search/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/wikipedia-search/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/wikipedia-search/3.png"
-      ]
-    },
-    {
-      "id": "gif-bot",
-      "name": "GIF",
-      "shortDescription": "Official inline GIF search",
-      "description": "The official inline GIF search bot built into Telegram, powered by the Tenor library. Type @gif followed by a keyword in any chat to browse and send animated GIFs without leaving the conversation.",
-      "icon": "https://telegram.me/i/userpic/320/gif.svg",
-      "type": "miniapp",
-      "url": "https://t.me/gif",
-      "tags": ["entertainment", "gif", "official"],
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gif-bot/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gif-bot/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gif-bot/3.png"
-      ]
-    },
-    {
-      "id": "imdb",
-      "name": "IMDb",
-      "shortDescription": "Inline movie & show search",
-      "description": "Telegram's official inline IMDb bot. Works in any chat, no need to add it anywhere. Type @imdb followed by a movie or show name to share rich previews with ratings and details.",
-      "icon": "https://telegram.me/i/userpic/320/imdb.svg",
-      "type": "miniapp",
-      "url": "https://t.me/imdb",
-      "tags": ["entertainment", "movies", "official"],
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/imdb/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/imdb/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/imdb/3.png"
-      ]
-    },
-    {
-      "id": "video-search",
-      "name": "Video Search",
-      "shortDescription": "Official inline video search (@vid)",
-      "description": "Telegram's official inline video search bot. Same service as @youtube under a shorter username. Type @vid in any chat followed by a query to find and share videos.",
-      "icon": "https://telegram.me/i/userpic/320/vid.svg",
-      "type": "miniapp",
-      "url": "https://t.me/vid",
-      "tags": ["entertainment", "video", "official"],
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/video-search/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/video-search/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/video-search/3.png"
-      ]
-    },
-    {
-      "id": "botfather",
-      "name": "BotFather",
-      "shortDescription": "Create and manage Telegram bots",
-      "description": "The one bot to rule them all. BotFather is the official Telegram bot used by developers to create new bots, generate API tokens, set commands, configure inline mode, and manage every bot they own.",
-      "icon": "https://telegram.me/i/userpic/320/botfather.svg",
-      "type": "miniapp",
-      "url": "https://t.me/botfather",
-      "tags": ["tools", "developer", "official"],
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/botfather/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/botfather/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/botfather/3.png"
-      ]
-    },
-    {
-      "id": "stickers",
-      "name": "Stickers",
-      "shortDescription": "Create and manage sticker packs",
-      "description": "The official Telegram bot for creating and managing custom sticker packs. Upload images, assign emoji, build animated and video stickers, and publish packs for anyone on Telegram to add.",
-      "icon": "https://telegram.me/i/userpic/320/stickers.svg",
-      "type": "miniapp",
-      "url": "https://t.me/stickers",
-      "tags": ["tools", "stickers", "official"],
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/stickers/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/stickers/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/stickers/3.png"
-      ]
-    },
-    {
-      "id": "premium-bot",
-      "name": "Premium Bot",
-      "shortDescription": "Subscribe or gift Telegram Premium",
-      "description": "The official bot for subscribing to Telegram Premium or gifting subscriptions to friends, with discounts up to 40 percent on multi-month plans.",
-      "icon": "https://telegram.me/i/userpic/320/premiumbot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/premiumbot",
-      "tags": ["tools", "premium", "official"],
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/premium-bot/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/premium-bot/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/premium-bot/3.png"
-      ]
-    },
-    {
-      "id": "drweb",
-      "name": "Dr.Web",
-      "shortDescription": "Free antivirus scanning bot",
-      "description": "Free antivirus bot from Dr.Web. Send a file or a link and the bot scans it for viruses and reports back. Works in private chats and in groups, with a quiet mode that only warns on threats.",
-      "icon": "https://telegram.me/i/userpic/320/drwebbot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/drwebbot",
-      "tags": ["tools", "security", "antivirus"],
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/drweb/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/drweb/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/drweb/3.png"
       ]
     }
   ]
