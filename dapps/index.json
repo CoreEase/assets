@@ -7,6 +7,12 @@
       "image": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/banner/blum.png"
     },
     {
+      "id": "tonmobile-banner",
+      "appId": "tonmobile",
+      "title": "Ton Mobile — Internet for travel",
+      "image": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/banner/tonmobile.png"
+    }, 
+    {
       "id": "getgems-banner",
       "appId": "getgems",
       "title": "Getgems — the largest NFT marketplace on TON",
@@ -342,6 +348,22 @@
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/getgems/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/getgems/2.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/getgems/3.png"
+      ]
+    },
+    {
+      "id": "tonmobile",
+      "name": "Ton Mobile",
+      "shortDescription": "Internet for travel",
+      "description": "Ton Mobile — Internet for travel",
+      "icon": "https://telegram.me/i/userpic/320/Mobile.svg",
+      "type": "miniapp",
+      "url": "https://t.me/Mobile/app?startapp=code_OOTB58V",
+      "tags": ["marketplace", "ton"],
+      "verified": true,
+      "screenshots": [
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/tonmobile/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/tonmobile/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/tonmobile/3.png"
       ]
     },
     {
