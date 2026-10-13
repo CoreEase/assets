@@ -4,43 +4,40 @@
       "id": "blum-banner",
       "appId": "blum",
       "title": "Blum — trade crypto and farm points inside Telegram",
-      "image": "https://placehold.co/600x300/1E1E2E/FFFFFF?text=Blum",
-      "backgroundColor": "#1E1E2E"
+      "image": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/banner/blum.png"
     },
     {
       "id": "getgems-banner",
       "appId": "getgems",
       "title": "Getgems — the largest NFT marketplace on TON",
-      "image": "https://placehold.co/600x300/6C2BD9/FFFFFF?text=Getgems",
-      "backgroundColor": "#6C2BD9"
+      "image": "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/banner/getgems.png"
     }
   ],
   "categories": [
     {
       "id": "crypto",
-      "name": "Crypto",
+      "name": "Crypto & DeFi",
       "apps": [
         "starledger",
         "starninja",
         "sora",
-        "starninja-earn",
-        "adeasly-ton",
-        "adeasly-ltc"
+        "blum",
+        "wanttopay"
       ]
     },
     {
       "id": "gaming",
       "name": "Gaming",
       "apps": [
-        "group-game",
-        "gamebot",
         "notcoin",
         "blum",
         "major",
         "catizen",
         "gamee",
-        "bums",
-        "playdeck"
+        "playdeck",
+        "group-game",
+        "gamebot",
+        "bums"
       ]
     },
     {
@@ -50,16 +47,7 @@
         "portals-market",
         "mrkt",
         "getgems",
-        "fragment"
-      ]
-    },
-    {
-      "id": "finance",
-      "name": "Finance",
-      "apps": [
-        "donate",
-        "tribute",
-        "wanttopay"
+        "major"
       ]
     },
     {
@@ -67,11 +55,11 @@
       "name": "Productivity",
       "apps": [
         "telegraph",
-        "skeddy",
         "github-bot",
-        "trello-bot",
+        "gmail-bot",
+        "skeddy",
         "ifttt",
-        "gmail-bot"
+        "trello-bot"
       ]
     },
     {
@@ -91,48 +79,24 @@
         "rose",
         "combot",
         "grouphelp",
-        "channel-help",
-        "no-chinese-bot"
-      ]
-    },
-    {
-      "id": "education",
-      "name": "Education",
-      "apps": [
-        "quizbot",
-        "wikipedia-search"
-      ]
-    },
-    {
-      "id": "entertainment",
-      "name": "Entertainment",
-      "apps": [
-        "gif-bot",
-        "imdb",
-        "video-search"
+        "channel-help"
       ]
     },
     {
       "id": "tools",
-      "name": "Tools",
+      "name": "Tools & Official",
       "apps": [
         "botfather",
         "stickers",
         "premium-bot",
-        "spam-info-bot",
-        "eu-regulation-bot",
-        "press-bot",
-        "username-bot",
         "drweb",
-        "designers-bot",
-        "telegram-jobs-bot",
-        "verify-bot",
-        "contest-bot",
-        "image-search",
-        "mtproxy-admin-bot",
-        "tonmobile",
-        "anysticker",
-        "image-to-text"
+        "donate",
+        "tribute",
+        "quizbot",
+        "wikipedia-search",
+        "gif-bot",
+        "imdb",
+        "video-search"
       ]
     }
   ],
@@ -145,16 +109,12 @@
       "icon": "https://telegram.me/i/userpic/320/starledgerbot.svg",
       "type": "miniapp",
       "url": "https://t.me/starledgerbot",
-      "tags": [
-        "crypto",
-        "stars",
-        "nft"
-      ],
-      "verified": true,
+      "tags": ["crypto", "stars", "nft"],
+      "verified": false,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=starledger-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=starledger-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=starledger-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/starledger/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/starledger/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/starledger/3.png"
       ]
     },
     {
@@ -165,16 +125,12 @@
       "icon": "https://telegram.me/i/userpic/320/starninjabot.svg",
       "type": "miniapp",
       "url": "https://t.me/starninjabot",
-      "tags": [
-        "crypto",
-        "stars",
-        "premium"
-      ],
-      "verified": true,
+      "tags": ["crypto", "stars", "premium"],
+      "verified": false,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=starninja-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=starninja-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=starninja-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/starninja/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/starninja/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/starninja/3.png"
       ]
     },
     {
@@ -185,118 +141,12 @@
       "icon": "https://telegram.me/i/userpic/320/soracryptobot.svg",
       "type": "miniapp",
       "url": "https://t.me/soracryptobot",
-      "tags": [
-        "crypto",
-        "prices",
-        "portfolio"
-      ],
-      "verified": true,
+      "tags": ["crypto", "prices", "portfolio"],
+      "verified": false,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=sora-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=sora-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=sora-3"
-      ]
-    },
-    {
-      "id": "starninja-earn",
-      "name": "StarNinja Earn",
-      "shortDescription": "Earn free Telegram Stars by completing tasks",
-      "description": "Earn free Telegram Stars by completing tasks like joining channels and starting bots. No investment, just tasks. Refer friends for more rewards, and withdraw Stars directly to your Telegram account.",
-      "icon": "https://telegram.me/i/userpic/320/starninjaearnbot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/starninjaearnbot",
-      "tags": [
-        "earn",
-        "stars",
-        "tasks"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=starninja-earn-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=starninja-earn-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=starninja-earn-3"
-      ]
-    },
-    {
-      "id": "adeasly-ton",
-      "name": "AdEasly TON",
-      "shortDescription": "Earn TON by completing simple tasks",
-      "description": "Earn TON cryptocurrency by completing simple tasks: browse websites, join Telegram channels, start bots. Free to join with instant payouts to your TON wallet.",
-      "icon": "https://telegram.me/i/userpic/320/adeaslytonbot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/adeaslytonbot",
-      "tags": [
-        "earn",
-        "ton",
-        "tasks"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=adeasly-ton-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=adeasly-ton-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=adeasly-ton-3"
-      ]
-    },
-    {
-      "id": "adeasly-ltc",
-      "name": "AdEasly LTC",
-      "shortDescription": "Earn Litecoin by completing simple tasks",
-      "description": "Earn Litecoin by completing simple tasks: browse websites, join Telegram channels, start bots. Free to join with instant payouts to your LTC wallet. Same platform as AdEasly TON, paid in Litecoin.",
-      "icon": "https://telegram.me/i/userpic/320/adeaslyltcbot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/adeaslyltcbot",
-      "tags": [
-        "earn",
-        "litecoin",
-        "tasks"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=adeasly-ltc-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=adeasly-ltc-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=adeasly-ltc-3"
-      ]
-    },
-    {
-      "id": "group-game",
-      "name": "Group Game",
-      "shortDescription": "Word Chain & Quiz Bomb for groups",
-      "description": "Add it to a group and play Word Chain and Quiz Bomb challenges with friends. Compete in real-time rounds with shrinking timers, track scores, and earn points across a points system that rewards top finishers.",
-      "icon": "https://telegram.me/i/userpic/320/groupgamebot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/groupgamebot",
-      "tags": [
-        "game",
-        "group",
-        "quiz"
-      ],
-      "verified": true,
-      "promoted": true, 
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=group-game-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=group-game-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=group-game-3"
-      ]
-    },
-    {
-      "id": "gamebot",
-      "name": "GameBot",
-      "shortDescription": "Official Telegram Gaming Platform demo",
-      "description": "The official demo bot for the Telegram Gaming Platform. Maintained by Telegram, it showcases the HTML5 games developers can publish through the Bot API, with sample leaderboards and scoring.",
-      "icon": "https://telegram.me/i/userpic/320/gamebot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/gamebot",
-      "tags": [
-        "game",
-        "official",
-        "html5"
-      ],
-      "verified": true,
-      "promoted": true, 
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gamebot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gamebot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gamebot-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/sora/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/sora/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/sora/3.png"
       ]
     },
     {
@@ -307,16 +157,12 @@
       "icon": "https://telegram.me/i/userpic/320/notcoin_bot.svg",
       "type": "miniapp",
       "url": "https://t.me/notcoin_bot",
-      "tags": [
-        "game",
-        "tap-to-earn",
-        "ton"
-      ],
-      "verified": true,
+      "tags": ["game", "tap-to-earn", "ton"],
+      "verified": false,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=notcoin-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=notcoin-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=notcoin-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/notcoin/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/notcoin/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/notcoin/3.png"
       ]
     },
     {
@@ -327,16 +173,12 @@
       "icon": "https://telegram.me/i/userpic/320/blum.svg",
       "type": "miniapp",
       "url": "https://t.me/blum",
-      "tags": [
-        "game",
-        "exchange",
-        "defi"
-      ],
-      "verified": true,
+      "tags": ["game", "exchange", "defi"],
+      "verified": false,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=blum-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=blum-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=blum-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/blum/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/blum/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/blum/3.png"
       ]
     },
     {
@@ -347,16 +189,12 @@
       "icon": "https://telegram.me/i/userpic/320/major.svg",
       "type": "miniapp",
       "url": "https://t.me/major",
-      "tags": [
-        "game",
-        "tap-to-earn",
-        "nft"
-      ],
-      "verified": true,
+      "tags": ["game", "tap-to-earn", "nft"],
+      "verified": false,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=major-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=major-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=major-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/major/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/major/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/major/3.png"
       ]
     },
     {
@@ -367,16 +205,12 @@
       "icon": "https://telegram.me/i/userpic/320/catizenbot.svg",
       "type": "miniapp",
       "url": "https://t.me/catizenbot",
-      "tags": [
-        "game",
-        "ton",
-        "merge"
-      ],
-      "verified": true,
+      "tags": ["game", "ton", "merge"],
+      "verified": false,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=catizen-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=catizen-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=catizen-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/catizen/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/catizen/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/catizen/3.png"
       ]
     },
     {
@@ -387,37 +221,12 @@
       "icon": "https://telegram.me/i/userpic/320/gamee.svg",
       "type": "miniapp",
       "url": "https://t.me/gamee",
-      "tags": [
-        "game",
-        "arcade",
-        "tournaments"
-      ],
-      "verified": true,
+      "tags": ["game", "arcade", "tournaments"],
+      "verified": false,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gamee-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gamee-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gamee-3"
-      ]
-    },
-    {
-      "id": "bums",
-      "name": "Bums",
-      "shortDescription": "Tap-to-earn mini app on TON",
-      "description": "A tap-to-earn mini app on TON with a cheeky brand and a strong focus on community memes. Players tap a character to earn Bums coins, complete daily missions, and invite friends for boosted multipliers.",
-      "icon": "https://telegram.me/i/userpic/320/bums.svg",
-      "type": "miniapp",
-      "url": "https://t.me/bums",
-      "tags": [
-        "game",
-        "tap-to-earn",
-        "ton"
-      ],
-      "verified": true,
-      "promoted": true, 
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=bums-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=bums-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=bums-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gamee/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gamee/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gamee/3.png"
       ]
     },
     {
@@ -428,16 +237,63 @@
       "icon": "https://telegram.me/i/userpic/320/playdeckbot.svg",
       "type": "miniapp",
       "url": "https://t.me/playdeckbot",
-      "tags": [
-        "game",
-        "multiplayer",
-        "html5"
-      ],
-      "verified": true,
+      "tags": ["game", "multiplayer", "html5"],
+      "verified": false,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=playdeck-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=playdeck-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=playdeck-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/playdeck/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/playdeck/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/playdeck/3.png"
+      ]
+    },
+    {
+      "id": "group-game",
+      "name": "Group Game",
+      "shortDescription": "Word Chain & Quiz Bomb for groups",
+      "description": "Add it to a group and play Word Chain and Quiz Bomb challenges with friends. Compete in real-time rounds with shrinking timers, track scores, and earn points across a points system that rewards top finishers.",
+      "icon": "https://telegram.me/i/userpic/320/groupgamebot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/groupgamebot",
+      "tags": ["game", "group", "quiz"],
+      "verified": false,
+      "promoted": true,
+      "screenshots": [
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/group-game/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/group-game/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/group-game/3.png"
+      ]
+    },
+    {
+      "id": "gamebot",
+      "name": "GameBot",
+      "shortDescription": "Official Telegram Gaming Platform demo",
+      "description": "The official demo bot for the Telegram Gaming Platform. Maintained by Telegram, it showcases the HTML5 games developers can publish through the Bot API, with sample leaderboards and scoring.",
+      "icon": "https://telegram.me/i/userpic/320/gamebot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/gamebot",
+      "tags": ["game", "official", "html5"],
+      "verified": true,
+      "promoted": true,
+      "screenshots": [
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gamebot/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gamebot/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gamebot/3.png"
+      ]
+    },
+    {
+      "id": "bums",
+      "name": "Bums",
+      "shortDescription": "Tap-to-earn mini app on TON",
+      "description": "A tap-to-earn mini app on TON with a cheeky brand and a strong focus on community memes. Players tap a character to earn Bums coins, complete daily missions, and invite friends for boosted multipliers.",
+      "icon": "https://telegram.me/i/userpic/320/bums.svg",
+      "type": "miniapp",
+      "url": "https://t.me/bums",
+      "tags": ["game", "tap-to-earn", "ton"],
+      "verified": false,
+      "promoted": true,
+      "screenshots": [
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/bums/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/bums/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/bums/3.png"
       ]
     },
     {
@@ -448,16 +304,12 @@
       "icon": "https://telegram.me/i/userpic/320/portals_market_bot.svg",
       "type": "miniapp",
       "url": "https://t.me/portals_market_bot",
-      "tags": [
-        "nft",
-        "marketplace",
-        "ton"
-      ],
-      "verified": true,
+      "tags": ["nft", "marketplace", "ton"],
+      "verified": false,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=portals-market-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=portals-market-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=portals-market-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/portals-market/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/portals-market/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/portals-market/3.png"
       ]
     },
     {
@@ -468,16 +320,12 @@
       "icon": "https://telegram.me/i/userpic/320/mrkt.svg",
       "type": "miniapp",
       "url": "https://t.me/mrkt",
-      "tags": [
-        "nft",
-        "marketplace",
-        "gifts"
-      ],
-      "verified": true,
+      "tags": ["nft", "marketplace", "gifts"],
+      "verified": false,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=mrkt-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=mrkt-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=mrkt-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/mrkt/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/mrkt/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/mrkt/3.png"
       ]
     },
     {
@@ -488,56 +336,12 @@
       "icon": "https://telegram.me/i/userpic/320/getgems.svg",
       "type": "miniapp",
       "url": "https://t.me/getgems",
-      "tags": [
-        "nft",
-        "marketplace",
-        "ton"
-      ],
-      "verified": true,
+      "tags": ["nft", "marketplace", "ton"],
+      "verified": false,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=getgems-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=getgems-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=getgems-3"
-      ]
-    },
-    {
-      "id": "donate",
-      "name": "Donate",
-      "shortDescription": "Receive donations from your Telegram audience",
-      "description": "The official Telegram bot that helps content creators receive financial support from their followers directly inside the app. Channel owners can collect donations, supporters can contribute without leaving Telegram.",
-      "icon": "https://telegram.me/i/userpic/320/donate.svg",
-      "type": "miniapp",
-      "url": "https://t.me/donate",
-      "tags": [
-        "finance",
-        "donations",
-        "official"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=donate-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=donate-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=donate-3"
-      ]
-    },
-    {
-      "id": "tribute",
-      "name": "Tribute",
-      "shortDescription": "Paid subscriptions for Telegram creators",
-      "description": "Monetization platform for Telegram creators. Tribute lets channel owners and group admins accept paid subscriptions, one-time donations, and digital product sales directly from members, with payouts handled inside the app.",
-      "icon": "https://telegram.me/i/userpic/320/tribute.svg",
-      "type": "miniapp",
-      "url": "https://t.me/tribute",
-      "tags": [
-        "finance",
-        "subscriptions",
-        "creators"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=tribute-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=tribute-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=tribute-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/getgems/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/getgems/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/getgems/3.png"
       ]
     },
     {
@@ -548,16 +352,44 @@
       "icon": "https://telegram.me/i/userpic/320/wanttopaybot.svg",
       "type": "miniapp",
       "url": "https://t.me/wanttopaybot",
-      "tags": [
-        "finance",
-        "virtual-card",
-        "crypto"
-      ],
+      "tags": ["finance", "virtual-card", "crypto"],
+      "verified": false,
+      "screenshots": [
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/wanttopay/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/wanttopay/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/wanttopay/3.png"
+      ]
+    },
+    {
+      "id": "donate",
+      "name": "Donate",
+      "shortDescription": "Receive donations from your Telegram audience",
+      "description": "The official Telegram bot that helps content creators receive financial support from their followers directly inside the app. Channel owners can collect donations, supporters can contribute without leaving Telegram.",
+      "icon": "https://telegram.me/i/userpic/320/donate.svg",
+      "type": "miniapp",
+      "url": "https://t.me/donate",
+      "tags": ["finance", "donations", "official"],
       "verified": true,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=wanttopay-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=wanttopay-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=wanttopay-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/donate/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/donate/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/donate/3.png"
+      ]
+    },
+    {
+      "id": "tribute",
+      "name": "Tribute",
+      "shortDescription": "Paid subscriptions for Telegram creators",
+      "description": "Monetization platform for Telegram creators. Tribute lets channel owners and group admins accept paid subscriptions, one-time donations, and digital product sales directly from members, with payouts handled inside the app.",
+      "icon": "https://telegram.me/i/userpic/320/tribute.svg",
+      "type": "miniapp",
+      "url": "https://t.me/tribute",
+      "tags": ["finance", "subscriptions", "creators"],
+      "verified": false,
+      "screenshots": [
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/tribute/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/tribute/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/tribute/3.png"
       ]
     },
     {
@@ -568,16 +400,12 @@
       "icon": "https://telegram.me/i/userpic/320/telegraph.svg",
       "type": "miniapp",
       "url": "https://t.me/telegraph",
-      "tags": [
-        "productivity",
-        "publishing",
-        "official"
-      ],
+      "tags": ["productivity", "publishing", "official"],
       "verified": true,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=telegraph-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=telegraph-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=telegraph-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/telegraph/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/telegraph/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/telegraph/3.png"
       ]
     },
     {
@@ -588,15 +416,12 @@
       "icon": "https://telegram.me/i/userpic/320/skeddybot.svg",
       "type": "miniapp",
       "url": "https://t.me/skeddybot",
-      "tags": [
-        "productivity",
-        "reminders"
-      ],
+      "tags": ["productivity", "reminders"],
       "verified": true,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=skeddy-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=skeddy-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=skeddy-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/skeddy/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/skeddy/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/skeddy/3.png"
       ]
     },
     {
@@ -607,16 +432,12 @@
       "icon": "https://telegram.me/i/userpic/320/githubbot.svg",
       "type": "miniapp",
       "url": "https://t.me/githubbot",
-      "tags": [
-        "productivity",
-        "developer",
-        "github"
-      ],
-      "verified": true,
+      "tags": ["productivity", "developer", "github"],
+      "verified": false,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=github-bot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=github-bot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=github-bot-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/github-bot/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/github-bot/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/github-bot/3.png"
       ]
     },
     {
@@ -627,15 +448,12 @@
       "icon": "https://telegram.me/i/userpic/320/trello_bot.svg",
       "type": "miniapp",
       "url": "https://t.me/trello_bot",
-      "tags": [
-        "productivity",
-        "trello"
-      ],
-      "verified": true,
+      "tags": ["productivity", "trello"],
+      "verified": false,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=trello-bot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=trello-bot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=trello-bot-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/trello-bot/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/trello-bot/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/trello-bot/3.png"
       ]
     },
     {
@@ -646,16 +464,12 @@
       "icon": "https://telegram.me/i/userpic/320/ifttt.svg",
       "type": "miniapp",
       "url": "https://t.me/ifttt",
-      "tags": [
-        "productivity",
-        "automation",
-        "official"
-      ],
+      "tags": ["productivity", "automation", "official"],
       "verified": true,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=ifttt-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=ifttt-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=ifttt-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/ifttt/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/ifttt/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/ifttt/3.png"
       ]
     },
     {
@@ -666,16 +480,12 @@
       "icon": "https://telegram.me/i/userpic/320/gmailbot.svg",
       "type": "miniapp",
       "url": "https://t.me/gmailbot",
-      "tags": [
-        "productivity",
-        "email",
-        "official"
-      ],
+      "tags": ["productivity", "email", "official"],
       "verified": true,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gmail-bot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gmail-bot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gmail-bot-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gmail-bot/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gmail-bot/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gmail-bot/3.png"
       ]
     },
     {
@@ -686,16 +496,12 @@
       "icon": "https://telegram.me/i/userpic/320/vote.svg",
       "type": "miniapp",
       "url": "https://t.me/vote",
-      "tags": [
-        "social",
-        "polls",
-        "official"
-      ],
+      "tags": ["social", "polls", "official"],
       "verified": true,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=votebot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=votebot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=votebot-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/votebot/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/votebot/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/votebot/3.png"
       ]
     },
     {
@@ -706,16 +512,12 @@
       "icon": "https://telegram.me/i/userpic/320/discussbot.svg",
       "type": "miniapp",
       "url": "https://t.me/discussbot",
-      "tags": [
-        "social",
-        "channel",
-        "official"
-      ],
+      "tags": ["social", "channel", "official"],
       "verified": true,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=discussbot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=discussbot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=discussbot-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/discussbot/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/discussbot/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/discussbot/3.png"
       ]
     },
     {
@@ -726,16 +528,12 @@
       "icon": "https://telegram.me/i/userpic/320/like.svg",
       "type": "miniapp",
       "url": "https://t.me/like",
-      "tags": [
-        "social",
-        "reactions",
-        "official"
-      ],
+      "tags": ["social", "reactions", "official"],
       "verified": true,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=likebot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=likebot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=likebot-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/likebot/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/likebot/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/likebot/3.png"
       ]
     },
     {
@@ -746,16 +544,12 @@
       "icon": "https://telegram.me/i/userpic/320/tondating_bot.svg",
       "type": "miniapp",
       "url": "https://t.me/tondating_bot",
-      "tags": [
-        "social",
-        "dating",
-        "ton"
-      ],
-      "verified": true,
+      "tags": ["social", "dating", "ton"],
+      "verified": false,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=ton-dating-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=ton-dating-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=ton-dating-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/ton-dating/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/ton-dating/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/ton-dating/3.png"
       ]
     },
     {
@@ -766,15 +560,12 @@
       "icon": "https://telegram.me/i/userpic/320/missrose_bot.svg",
       "type": "miniapp",
       "url": "https://t.me/missrose_bot",
-      "tags": [
-        "moderation",
-        "group-admin"
-      ],
+      "tags": ["moderation", "group-admin"],
       "verified": true,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=rose-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=rose-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=rose-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/rose/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/rose/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/rose/3.png"
       ]
     },
     {
@@ -785,15 +576,12 @@
       "icon": "https://telegram.me/i/userpic/320/combot.svg",
       "type": "miniapp",
       "url": "https://t.me/combot",
-      "tags": [
-        "moderation",
-        "analytics"
-      ],
+      "tags": ["moderation", "analytics"],
       "verified": true,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=combot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=combot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=combot-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/combot/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/combot/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/combot/3.png"
       ]
     },
     {
@@ -804,15 +592,12 @@
       "icon": "https://telegram.me/i/userpic/320/grouphelpbot.svg",
       "type": "miniapp",
       "url": "https://t.me/grouphelpbot",
-      "tags": [
-        "moderation",
-        "group-admin"
-      ],
-      "verified": true,
+      "tags": ["moderation", "group-admin"],
+      "verified": false,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=grouphelp-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=grouphelp-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=grouphelp-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/grouphelp/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/grouphelp/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/grouphelp/3.png"
       ]
     },
     {
@@ -823,34 +608,12 @@
       "icon": "https://telegram.me/i/userpic/320/chelpbot.svg",
       "type": "miniapp",
       "url": "https://t.me/chelpbot",
-      "tags": [
-        "moderation",
-        "channel-admin"
-      ],
-      "verified": true,
+      "tags": ["moderation", "channel-admin"],
+      "verified": false,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=channel-help-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=channel-help-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=channel-help-3"
-      ]
-    },
-    {
-      "id": "no-chinese-bot",
-      "name": "No Chinese Bot",
-      "shortDescription": "Auto-removes Chinese-character spam",
-      "description": "Group moderation bot that automatically removes messages containing Chinese characters and bans the sender. Add the bot to a group as admin and it works immediately, no setup required.",
-      "icon": "https://telegram.me/i/userpic/320/nochinese_bot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/nochinese_bot",
-      "tags": [
-        "moderation",
-        "anti-spam"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=no-chinese-bot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=no-chinese-bot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=no-chinese-bot-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/channel-help/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/channel-help/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/channel-help/3.png"
       ]
     },
     {
@@ -861,16 +624,12 @@
       "icon": "https://telegram.me/i/userpic/320/quizbot.svg",
       "type": "miniapp",
       "url": "https://t.me/quizbot",
-      "tags": [
-        "education",
-        "quiz",
-        "official"
-      ],
+      "tags": ["education", "quiz", "official"],
       "verified": true,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=quizbot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=quizbot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=quizbot-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/quizbot/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/quizbot/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/quizbot/3.png"
       ]
     },
     {
@@ -881,16 +640,12 @@
       "icon": "https://telegram.me/i/userpic/320/wiki.svg",
       "type": "miniapp",
       "url": "https://t.me/wiki",
-      "tags": [
-        "education",
-        "search",
-        "official"
-      ],
+      "tags": ["education", "search", "official"],
       "verified": true,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=wikipedia-search-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=wikipedia-search-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=wikipedia-search-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/wikipedia-search/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/wikipedia-search/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/wikipedia-search/3.png"
       ]
     },
     {
@@ -901,16 +656,12 @@
       "icon": "https://telegram.me/i/userpic/320/gif.svg",
       "type": "miniapp",
       "url": "https://t.me/gif",
-      "tags": [
-        "entertainment",
-        "gif",
-        "official"
-      ],
+      "tags": ["entertainment", "gif", "official"],
       "verified": true,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gif-bot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gif-bot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=gif-bot-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gif-bot/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gif-bot/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gif-bot/3.png"
       ]
     },
     {
@@ -921,16 +672,12 @@
       "icon": "https://telegram.me/i/userpic/320/imdb.svg",
       "type": "miniapp",
       "url": "https://t.me/imdb",
-      "tags": [
-        "entertainment",
-        "movies",
-        "official"
-      ],
+      "tags": ["entertainment", "movies", "official"],
       "verified": true,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=imdb-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=imdb-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=imdb-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/imdb/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/imdb/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/imdb/3.png"
       ]
     },
     {
@@ -941,16 +688,12 @@
       "icon": "https://telegram.me/i/userpic/320/vid.svg",
       "type": "miniapp",
       "url": "https://t.me/vid",
-      "tags": [
-        "entertainment",
-        "video",
-        "official"
-      ],
+      "tags": ["entertainment", "video", "official"],
       "verified": true,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=video-search-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=video-search-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=video-search-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/video-search/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/video-search/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/video-search/3.png"
       ]
     },
     {
@@ -961,16 +704,12 @@
       "icon": "https://telegram.me/i/userpic/320/botfather.svg",
       "type": "miniapp",
       "url": "https://t.me/botfather",
-      "tags": [
-        "tools",
-        "developer",
-        "official"
-      ],
+      "tags": ["tools", "developer", "official"],
       "verified": true,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=botfather-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=botfather-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=botfather-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/botfather/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/botfather/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/botfather/3.png"
       ]
     },
     {
@@ -981,16 +720,12 @@
       "icon": "https://telegram.me/i/userpic/320/stickers.svg",
       "type": "miniapp",
       "url": "https://t.me/stickers",
-      "tags": [
-        "tools",
-        "stickers",
-        "official"
-      ],
+      "tags": ["tools", "stickers", "official"],
       "verified": true,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=stickers-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=stickers-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=stickers-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/stickers/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/stickers/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/stickers/3.png"
       ]
     },
     {
@@ -1001,96 +736,12 @@
       "icon": "https://telegram.me/i/userpic/320/premiumbot.svg",
       "type": "miniapp",
       "url": "https://t.me/premiumbot",
-      "tags": [
-        "tools",
-        "premium",
-        "official"
-      ],
+      "tags": ["tools", "premium", "official"],
       "verified": true,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=premium-bot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=premium-bot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=premium-bot-3"
-      ]
-    },
-    {
-      "id": "spam-info-bot",
-      "name": "Spam Info Bot",
-      "shortDescription": "Appeal account messaging restrictions",
-      "description": "The official Telegram Spam Info Bot. If your account has been limited from messaging strangers or joining new groups, this bot explains why and lets you appeal the restriction.",
-      "icon": "https://telegram.me/i/userpic/320/spambot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/spambot",
-      "tags": [
-        "tools",
-        "account",
-        "official"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=spam-info-bot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=spam-info-bot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=spam-info-bot-3"
-      ]
-    },
-    {
-      "id": "eu-regulation-bot",
-      "name": "EU Regulation Bot",
-      "shortDescription": "GDPR / DSA requests for EU users",
-      "description": "Telegram's official EU Regulation Bot. The canonical route for users in the European Union to submit privacy and data protection requests under the Digital Services Act and GDPR.",
-      "icon": "https://telegram.me/i/userpic/320/euregulation.svg",
-      "type": "miniapp",
-      "url": "https://t.me/euregulation",
-      "tags": [
-        "tools",
-        "privacy",
-        "official"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=eu-regulation-bot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=eu-regulation-bot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=eu-regulation-bot-3"
-      ]
-    },
-    {
-      "id": "press-bot",
-      "name": "Press Bot",
-      "shortDescription": "Contact the Telegram Press Team",
-      "description": "The official bot of the Telegram Press Team. Journalists and media organizations use this bot to submit press requests, schedule interviews, and contact the Telegram team for comment.",
-      "icon": "https://telegram.me/i/userpic/320/pressbot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/pressbot",
-      "tags": [
-        "tools",
-        "press",
-        "official"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=press-bot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=press-bot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=press-bot-3"
-      ]
-    },
-    {
-      "id": "username-bot",
-      "name": "Username Bot",
-      "shortDescription": "Claim an occupied inactive username",
-      "description": "The official Telegram bot for claiming an occupied username. If you own the same username on another platform and the matching Telegram handle is held by an inactive account, submit a claim here.",
-      "icon": "https://telegram.me/i/userpic/320/username_bot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/username_bot",
-      "tags": [
-        "tools",
-        "username",
-        "official"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=username-bot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=username-bot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=username-bot-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/premium-bot/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/premium-bot/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/premium-bot/3.png"
       ]
     },
     {
@@ -1101,215 +752,12 @@
       "icon": "https://telegram.me/i/userpic/320/drwebbot.svg",
       "type": "miniapp",
       "url": "https://t.me/drwebbot",
-      "tags": [
-        "tools",
-        "security",
-        "antivirus"
-      ],
+      "tags": ["tools", "security", "antivirus"],
       "verified": true,
       "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=drweb-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=drweb-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=drweb-3"
-      ]
-    },
-    {
-      "id": "designers-bot",
-      "name": "Designers Bot",
-      "shortDescription": "Submit UI ideas to improve Telegram",
-      "description": "Accepts UI layouts and animations intended to improve Telegram. Best contributions get published in @designers, Telegram's official channel for community design submissions.",
-      "icon": "https://telegram.me/i/userpic/320/design_bot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/design_bot",
-      "tags": [
-        "tools",
-        "design",
-        "official"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=designers-bot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=designers-bot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=designers-bot-3"
-      ]
-    },
-    {
-      "id": "telegram-jobs-bot",
-      "name": "Telegram Jobs Bot",
-      "shortDescription": "Careers at Telegram",
-      "description": "Lists career opportunities at Telegram and accepts candidate applications. The official entry point for Telegram hiring, mirroring the openings at telegram.org/jobs.",
-      "icon": "https://telegram.me/i/userpic/320/jobs_bot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/jobs_bot",
-      "tags": [
-        "tools",
-        "jobs",
-        "official"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=telegram-jobs-bot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=telegram-jobs-bot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=telegram-jobs-bot-3"
-      ]
-    },
-    {
-      "id": "verify-bot",
-      "name": "Verify Bot",
-      "shortDescription": "Start official channel/group verification",
-      "description": "Telegram's official verification bot. Use it to start the verification process for a Telegram channel, public group, or bot that meets Telegram's verification criteria.",
-      "icon": "https://telegram.me/i/userpic/320/verifybot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/verifybot",
-      "tags": [
-        "tools",
-        "verification",
-        "official"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=verify-bot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=verify-bot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=verify-bot-3"
-      ]
-    },
-    {
-      "id": "contest-bot",
-      "name": "Contest Bot",
-      "shortDescription": "Telegram developer & creator contests",
-      "description": "The official entry point for Telegram's developer and content creator contests. See @contest for details on current and upcoming Telegram contests, prizes, and rules.",
-      "icon": "https://telegram.me/i/userpic/320/contestbot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/contestbot",
-      "tags": [
-        "tools",
-        "contest",
-        "official"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=contest-bot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=contest-bot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=contest-bot-3"
-      ]
-    },
-    {
-      "id": "image-search",
-      "name": "Image Search",
-      "shortDescription": "Inline image search (@pic)",
-      "description": "Telegram's official inline image search bot powered by Yandex. Type @pic in any chat followed by a search query to find and share images directly in the conversation.",
-      "icon": "https://telegram.me/i/userpic/320/pic.svg",
-      "type": "miniapp",
-      "url": "https://t.me/pic",
-      "tags": [
-        "tools",
-        "search",
-        "official"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=image-search-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=image-search-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=image-search-3"
-      ]
-    },
-    {
-      "id": "mtproxy-admin-bot",
-      "name": "MTProxy Admin Bot",
-      "shortDescription": "Set up & manage MTProxy servers",
-      "description": "Telegram's official tool for setting up and managing MTProxy servers. Generate proxy configurations, sponsor channels through your proxy, and view connection statistics.",
-      "icon": "https://telegram.me/i/userpic/320/mtproxybot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/mtproxybot",
-      "tags": [
-        "tools",
-        "proxy",
-        "official"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=mtproxy-admin-bot-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=mtproxy-admin-bot-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=mtproxy-admin-bot-3"
-      ]
-    },
-    {
-      "id": "tonmobile",
-      "name": "TonMobile",
-      "shortDescription": "Buy eSIMs with TON crypto",
-      "description": "Buy eSIMs and mobile data plans with TON cryptocurrency, anywhere in the world. Pay in TON, USDT, or other crypto, activate via QR, and get connectivity without a bank or postal address.",
-      "icon": "https://telegram.me/i/userpic/320/tonmobile.svg",
-      "type": "miniapp",
-      "url": "https://t.me/tonmobile",
-      "tags": [
-        "tools",
-        "esim",
-        "ton"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=tonmobile-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=tonmobile-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=tonmobile-3"
-      ]
-    },
-    {
-      "id": "anysticker",
-      "name": "AnySticker",
-      "shortDescription": "Download & convert any sticker pack",
-      "description": "Download and convert any Telegram sticker, custom emoji, or sticker pack into open formats: TGS, JSON, Lottie, PNG, GIF, WebP, and WebM, bundled into a single ZIP. Free, instant, no account needed.",
-      "icon": "https://telegram.me/i/userpic/320/anystickerdownloadbot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/anystickerdownloadbot",
-      "tags": [
-        "tools",
-        "stickers",
-        "converter"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=anysticker-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=anysticker-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=anysticker-3"
-      ]
-    },
-    {
-      "id": "image-to-text",
-      "name": "Image To Text",
-      "shortDescription": "Free OCR inside Telegram",
-      "description": "Extract text from any image or PDF in seconds inside Telegram. Send a photo, screenshot, or document and get clean, copyable text back, with support for English, Hindi, Bengali, Arabic, Chinese, Spanish, and more.",
-      "icon": "https://telegram.me/i/userpic/320/image2textrobot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/image2textrobot",
-      "tags": [
-        "tools",
-        "ocr"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=image-to-text-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=image-to-text-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=image-to-text-3"
-      ]
-    },
-    {
-      "id": "fragment",
-      "name": "Fragment",
-      "shortDescription": "Auction TON usernames, numbers & gifts",
-      "description": "The official marketplace for collectible Telegram usernames, anonymous numbers, and gifts, settled entirely in TON. Every purchase is minted as an NFT on TON, tradable on Getgems and other secondary marketplaces.",
-      "icon": "https://placehold.co/128x128/000000/FFFFFF?text=Fragment",
-      "type": "website",
-      "url": "https://fragment.com",
-      "tags": [
-        "nft",
-        "usernames",
-        "ton"
-      ],
-      "verified": true,
-      "screenshots": [
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=fragment-1",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=fragment-2",
-        "https://placehold.co/375x812/1A1A1A/FFFFFF?text=fragment-3"
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/drweb/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/drweb/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/drweb/3.png"
       ]
     }
   ]
