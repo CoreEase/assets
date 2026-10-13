@@ -29,9 +29,7 @@
         "major",
         "catizen",
         "gamee",
-        "playdeck",
-        "group-game",
-        "bums"
+        "playdeck"
       ]
     },
     {
@@ -41,6 +39,7 @@
         "getgems",
         "portals-market",
         "mrkt",
+        "tonnel-network",
         "tonmobile"
       ]
     }
@@ -56,8 +55,8 @@
       "url": "https://t.me/notcoin_bot",
       "channel": "https://t.me/notcoin",
       "tags": ["game", "tap-to-earn", "ton", "referral"],
-      "verified": false,
-      "promoted": false, 
+      "verified": true,
+      "promoted": false,
       "screenshots": [
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/notcoin/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/notcoin/2.png",
@@ -74,8 +73,8 @@
       "url": "https://t.me/blum",
       "channel": "https://t.me/blumcrypto",
       "tags": ["game", "exchange", "defi", "referral"],
-      "verified": false,
-      "promoted": false, 
+      "verified": true,
+      "promoted": false,
       "screenshots": [
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/blum/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/blum/2.png",
@@ -92,8 +91,8 @@
       "url": "https://t.me/major",
       "channel": "https://t.me/majors",
       "tags": ["game", "tap-to-earn", "nft", "referral"],
-      "verified": false,
-      "promoted": false, 
+      "verified": true,
+      "promoted": false,
       "screenshots": [
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/major/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/major/2.png",
@@ -110,8 +109,8 @@
       "url": "https://t.me/catizenbot",
       "channel": "https://t.me/catizenann",
       "tags": ["game", "ton", "merge", "referral"],
-      "verified": false,
-      "promoted": false, 
+      "verified": true,
+      "promoted": false,
       "screenshots": [
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/catizen/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/catizen/2.png",
@@ -128,8 +127,8 @@
       "url": "https://t.me/gamee",
       "channel": "https://t.me/gameechannel",
       "tags": ["game", "arcade", "tournaments", "referral"],
-      "verified": false,
-      "promoted": false, 
+      "verified": true,
+      "promoted": false,
       "screenshots": [
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gamee/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/gamee/2.png",
@@ -146,48 +145,12 @@
       "url": "https://t.me/playdeckbot",
       "channel": "https://t.me/playdeckbot",
       "tags": ["game", "multiplayer", "html5", "referral"],
-      "verified": false,
-      "promoted": false, 
+      "verified": true,
+      "promoted": false,
       "screenshots": [
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/playdeck/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/playdeck/2.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/playdeck/3.png"
-      ]
-    },
-    {
-      "id": "group-game",
-      "name": "Group Game",
-      "shortDescription": "Word Chain & Quiz Bomb for groups",
-      "description": "Add it to a group and play Word Chain and Quiz Bomb challenges with friends. Compete in real-time rounds with shrinking timers, track scores, and earn points across a points system that rewards top finishers. Referral/invite based rewards.",
-      "icon": "https://telegram.me/i/userpic/320/groupgamebot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/groupgamebot",
-      "channel": "https://t.me/groupgamebot",
-      "tags": ["game", "group", "quiz", "referral"],
-      "verified": false,
-      "promoted": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/group-game/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/group-game/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/group-game/3.png"
-      ]
-    },
-    {
-      "id": "bums",
-      "name": "Bums",
-      "shortDescription": "Tap-to-earn mini app on TON",
-      "description": "A tap-to-earn mini app on TON with a cheeky brand and a strong focus on community memes. Players tap a character to earn Bums coins, complete daily missions, and invite friends for boosted multipliers. Clear referral profit system.",
-      "icon": "https://telegram.me/i/userpic/320/bums.svg",
-      "type": "miniapp",
-      "url": "https://t.me/bums",
-      "channel": "https://t.me/bums_official",
-      "tags": ["game", "tap-to-earn", "ton", "referral"],
-      "verified": false,
-      "promoted": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/bums/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/bums/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/bums/3.png"
       ]
     },
     {
@@ -200,8 +163,8 @@
       "url": "https://t.me/getgems",
       "channel": "https://t.me/getgems",
       "tags": ["nft", "marketplace", "ton", "referral"],
-      "verified": false,
-      "promoted": false, 
+      "verified": true,
+      "promoted": false,
       "screenshots": [
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/getgems/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/getgems/2.png",
@@ -218,8 +181,8 @@
       "url": "https://t.me/portals_market_bot",
       "channel": "https://t.me/portals_market_bot",
       "tags": ["nft", "marketplace", "ton", "referral"],
-      "verified": false,
-      "promoted": false, 
+      "verified": true,
+      "promoted": false,
       "screenshots": [
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/portals-market/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/portals-market/2.png",
@@ -230,14 +193,14 @@
       "id": "mrkt",
       "name": "MRKT",
       "shortDescription": "NFT marketplace for gifts & stickers",
-      "description": "TON-based NFT marketplace mini app for trading Telegram gifts, stickers, and collectibles. Supports auctions, multi-item listings, rarity filters, and direct TON wallet integration. Referral links available.",
+      "description": "TON-based NFT marketplace mini app for trading Telegram gifts, stickers, and collectibles. Supports auctions, multi-item listings, rarity filters, and direct TON wallet integration",
       "icon": "https://telegram.me/i/userpic/320/mrkt.svg",
       "type": "miniapp",
       "url": "https://t.me/mrkt",
       "channel": "https://t.me/mrkt",
       "tags": ["nft", "marketplace", "gifts", "referral"],
-      "verified": false,
-      "promoted": false, 
+      "verified": true,
+      "promoted": false,
       "screenshots": [
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/mrkt/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/mrkt/2.png",
@@ -245,17 +208,35 @@
       ]
     },
     {
+      "id": "tonnel-network",
+      "name": "Tonnel Network",
+      "shortDescription": "Buy and sell your Telegram Gifts simply and quickly!",
+      "description": "One of the oldest marketplaces for trading upgraded Telegram Gifts. Tonnel Network operates through a Telegram bot (@tonnel_network_bot) and a mini app. It offers low seller fees, trustless on-chain escrow via TON smart contracts, and advanced floor-price analytics across collections. Supports all upgraded Telegram Gifts that exist as NFTs on TON. Ideal for high-volume traders and arbitrage.",
+      "icon": "https://telegram.me/i/userpic/320/tonnel_network_bot.svg",
+      "type": "miniapp",
+      "url": "https://t.me/tonnel_network_bot/gifts?startapp=ref_6793556284",
+      "channel": "https://t.me/tonnel_en",
+      "tags": ["nft", "marketplace", "gifts", "ton", "referral"],
+      "verified": true,
+      "promoted": false,
+      "screenshots": [
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/tonnel-network/1.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/tonnel-network/2.png",
+        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/tonnel-network/3.png"
+      ]
+    },
+    {
       "id": "tonmobile",
       "name": "Ton Mobile",
       "shortDescription": "Internet for travel",
-      "description": "Ton Mobile — Internet for travel. eSIM and data plans for travelers with referral system.",
+      "description": "Ton Mobile — Internet for travel. eSIM and data plans for travelers",
       "icon": "https://telegram.me/i/userpic/320/Mobile.svg",
       "type": "miniapp",
       "url": "https://t.me/Mobile/app?startapp=code_OOTB58V",
-      "channel": "https://t.me/Mobile",
+      "channel": "https://t.me/tonmobile_en",
       "tags": ["marketplace", "ton", "referral"],
       "verified": true,
-      "promoted": false, 
+      "promoted": false,
       "screenshots": [
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/tonmobile/1.png",
         "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/tonmobile/2.png",
