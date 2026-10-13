@@ -18,7 +18,6 @@
       "id": "gaming",
       "name": "Gaming",
       "apps": [
-        "notcoin",
         "blum",
         "major",
         "catizen",
@@ -39,24 +38,6 @@
     }
   ],
   "apps": [
-    {
-      "id": "notcoin",
-      "name": "Notcoin",
-      "shortDescription": "The original tap-to-earn game on Telegram",
-      "description": "The original tap-to-earn game on Telegram. Players tapped a gold coin to mine Notcoin during a months-long mining phase, then claimed the NOT token on TON after it listed on major exchanges. Credited with kicking off the wave of clicker mini apps in 2024. Strong referral system for earning.",
-      "icon": "https://telegram.me/i/userpic/320/notcoin_bot.svg",
-      "type": "miniapp",
-      "url": "https://t.me/notcoin_bot",
-      "channel": "https://t.me/notcoin",
-      "tags": ["game", "tap-to-earn", "ton", "referral"],
-      "verified": true,
-      "promoted": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/notcoin/1.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/notcoin/2.png",
-        "https://raw.githubusercontent.com/CoreEase/assets/refs/heads/main/dapps/screenshot/notcoin/3.png"
-      ]
-    },
     {
       "id": "blum",
       "name": "Blum",
@@ -152,9 +133,9 @@
       "name": "Getgems",
       "shortDescription": "The largest NFT marketplace on TON",
       "description": "The largest NFT marketplace on The Open Network. Getgems hosts collections of Telegram usernames, anonymous numbers, gifts, domains, and original art, with auctions, trait-based filtering, and a built-in launchpad. Supports referral links.",
-      "icon": "https://telegram.me/i/userpic/320/getgems.svg",
+      "icon": "https://telegram.me/i/userpic/320/GetgemsNftBot.svg",
       "type": "miniapp",
-      "url": "https://t.me/getgems",
+      "url": "https://t.me/GetgemsNftBot",
       "channel": "https://t.me/getgems",
       "tags": ["nft", "marketplace", "ton", "referral"],
       "verified": true,
