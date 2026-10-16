@@ -1,7 +1,14 @@
 {
-  "name": "Swiss Watches",
-  "description": "Swiss Watches is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
-  "image": "https://nft.fragment.com/collection/swisswatch.webp",
-  "cover_image": "https://nft.fragment.com/collection/swisswatch.webp",
-  "external_link": "https://fragment.com/gifts/swisswatch"
+  "name": "Gemmy",
+  "description": "In a land where gems roamed freely, one gem encountered another, and another, each embodying its unique brilliance. Finding kinship in a shared vision, a zest for pioneering tech, and the thrill of mischief. Thus, the story of the Gemmy began. As word spread, countless other gems resonated with this vibe, calling for an epic convergence of LOLs. And so, Pearls rained down.\n\nWelcome to the Gemmy collection, a digital collectible drop within Pearls by Gems - a space where artists, creators, and projects partner with the Getgems team, crafting curated art in a collaborative showcase.",
+  "image": "https://s.getgems.io/nft/b/c/658eaa3c8145b724d4625bb3/image.png",
+  "cover_image": "https://s.getgems.io/nft/b/c/658eaa3c8145b724d4625bb3/cover.png", 
+  "marketplace": "getgems.io", 
+  "external_url": null,
+  "external_link": null,
+  "social_links": [
+    "https://t.me/pearlsdrop",
+    "https://t.me/pearls_drop_bot",
+    "https://t.me/PearlsDropChat"
+  ]
 }
