@@ -3,6 +3,7 @@
     {
       "id": "join-channel",
       "type": "channel",
+      "image": "https://telegram.me/i/userpic/320/your_channel.svg", 
       "title": { "en": "Join our channel", "ar": "انضم إلى قناتنا" },
       "description": { "en": "Subscribe to get news and offers", "ar": "اشترك لتصلك الأخبار والعروض" },
       "reward": 100,
