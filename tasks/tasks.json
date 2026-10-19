@@ -1,0 +1,31 @@
+{
+  "tasks": [
+    {
+      "id": "join-channel",
+      "type": "channel",
+      "title": { "en": "Join our channel", "ar": "انضم إلى قناتنا" },
+      "description": { "en": "Subscribe to get news and offers", "ar": "اشترك لتصلك الأخبار والعروض" },
+      "reward": 100,
+      "url": "https://t.me/your_channel",
+      "chat": "@your_channel"
+    },
+    {
+      "id": "visit-partner-app",
+      "type": "link",
+      "title": { "en": "Try our partner app", "ar": "جرّب تطبيق شريكنا" },
+      "reward": 50,
+      "url": "https://t.me/partner_bot/app",
+      "minSeconds": 15
+    },
+    {
+      "id": "partner-signup",
+      "type": "callback",
+      "title": { "en": "Sign up in the partner app", "ar": "سجّل في تطبيق الشريك" },
+      "reward": 200,
+      "url": "https://t.me/partner_bot/app",
+      "verifyUrl": "https://partner.example.com/api/verify",
+      "minSeconds": 10,
+      "expiresAt": "2027-01-01T00:00:00Z"
+    }
+  ]
+}
