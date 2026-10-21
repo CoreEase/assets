@@ -1090,21 +1090,12 @@
       "floorPrice": null
     },
     {
-      "id": "5872744075014177223",
-      "address": null,
-      "rawAddress": null,
-      "name": "Lucky Lockets",
-      "description": null,
-      "image": null,
-      "floorPrice": null
-    },
-    {
       "id": "5832279504491381684",
-      "address": null,
-      "rawAddress": null,
+      "address": "EQAHWCcCPemUaTE5FCrsMkD07LdYIlitIJqi-IYNHldKEhCH",
+      "rawAddress": "0:075827023de994693139142aec3240f4ecb7582258ad209aa2f8860d1e574a12",
       "name": "Resistance Dogs",
-      "description": null,
-      "image": null,
+      "description": "Resistance Dogs is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page.",
+      "image": "https://nft.fragment.com/collection/resistancedog.webp",
       "floorPrice": null
     }
   ]
